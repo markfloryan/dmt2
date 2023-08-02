@@ -1,0 +1,130 @@
+\documentclass[12pt]{article}
+\usepackage[top=1in,bottom=1in,left=0.75in,right=0.75in,centering]{geometry}
+\usepackage{fancyhdr}
+\usepackage{epsfig}
+\usepackage[pdfborder={0 0 0}]{hyperref}
+\usepackage{palatino}
+\usepackage{wrapfig}
+\usepackage{lastpage}
+\usepackage{color}
+\usepackage{ifthen}
+\usepackage[table]{xcolor}
+\usepackage{graphicx,type1cm,eso-pic,color}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{wasysym}
+
+\def\course{CS 3120: Discrete Math and Theory II}
+\def\homework{What is a computer? Proof Techniques}
+\def\semester{Fall 2023}
+
+\newboolean{solution}
+\setboolean{solution}{false}
+
+% add watermark if it's a solution exam
+% see http://jeanmartina.blogspot.com/2008/07/latex-goodie-how-to-watermark-things-in.html
+\makeatletter
+\AddToShipoutPicture{%
+\setlength{\@tempdimb}{.5\paperwidth}%
+\setlength{\@tempdimc}{.5\paperheight}%
+\setlength{\unitlength}{1pt}%
+\put(\strip@pt\@tempdimb,\strip@pt\@tempdimc){%
+\ifthenelse{\boolean{solution}}{
+\makebox(0,0){\rotatebox{45}{\textcolor[gray]{0.95}%
+{\fontsize{5cm}{3cm}\selectfont{\textsf{Solution}}}}}%
+}{}
+}}
+\makeatother
+
+\pagestyle{fancy}
+
+\fancyhf{}
+\lhead{\course}
+\chead{Page \thepage\ of \pageref{LastPage}}
+\rhead{\semester}
+%\cfoot{\Large (the bubble footer is automatically inserted into this space)}
+
+\setlength{\headheight}{14.5pt}
+
+\newenvironment{itemlist}{
+\begin{itemize}
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}}
+{\end{itemize}}
+
+\newenvironment{numlist}{
+\begin{enumerate}
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}}
+{\end{enumerate}}
+
+\newcounter{pagenum}
+\setcounter{pagenum}{1}
+\newcommand{\pageheader}[1]{
+\clearpage\vspace*{-0.4in}\noindent{\large\bf{Page \arabic{pagenum}: {#1}}}
+\addtocounter{pagenum}{1}
+\cfoot{}
+}
+
+\newcounter{quesnum}
+\setcounter{quesnum}{1}
+\newcommand{\question}[2][??]{
+\begin{list}{\labelitemi}{\leftmargin=2em}
+\item [\arabic{quesnum}.] {} {#2}
+\end{list}
+\addtocounter{quesnum}{1}
+}
+
+
+\definecolor{red}{rgb}{1.0,0.0,0.0}
+\newcommand{\answer}[2][??]{
+\ifthenelse{\boolean{solution}}{
+\color{red} #2 \color{black}}
+{\vspace*{#1}}
+}
+
+\definecolor{blue}{rgb}{0.0,0.0,1.0}
+
+\begin{document}
+
+\section*{\homework}
+
+
+\question[3]{
+Suppose you have an alphabet $\Sigma$ that has a specific length $m$ (i.e., $|\Sigma|=m$). How long is the alphabet $\Sigma^n$? In other words, what is the value of $|\Sigma^n|$? Write out your formula and provide 1 or 2 sentences justifying the formula.
+}
+
+\vspace{12pt}
+
+\question[3]{
+If the set $A$ has $a$ elements, and the set $B$ has $b$ elements, how many elements are in $A x B$? Explain your answer in a sentence or two.
+}
+
+\vspace{12pt}
+
+\question[3]{
+Suppose that $\Sigma = \{0,1\}$. Given the following intuitive descriptions of alphabets, provide a description of each of the same alphabets using formal, set notation.
+
+\begin{itemize}
+	\item Strings that begin with $011$ or begin with $100$.
+	\item Strings that contain four $1$s in a row at least once.
+	\item Strings that have two $1$s in a row somewhere in the string. However, the two ones are NOT the first two characters or the last two characters.
+\end{itemize}
+}
+
+
+\question[3]{
+Suppose I build a new computing machine that can be programmed to recognize a lot of different functions! It is called the \emph{Flogrammable Device}. In order to program this machine, you can type out your program on a \emph{tape}, but this type can only hold ten unique charactes. Each character is from the alphabet $\Sigma=\{a,b,c,0,1\}$ and any combination of these 10 characters is a valid program. You CANNOT have fewer than 10 characters or the code will not compile.\\
+\\
+Now suppose that you read online that somehow, there are only 10,000,000 important functions that need to be computed by the \emph{Flogrammable Device} for it to cover all important functionality. Can we program each of the 10,000,000 functions on this machine? How do you know or not?
+}
+
+\vspace{12pt}
+
+\question[3]{
+\textbf{Proof Practice:} Prove that every graph $G = (V,E)$ such that $|V| \geq 2$ contains two nodes with equal degrees.
+}
+
+
+
+\end{document}

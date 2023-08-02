@@ -1,0 +1,210 @@
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{diagbox}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+\usepackage{mdframed}
+\usepackage{epstopdf}
+\usepackage[font=footnotesize]{caption}
+\usepackage{subcaption}
+\usepackage{cite}
+\usepackage{color}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{bbding}
+\usepackage[hidelinks]{hyperref}
+\usepackage{verbatim}
+\usepackage{comment}
+\graphicspath{{figures/}{pictures/}{images/}{./}} % where to search for the images
+\DeclareGraphicsExtensions{.pdf,.png,.jpg,.jpeg,.eps} % for pdflatex we expect .pdf, .png, or .jpg files
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\newcommand{\note}[1]{{\color{blue} \textit{note: #1}}}
+\newcommand{\done}{{\color{green} \CheckmarkBold}}
+\newcommand{\timeline}[1]{{\color{red} -- #1}}
+\begin{document}
+
+%\textbf{\Large UNDER CONSTRUCTION!!!}\\
+\textbf{\Large CS 3120: Discrete Math and Theory 2} \hfill \textbf{\Large Fall 2023}
+
+\vskip 0.5in 
+
+\makebox[\textwidth][c]{
+\begin{tabular}{p{2.6in}p{2.6in}}
+    \textbf{Tu/Th 12:30 pm--1:45 pm} in \textbf{Gilmer 301} \\
+    \textbf{Instructor:} Mark Floryan & \\
+    Email: \url{mfloryan@cs.virginia.edu} & \\
+    Office: Rice Hall 203 & \\
+   Office Hours: See course website & \\
+%   &  \hskip 0.2in  Mo/We 1:30--2:30 pm; and,\\
+%   &  \hskip 0.2in Tu noon--12:45 pm; and,\\
+%   &  \hskip 0.2in  Fr 11:00--noon\\
+%     \hskip 0.2in Tu 3:00p-4:00p & \hskip 0.2in Tu/Th 10:30-11:30a,\\
+%     \hskip 0.2in  & \hskip 0.2in Th 1:00-2:00p  %\\
+    %Regrades: tbd & Regrades: tbd 
+    %\hskip 0.2in Th 11:00a-12:30p (CS 4102) & \hskip 0.2in W 4:00p-6:00p \\
+    %\hskip 0.2in {\color{darkgray} W 2:00p-3:30p (CS 2110)} & \hskip 0.2in \\
+    %Regrades: Tu 4:00p-5:00p & Regrades: Tu 4:00p-5:00p
+\end{tabular}}
+
+\vskip 0.1in
+\textbf{Teaching Assistants:} See course website.  Office hours will be done in-person. There may be some online office hours depending on the number of teaching assistants and the preferences of the students and course staff.
+
+\vskip 0.1in
+\textbf{Course website:} {\tt https://markfloryan.github.io/dmt2/} (We will also use Collab.)
+
+\textbf{Prerequisites:} CS 4102 (old curriculum) or CS 3100 (new curriculum) with grades of C- or higher (Prerequisites are important to this course and will be enforced!)
+
+\section*{Overview}
+
+\textbf{Course Description:} The goal of this course is to understand the fundamental limits on what can be efficiently computed. These limits reveal properties about information, communication, and computing, as well as practical issues about how to solve problems. Introduces computation theory including grammars, automata, and Turing machines.
+
+\textbf{Availability:} It is important to us to be available to our students, and to address their concerns.  If you cannot meet with us during our office hours, e-mail us and we will find the time to meet. That being said, like everybody else we are quite busy, so it may take a day or more to find a time to meet. And if you have any comments on the course---what is working, what is not working, what can be done better, etc.---we are very interested in hearing about them.  Please send Prof.\ Floryan or one of the TAs an e-mail or post privately on Piazza to the instructors.  When sending email, include ``CS3120'' in the subjecdt line. If your question could be answered by either professor or even a TA, a post on Piazza to "instructors" may get a faster response.
+
+
+\textbf{Course Objectives:} Students who complete the course will:
+\begin{itemize}
+    \item Improve their mathematical thinking skill and habits, including thinking precisely about definitions, stating assumptions carefully, critically reading arguments, and being able to write convincingly.
+
+    \item Be able to understand both finite and infinite formal models of computation and to reason about what they can and cannot compute.
+
+    \item Understand both intuitively and formally what makes some problems too expensive to solve, and what can be done in practice when an unsolvable or intractable problem is encountered.
+
+    \item Reason formally about the cost of computation, and be able to prove useful bounds on the costs of solving problems, including showing that certain problems are intractable.
+
+    \item Learn about some interesting aspects of theoretical computer science, including cryptography and machine learning.
+\end{itemize}
+
+\textbf{Textbook:} \textit{Introduction to the Theory of Computation, Second Edition} by Michael Sipser.\\
+
+%\textbf{Note:} How much we ask you to read from this textbook may vary between instructors. Your instructor will say more about this in class.
+
+\textbf{Additional Resources:} We will make additional optional textbooks and resources available on the course website.
+
+\section*{Class Delivery and Covid-19:}
+
+Lectures and quizzes will be given in-person.  (If the university changes its policy due to changing circumstances, this may change. We will follow university guidance in such matters.) We will do our best to make recordings of lectures available on the Collab site.
+
+We will follow the university's guidance on dealing with Covid. At the time of this writing, all Covid related restrictions have been lifted.
+
+%Each lecture in this course will be split into two halves, a asynchronous recorded portion and a live in-person portion. The total combined time for these lecture portions will be equal (or very close) to the normal lecture time (1 hour, 15 minutes).
+%\begin{itemize}
+%\item The asynchronous recorded lecture  is intended to introduce the basic core material for each lecture. Students can watch this before class, or during the first half of class, before the in-person portion begins.
+%\item The live in-person portion of class will take place on Zoom, and will focus on extra examples, more complicated proofs, and other such things that require or benefit from an in-person explanation.
+%\end{itemize}
+%Because of this split, the first 35 minutes of lecture will be reserved for students who wish to watch the recorded lecture during reserved class time. For example, if class is scheduled from 11--12:15, there will not be class from 11--11:35 so students may watch the recording (or students may watch it ahead of time, up to you). In-person class begins at 11:35 and will proceed until 12:15.
+
+
+\section*{Coursework and Grading}
+
+The course is divided into 5 {\bf modules} that build upon one another:
+\begin{itemize}
+    \item Introduction, Review, and Cardinality
+    \item Regular Languages
+    \item Context-Free Grammars
+    \item Turing Machines and Reducibility
+    \item Complexity Theory
+\end{itemize}
+The modules are an average of 2-3 weeks worth of content. The schedule is shown on the course website. 
+
+\textbf{Exams:}  There will be two traditional midterm exams. The dates will be filled in below once they are set.
+
+\begin{tabular}{ll}
+TBD	&	Exam 1 \\
+TBD	&	Exam 2 \\
+\end{tabular}
+
+\textbf{Exam Makeup Policy:} Exam makeups, in general, will not be allowed for any reason. The quizzes are designed such that each student is entitled to more than one attempt at each quiz. Therefore, if a quiz is missed for any reason AND the student still has more than one attempt at the quizzes in question available then no makeup will be provided.\\
+\\
+However, if a student misses quizzes to a point that only one attempt is available at any given quiz, then a makeup quiz can be scheduled so that everyone has more than one attempt at every quiz. The student should contact the instructor to schedule this makeup. 
+
+\textbf{Homeworks:} Homeworks fall into two categories:  ``written'' and ``programming.'' Programming homeworks can use Python, Java or C++. Some assignments may require a write-up in addition to code.  Written homeworks may include small problems, runtime analysis, proofs, etc.   See section about \LaTeX{} below.
+
+\textbf{Grading:} This course has a system for determining grades that is unlike many courses, and is fully explained on the course website under ``Course Logistics.'' Full details are explained there, but here are the major points.
+\begin{itemize}
+    \item We will use a grading approach based on a an approach called {\it mastery learning\/}. Our approach tries to model the CS department's official policy on what course grades should mean, found at {\tt http://ugrads.cs.virginia.edu/grading-guidelines.html}
+    \item Quizzes are scored at one of three levels:  incomplete, pass, or high-pass.
+    \item Homeworks are scored at one of two levels:  incomplete or pass.
+    \item With some limitations, a quiz can be re-taken or homework can be re-submitted to earn a higher score.
+    \item To pass a module, you must pass the module's homework (all of them) and get a pass or high-pass on its quiz. There is a second way to pass a module: If you high-pass the quiz, but don't pass one or more homework for that module, then the module is considered passed.
+    \item To high-pass a module, you must pass all of the homework for that module AND high-pass the quiz for that module.
+    \item Your final letter grade is determined by how many modules you pass. Also, earning high-passes on modules can raise your grade a bit more.
+    \item The website has a table showing what you need to achieve to reach a particular letter grade.
+\end{itemize}
+This system is unlike that of most courses in CS you've taken, and we expect you will have questions throughout the semester. We believe it will benefit students in the course. We'll do our best to clear up any confusion throughout the course. We do reserve the right to tweak this grading system in small ways if we think it will correct a problem or better serve the class as a whole.
+
+
+\textbf{\LaTeX:} Written assignments must be typeset with \LaTeX, a professional formatting system. Tutorials on how to use \LaTeX{} will be made available when the first written problem set is released. \LaTeX{} is easily installable on many computers: 
+\begin{itemize}
+    \item Overleaf, \url{http://overleaf.com}: a Web-hosted \LaTeX{} editor which behaves much like Google Docs.
+    \item Cygwin has \LaTeX{} packages that can be installed
+    \item MiKTeX provides a stand-alone installer for Windows and Mac, \url{miktex.org}
+    \item Ubuntu and CentOS provide TeXLive packages in their repos
+    \item LyX, TexShop, TeXworks, and TeXStudio are GUI editors available either through the MiKTeX and TeXLive repos or available as separate downloads.
+\end{itemize}
+We strongly recommend using Overleaf, \url{http://overleaf.com}, since it contains all the necessary packages and works in-browser. We generally will not accept \LaTeX{} documents with images of text or formulas; \textbf{you must typeset the formulas in \LaTeX}, not in another program and have them exported as images.
+
+\textbf{Submission System:} All homeworks will be submitted via GradeScope. Details will be explained later in the course. 
+
+\textbf{Homework Late Policy:} For homeworks, there will be a suggested date to submit each homework (before the first attempt at the quiz on that module). Any homework can be submitted as late as the deadline posted on the course website (near the end of the semester).
+
+\textbf{Regrades:} We believe that the re-submission policies in this course will make re-grade requests much less frequent.  However, if you believe a quiz or homework was not graded correctly, we will allow you to make such a request. The exact procedure and policy will be announced later in the term.
+
+\section*{Collaboration Policy}
+
+\textbf{Quizzes:} Quizzes are always individual assignments; collaboration with others is not allowed.  Any solutions that share similar text or code will be considered in breach of this policy.
+
+\textbf{Homeworks:} You are encouraged to collaborate with up to 4 other students in the course on each homework, but all work submitted must be your own independently written solution.  While you may discuss techniques and collectively solve the problems in your group, you may \textbf{not} share any files or look at each others' write-up or code. For instance, sharing source code files or Overleaf or Google Docs is \textbf{not} allowed.  Likewise, pair programming or sharing the debugging of code are \textbf{not} allowed.  Any solutions that share similar text or code will be considered in breach of this policy. You \textbf{must} list the names and computing IDs of all of your collaborators in your submitted \texttt{tex}, \texttt{py}, and \texttt{java} files.
+
+We encourage you \textbf{not} to seek published or online solutions for any assignment, since this is not a good way to learn. Studying code online is permitted, but only for getting ideas about how to address a programming solution. 
+Copying or reusing code from an online source violates the honor pledge for that homeowrk. 
+You must cite sources of any online code you use in this way in a comment in your source file(s)
+
+Any submission which is discovered to be similar to a published solution or one found online will be considered in breach of this policy.
+
+Note that it is a violation of this policy to submit a problem solution that you are unable to explain orally to a member of the course staff, and we reserve the right to spot-check for this requirement and to use tools like {\tt moss} etc. to detect shared code.
+
+\textbf{Penalty:} Assignments or quizzes where violations of this policy occur will receive a \textbf{zero} grade for that entire MODULE or one letter grade (if the module is already failed). Second infractions will result in a \textbf{failing (F)} grade in the course.  Any infractions will also be submitted to the Honor Committee if deemed appropriate.
+
+\section*{Additional Information}
+
+%\textbf{Inclement weather, power outages, etc.:} Online classes may still be affected by inclement weather or power outages.  Our class will proceed as normal even if the university cancels in-person classes. We will record every ``live'' session of class, so if a student loses power and cannot attend they can view the recording later.  If neither of the professors can host a live session because of power outages, we'll use our phones to announce that using Collab.
+
+\textbf{Special Circumstances:} The University of Virginia strives to provide accessibility to all students. If you require an accommodation to fully access this course, please contact the Student Disability Access Center (SDAC) at (434) 243-5180 or \url{sdac@virginia.edu}. If you are unsure if you require an accommodation, or to learn more about their services, you may contact the SDAC at the number above or by visiting their website \url{http://studenthealth.virginia.edu/sdac}.
+
+For this course, we ask that students with special circumstances let us know as soon as possible, preferrably during the \textbf{first week of class}.
+
+\textbf{Religious Accommodations:} It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.  Students who wish to request academic accommodation for a religious observance should submit their request in writing to Prof. Floryan as far in advance as possible. If you have questions or concerns about academic accommodations for religious observance or religious beliefs, visit 
+
+\begin{center} 
+    \url{https://eocr.virginia.edu/accommodations-religious-observance}
+\end{center}
+
+or contact the University's Office for Equal Opportunity and Civil Rights (EOCR) at \url{UVAEOCR@virginia.edu} or 434-924-3200.  Accommodations do not relieve you of the responsibility for completion of any part of the coursework missed as the result of a religious observance.
+
+\textbf{Safe Environment:} The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. To that end, it is vital that you know two values that we and the University hold as critically important:
+ 
+\begin{enumerate}
+    \item Power-based personal violence will not be tolerated. 
+    \item Everyone has a responsibility to do their part to maintain a safe community on Grounds.
+\end{enumerate}
+
+If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available -- \url{www.virginia.edu/sexualviolence}. 
+   
+As your professor and as a person, know that we each care about you and your well-being and stand ready to provide support and resources as we can. As a faculty member, we are responsible employees, which means that we are required by University policy and federal law to report what you tell us to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also reviewing the information presented to determine whether further action is necessary to ensure survivor safety and the safety of the University community. If you would rather keep this information confidential, there are Confidential Employees you can talk to on Grounds (See \url{http://www.virginia.edu/justreportit/confidential\_resources.pdf}). The worst possible situation would be for you or your friend to remain silent when there are so many here willing and able to help.
+
+\textbf{Well-being:} If you are feeling overwhelmed, stressed, or isolated, there are many individuals here who are ready and wanting to help. The Student Health Center offers Counseling and Psychological Services (CAPS) for all UVA students. Call 434-243-5150 (or 434-972-7004 for after hours and weekend crisis assistance) to get started and schedule an appointment. If you prefer to speak anonymously and confidentially over the phone, Madison House provides a HELP Line at any hour of any day: 434-295-8255.
+
+\textbf{Syllabus Note:} This syllabus is to be considered a reference document that may be adjusted throughout the course of the semester to address necessary changes. This syllabus can be changed at any time without notification; it is up to the student to monitor the website for news of any changes. Final authority on any decision in this course rests with the professor, not with this document.
+
+\textbf{Research:}
+Your class work might be used for research purposes. For example, we may use anonymized scores from student assignments to compare to other student performance data. Any student who wishes to opt out can contact the instructor or TA to do so after final grades have been issued. This has no impact on your grade in any manner. 
+
+
+
+\end{document}  
