@@ -1,0 +1,131 @@
+\documentclass[12pt]{article}
+\usepackage[top=1in,bottom=1in,left=0.75in,right=0.75in,centering]{geometry}
+\usepackage{fancyhdr}
+\usepackage{epsfig}
+\usepackage[pdfborder={0 0 0}]{hyperref}
+\usepackage{palatino}
+\usepackage{wrapfig}
+\usepackage{lastpage}
+\usepackage{color}
+\usepackage{ifthen}
+\usepackage[table]{xcolor}
+\usepackage{graphicx,type1cm,eso-pic,color}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+
+\def\course{CS 3120: Discrete Math and Theory II}
+\def\homework{Set Cardinality}
+\def\semester{Fall 2023}
+
+\newboolean{solution}
+\setboolean{solution}{false}
+
+% add watermark if it's a solution exam
+% see http://jeanmartina.blogspot.com/2008/07/latex-goodie-how-to-watermark-things-in.html
+\makeatletter
+\AddToShipoutPicture{%
+\setlength{\@tempdimb}{.5\paperwidth}%
+\setlength{\@tempdimc}{.5\paperheight}%
+\setlength{\unitlength}{1pt}%
+\put(\strip@pt\@tempdimb,\strip@pt\@tempdimc){%
+\ifthenelse{\boolean{solution}}{
+\makebox(0,0){\rotatebox{45}{\textcolor[gray]{0.95}%
+{\fontsize{5cm}{3cm}\selectfont{\textsf{Solution}}}}}%
+}{}
+}}
+\makeatother
+
+\pagestyle{fancy}
+
+\fancyhf{}
+\lhead{\course}
+\chead{Page \thepage\ of \pageref{LastPage}}
+\rhead{\semester}
+%\cfoot{\Large (the bubble footer is automatically inserted into this space)}
+
+\setlength{\headheight}{14.5pt}
+
+\newenvironment{itemlist}{
+\begin{itemize}
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}}
+{\end{itemize}}
+
+\newenvironment{numlist}{
+\begin{enumerate}
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}}
+{\end{enumerate}}
+
+\newcounter{pagenum}
+\setcounter{pagenum}{1}
+\newcommand{\pageheader}[1]{
+\clearpage\vspace*{-0.4in}\noindent{\large\bf{Page \arabic{pagenum}: {#1}}}
+\addtocounter{pagenum}{1}
+\cfoot{}
+}
+
+\newcounter{quesnum}
+\setcounter{quesnum}{1}
+\newcommand{\question}[2][??]{
+\begin{list}{\labelitemi}{\leftmargin=2em}
+\item [\arabic{quesnum}.] {} {#2}
+\end{list}
+\addtocounter{quesnum}{1}
+}
+
+
+\definecolor{red}{rgb}{1.0,0.0,0.0}
+\newcommand{\answer}[2][??]{
+\ifthenelse{\boolean{solution}}{
+\color{red} #2 \color{black}}
+{\vspace*{#1}}
+}
+
+\definecolor{blue}{rgb}{0.0,0.0,1.0}
+
+\begin{document}
+
+\section*{\homework}
+
+
+\question[3]{
+Prove that the set of rational numbers $\mathbb{Q}=\frac{a}{b}$ where $a \in \mathbb{Z}$ and $b \in \mathbb{Z}^+$ is countable. \emph{Hint: find a bijection between $\mathbb{Z} \times \mathbb{Z}^+$ and $\mathbb{N}$}
+}
+
+\vspace{12pt}
+
+\question[3]{
+Use a proof by diagonalization to show that the following set is uncountable:\\
+\\
+$F=\{ f:\mathbb{N} \rightarrow \mathbb{N} | (a>b) \rightarrow (f(a) > f(b)) \}$
+\\
+\\
+In other words, this is the seet of all strictly increasing functions that map natural numbers to natural numbers. A function is strictly increasing if larger inputs are guaranteed to produce larger outputs.\\
+\\
+For example, $f(x)=x^2$ is strictly increasing since if $a>b$, then $a^2>b^2$. However, $f(x)=(x-5)^2$ is not strictly increasing since $1<2$ but $f(1) > f(2)$.
+}
+
+\vspace{12pt}
+
+\question[3]{
+Prove that every subset of the natural numbers $\mathbb{N}$ is countable.
+}
+
+\vspace{12pt}
+
+\question[3]{
+Prove the following claim: If $A$ is a countably infinite set (i.e., $|A|=|\mathbb{N}|$) and $B$ is a finite set (i.e., $|B|=n | n \in \mathbb{N}$), then $A \cup B$ is also countable.
+}
+
+\vspace{12pt}
+
+\question[3]{
+Prove the following claim: If $A$ is a countably infinite set (i.e., $|A|=|\mathbb{N}|$) and $B$ is a also a countably infinite set (i.e., $|B| = |\mathbb{N}|$), then $A \cup B$ is also countable.
+}
+
+\vspace{12pt}
+
+\end{document}
