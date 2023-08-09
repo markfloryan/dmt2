@@ -25,45 +25,64 @@ We’ll post readings from the following textbook, and we urge you to read them 
 *Introduction to the Theory of Computation* by Michael Sipser, 2nd edition.
 
 
-<a name="lectures"></a>Modules / Exams
+<a name="lectures"></a>Modules
 ------------------------------------------
 
-The course is divided into **7 modules**, each which lasts for about 2-3 weeks each. The 7 modules are listed below:
+The course is divided into **5 modules**, each which lasts for about 2-5 lectures each. The 5 modules are listed below:
 
-- **Module 1: What is a computer?**
-- **Module 2: Review of Proof Techniques** 
-- **Module 3: Set Cardinality / Infinite Sets**
-- **Module 4: Regular Languages** 
-- **Module 5: Context-Free Grammars** 
-- **Module 6: Turing Machines** 
-- **Module 7: Complexity Theory**
+- **Module 1: Introduction, Proofs, Cardinality**
+- **Module 2: Regular Languages** 
+- **Module 3: Context-Free Grammars** 
+- **Module 4: Turing Machines and Decidability** 
+- **Module 5: Complexity Theory**
 
-We will have two midterm exams in the course. These will be traditional midterm exams. The current dates for these exams are:
-
-- **Midterm 1:** Thu. Oct. 12
-- **Midterm 2:** Thu. Nov. 16
-
-These dates are subject to change.
-
-<a name="final"></a>Final Exam
+<a name="final"></a> Quizzes
 ----------------------------------------------------------
 
-There will be a traditional, 3-hour final exam for this course. The final exam date is Friday, December 8 from 2-5pm
+Each module has one quiz associated with it, and you are expected to be able to take two quizzes during one lecture (75 minute period). Each individual quiz will be written to take about 30 minutes with a 7-8 minute buffer time built into the testing time. In addition, there is a final exam quiz that contains material from the entire semester (summative) that will be taken during the final exam (nore detail in final exam section belwo). The current dates for taking quizzes are as follows:
 
+- **First quiz day (Modules 1 and 2):** Thu. Oct. 12
+- **Second quiz day (Modules 3 and 4):** Thu. Nov. 9
+- **Final exam quiz day (Modules 5, final exam quiz, and retakes):** Fri. Dec. 8
+
+These dates are subject to change. Each quiz will be graded separately, and thus you will earn a different grade for each individual quiz. Some quizzes can be retaken to improve your grade (modules 1-4). Some quizzes (module 5, the sixth summative quiz) can only be taken once due to time constraints.
+
+
+<a name="homeworks"></a>Final Exam
+----------------------------------------------------------
+
+The final exam is scheduled for Friday, Dec. 8 from 2-5pm. During this 3-hour exam period you will take 2-6 quizzes, depending on your specific situation in the class. The quizzes will be made available to you individual and you can take the ones that best suit your needs. The quizzes are:
+
+- **Module 5 quiz:** Everybody will, probably, take this quiz as it is your first and only attempt at the module 5 quiz
+- **Final Exam quiz:** Summative final exam quiz that will ask you to questions across the five modules. This quiz will ask you to draw on knowledge from multiple modules.
+- **Retake Modules 1-4**: A second version of quizzes 1-4 will be made available during the final exam. Your highest score (first attempt or this second attempt) will be taken regardless. You should prioritize these quizzes depending on which ones you scored lowest on during the initial attempt.
+
+This may seem daunting, but most students are not expected to take all six quizzes during the 3-hour period. Everyone will take the module 5 quiz and the final exam quiz, and most students will take 1-3 of the retake quizzes. Here is an expected time breakdown during the final exam:
+
+- **Module 5 quiz:** Required (30 minutes)
+- **Final Exam quiz:** Required (30 minutes)
+- **Modules 1-4 retake quizzes (take up to 3):** 3 Optional Quizzes (30 minutes each, up to 90 minutes)
+
+This amounts to 30+30+90 = 180 minutes = 2.5 hours with 30 minutes of buffer time. If you WANT to try to take all four retake quizzes, you are welcome to try to within the 3-hour period. 
 
 <a name="homeworks"></a>Homeworks
 ----------------------------------------------------------
 
 There are **one or two homework assignments per module (depending on the module)**, that must be completed. These will be graded on a traditional scale (out of 10 points). See the syllabus and the homeworks page for more details.
 
-<a name="lettergrades"></a>Final Letter Grades
+**Late Policy:** Homeworks have firm deadlines, but extensions can be requested via an online form (which will be provided to students at a later date). By filling out this form, you can request three extra weeks of time to work on the assignment. In general, these will always be granted for any reason. There will be **No extensions for any reason beyond the three week initial extension.** If you need additional time on homeworks, you should consider appealing for a grade on Incomplete at the end of the semester (contact the instructor for details).
+
+
+<a name="lettergrades"></a>Grades
 ----------------------------------------------------------
 
 Your letter grade will be calculated using a traditional weighted average. The weights are:
 
-- **Homework:** 30 percent
-- **Midterms:** 40 percent (20 percent each)
-- **Final Exam:** 30 percent
+- **Homework:** 25 percent (about 6 homeworks)
+- **Quizzes (modules 1-5):** 60 percent (12 percent each)
+- **Final Exam:** 15 percent
+
+Homeworks will be graded on a traditional percentage scale. Quizzes will be graded on a traditional percentage scale as well. However, I believe that once a quiz grade reaches a certain level, a student has clearly mastered the material and does need any incentive to retake that quiz. Thus, **any quiz grade that exceeds 90 percent (strictly greater than 90 percent) will be automatically rounded up to a perfect score**.
 
 Your final letter grade will be determined by the traditional decade curve. The table for which is shown below:
 
