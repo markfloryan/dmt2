@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  1 AUG 2023 11:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  14 AUG 2023 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**01-02-ProblemSet.tex
-(./01-02-ProblemSet.tex
+**01-Cardinality.tex
+(./01-Cardinality.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -339,27 +339,34 @@ Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
 LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 (Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
 \c@pagenum=\count115
 \c@quesnum=\count116
 
-(./01-02-ProblemSet.aux)
-\openout1 = `01-02-ProblemSet.aux'.
+(./01-Cardinality.aux)
+\openout1 = `01-Cardinality.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 88.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 89.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
@@ -431,7 +438,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring OFF on input line 88.
+Package hyperref Info: Link coloring OFF on input line 89.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -441,74 +448,75 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count123
 )
-LaTeX Info: Redefining \ref on input line 88.
-LaTeX Info: Redefining \pageref on input line 88.
-LaTeX Info: Redefining \nameref on input line 88.
+LaTeX Info: Redefining \ref on input line 89.
+LaTeX Info: Redefining \pageref on input line 89.
+LaTeX Info: Redefining \nameref on input line 89.
 
-(./01-02-ProblemSet.out) (./01-02-ProblemSet.out)
+(./01-Cardinality.out) (./01-Cardinality.out)
 \@outlinefile=\write3
-\openout3 = `01-02-ProblemSet.out'.
+\openout3 = `01-Cardinality.out'.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 88.
+(lastpage)             ! on input line 89.
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 90.
-LaTeX Font Info:    Try loading font information for U+wasy on input line 95.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 91.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 96.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 113.
-
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsppl.fd
-File: omsppl.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 113.
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
 
  []
 
-LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 126.
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+
+ []
+
 
 AED: lastpage setting LastPage
 [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
 
-(./01-02-ProblemSet.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
-Package rerunfilecheck Info: File `01-02-ProblemSet.out' has not changed.
+(./01-Cardinality.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
+Package rerunfilecheck Info: File `01-Cardinality.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
  ) 
 Here is how much of TeX's memory you used:
- 7384 strings out of 492995
- 105975 string characters out of 6132704
- 209438 words of memory out of 5000000
- 10825 multiletter control sequences out of 15000+600000
- 12263 words of font info for 38 fonts, out of 8000000 for 9000
+ 7426 strings out of 492995
+ 106422 string characters out of 6132704
+ 208861 words of memory out of 5000000
+ 10861 multiletter control sequences out of 15000+600000
+ 12519 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,43p,500b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,43p,281b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
 ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texliv
-e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
-/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2017/t
-exmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2017/texmf-di
-st/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on 01-02-ProblemSet.pdf (1 page, 81748 bytes).
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2017/
+texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2017/texmf-d
+ist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on 01-Cardinality.pdf (1 page, 87093 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

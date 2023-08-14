@@ -15,12 +15,11 @@ We will be using [Gradescope](https://gradescope.com) for this course. Check out
 
 | Module Number | Module Name | Homework 1 | Homework 2 (If Applicable) |
 |----------|------------------------|------------------------|------------------------|
-| Module 1 | What is a computer? | See below | ... |
-| Module 2 | Proof Techniques | [Module 1 and 2 Problem Set](./01-02-WhatIsAComputer_ProofTechniques/01-02-ProblemSet.pdf) | ... |
-| Module 3 | Set Cardinality | Coming Soon | ... |
-| Module 4 | Regular Languages | Coming Soon | ... |
-| Module 5 | Context-Free Languages | Coming Soon | ... |
-| Module 6 | Turing Machines | Coming Soon | ... |
+| Module 1 | Intro, Proofs, Cardinality | [Introduction](./01-introduction/01-Introduction.pdf) | [Cardinality](./01-Introduction/01-Cardinality.pdf) |
+| Module 2 | Regular Languages | Coming Soon | ... |
+| Module 3 | Context-Free Languages | Coming Soon | ... |
+| Module 4 | Turing Machines and Decidability | Coming Soon | ... |
+| Module 5 | Complexity Theory | Coming Soon | ... |
 
 
 <a name="other"></a>Other Useful Stuff

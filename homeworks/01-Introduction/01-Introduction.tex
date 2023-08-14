@@ -13,10 +13,9 @@
 \usepackage{hyperref}
 \usepackage{amsmath}
 \usepackage{wasysym}
-\usepackage{amsfonts}
 
 \def\course{CS 3120: Discrete Math and Theory II}
-\def\homework{Set Cardinality}
+\def\homework{What is a computer? Proof Techniques}
 \def\semester{Fall 2023}
 
 \newboolean{solution}
@@ -92,40 +91,40 @@
 
 
 \question[3]{
-Prove that the set of rational numbers $\mathbb{Q}=\frac{a}{b}$ where $a \in \mathbb{Z}$ and $b \in \mathbb{Z}^+$ is countable. \emph{Hint: find a bijection between $\mathbb{Z} \times \mathbb{Z}^+$ and $\mathbb{N}$}
+Suppose you have an alphabet $\Sigma$ that has a specific length $m$ (i.e., $|\Sigma|=m$). How long is the alphabet $\Sigma^n$? In other words, what is the value of $|\Sigma^n|$? Write out your formula and provide 1 or 2 sentences justifying the formula.
 }
 
 \vspace{12pt}
 
 \question[3]{
-Use a proof by diagonalization to show that the following set is uncountable:\\
-\\
-$F=\{ f:\mathbb{N} \rightarrow \mathbb{N} | (a>b) \rightarrow (f(a) > f(b)) \}$
-\\
-\\
-In other words, this is the seet of all strictly increasing functions that map natural numbers to natural numbers. A function is strictly increasing if larger inputs are guaranteed to produce larger outputs.\\
-\\
-For example, $f(x)=x^2$ is strictly increasing since if $a>b$, then $a^2>b^2$. However, $f(x)=(x-5)^2$ is not strictly increasing since $1<2$ but $f(1) > f(2)$.
+If the set $A$ has $a$ elements, and the set $B$ has $b$ elements, how many elements are in $A \times B$? Explain your answer in a sentence or two.
 }
 
 \vspace{12pt}
 
 \question[3]{
-Prove that every subset of the natural numbers $\mathbb{N}$ is countable.
+Suppose that $\Sigma = \{0,1\}$. Given the following intuitive descriptions of alphabets, provide a description of each of the same alphabets using formal, set notation.
+
+\begin{itemize}
+	\item Strings that begin with $011$ or begin with $100$.
+	\item Strings that contain four $1$s in a row at least once.
+	\item Strings that have two $1$s in a row somewhere in the string. However, the two ones are NOT the first two characters or the last two characters.
+\end{itemize}
+}
+
+
+\question[3]{
+Suppose I build a new computing machine that can be programmed to recognize a lot of different functions! It is called the \emph{Flogrammable Device}. In order to program this machine, you can type out your program on a \emph{tape}, but this type can only hold ten unique charactes. Each character is from the alphabet $\Sigma=\{a,b,c,0,1\}$ and any combination of these 10 characters is a valid program. You CANNOT have fewer than 10 characters or the code will not compile.\\
+\\
+Now suppose that you read online that somehow, there are only 10,000,000 important functions that need to be computed by the \emph{Flogrammable Device} for it to cover all important functionality. Can we program each of the 10,000,000 functions on this machine? How do you know or not?
 }
 
 \vspace{12pt}
 
 \question[3]{
-Prove the following claim: If $A$ is a countably infinite set (i.e., $|A|=|\mathbb{N}|$) and $B$ is a finite set (i.e., $|B|=n | n \in \mathbb{N}$), then $A \cup B$ is also countable.
+\textbf{Proof Practice:} Prove that every graph $G = (V,E)$ such that $|V| \geq 2$ contains two nodes with equal degrees.
 }
 
-\vspace{12pt}
 
-\question[3]{
-Prove the following claim: If $A$ is a countably infinite set (i.e., $|A|=|\mathbb{N}|$) and $B$ is a also a countably infinite set (i.e., $|B| = |\mathbb{N}|$), then $A \cup B$ is also countable.
-}
-
-\vspace{12pt}
 
 \end{document}

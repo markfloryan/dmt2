@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  3 AUG 2023 12:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  14 AUG 2023 16:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -159,81 +159,108 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 47.
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./regex
 .jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
-[]\OT1/cmtt/m/n/10.95 a3da+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 61.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]\OT1/cmtt/m/n/10.95 aadaUaaadaUaaadaa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 \OT1/cmtt/m/n/10.95 5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 \OT1/cmtt/m/n/10.95 mrf8t
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 \OT1/cmtt/m/n/10.95 mk5sc
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 \OT1/cmtt/m/n/10.95 lab2d
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 \OT1/cmtt/m/n/10.95 bea3ch
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]\OT1/cmtt/m/n/10.95 (a)*dd(a)*
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\OT1/cmtt/m/n/10.95 4
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\OT1/cmtt/m/n/10.95 23
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\OT1/cmtt/m/n/10.95 a56
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\OT1/cmtt/m/n/10.95 bas98edd
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 []\OT1/cmtt/m/n/10.95 YES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 \OT1/cmtt/m/n/10.95 NO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 \OT1/cmtt/m/n/10.95 YES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 \OT1/cmtt/m/n/10.95 YES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 []\OT1/cmtt/m/n/10.95 YES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 \OT1/cmtt/m/n/10.95 YES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 \OT1/cmtt/m/n/10.95 YES
  []
 
-[2] [3] (./RegExpressions.aux) ) 
+[3] (./RegExpressions.aux) ) 
 Here is how much of TeX's memory you used:
  1613 strings out of 492995
  23280 string characters out of 6132704
@@ -241,16 +268,16 @@ Here is how much of TeX's memory you used:
  5161 multiletter control sequences out of 15000+600000
  8411 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,25p,466b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmtt10.pfb>
-Output written on RegExpressions.pdf (3 pages, 124869 bytes).
+ 39i,8n,25p,648b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmtt10.pfb>
+Output written on RegExpressions.pdf (3 pages, 126595 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream
