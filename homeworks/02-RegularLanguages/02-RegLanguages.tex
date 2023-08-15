@@ -90,19 +90,39 @@
 
 \section*{\homework}
 
+\question[3]{
+Draw out DFAs (or NFAs) for each of the following two languages. Do these by making smaller machines for each of the two parts of each language, and then combining them into a single machine.
+}
+
+\begin{itemize}
+	\item $\{w | w \text{ has at least three a's and at least two b's}\}$
+	\item $\{w | w \text{ has an even number of a's and exactly one or two b's}\}$
+\end{itemize}
+
+\vspace{12pt}
 
 \question[3]{
-...
+For any string $w = w_1w_2,...,w_n$, let $w^R$ be the reverse of string $w$ (i.e., $w^R=w_n,...,w_2,w_1$). Prove that if a language $A$ is regular, then the language $A^R = \{w^R | w \in A\}$ is also regular.
 }
 
 \vspace{12pt}
 
 \question[3]{
-...
+Use the pumping lemma to show that the following language is not a regular language: $A_1=\{0^n1^n2^n | n \geq 0\}$
 }
 
 \vspace{12pt}
 
+\question[3]{
+Find and describe the error that exists in the following proof. The proof attempts to show that $0^*1^*$ is not regular, when in fact it is:
+\\
+\\
+\emph{
+Assume, for sake of contradiction, that $0^*1^*$ is regular. We select an element from this language that is greater than the pumping length $p$. We select $0^p1^p$. In class, when proving that $0^n1^n$ was not regular, we showed that $0^p1^p$ cannot be pumped. Therefore, $0^*1^*$ is not regular.
+}
+}
+
+\vspace{12pt}
 
 
 \end{document}

@@ -16,8 +16,8 @@ We will be using [Gradescope](https://gradescope.com) for this course. Check out
 | Module Number | Module Name | Homework 1 | Homework 2 (If Applicable) |
 |----------|------------------------|------------------------|------------------------|
 | Module 1 | Intro, Proofs, Cardinality | [Introduction](./01-introduction/01-Introduction.pdf) | [Cardinality](./01-Introduction/01-Cardinality.pdf) |
-| Module 2 | Regular Languages | Coming Soon | ... |
-| Module 3 | Context-Free Languages | Coming Soon | ... |
+| Module 2 | Regular Languages | [Prog. Challenge](./02-RegularLanguages/RegExpressions.pdf) | [Written Prob. Set](./02-RegularLanguages/02-RegLanguages.pdf) |
+| Module 3 | Context-Free Languages | [Written Prob. Set](./03-ContextFree/03-ContextFree.pdf) | ... |
 | Module 4 | Turing Machines and Decidability | Coming Soon | ... |
 | Module 5 | Complexity Theory | Coming Soon | ... |
 
