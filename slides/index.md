@@ -24,5 +24,5 @@ CS3120 - Algorithms (Schedule and Slides)
 --------------------------------------- 
 
  
-<iframe width="100%" height="1200px" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROWn3lLlYn3ic7Y7WGE4JjRRZEZ3szketLjs1l9NPpqttLwBpY7V2NPT-zsCrgvxxvHuHDptLHJ-a6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROWn3lLlYn3ic7Y7WGE4JjRRZEZ3szketLjs1l9NPpqttLwBpY7V2NPT-zsCrgvxxvHuHDptLHJ-a6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
  
