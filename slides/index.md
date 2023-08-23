@@ -8,9 +8,9 @@ CS3120 - Algorithms (Schedule and Slides)
 <a name="slides"></a>Slides
 --------------------------------------- 
 
-|Module Num|Module Name|Slides|CLRS Chapters|
+|Module Num|Module Name|Slides|Sipser Chapters|
 |-|---|---|---|
-|0|Course Introduction|[Course Introduction](./00-courseintroduction.pptx)|-|
+|0|Course Introduction|[Course Introduction](./00-CourseIntroduction.pptx)|-|
 |1|01 - What is a computer?|[What is a computer?](./01-WhatIsAComputer.pptx)|TBD|
 |2|02 - Proof Techniques|[Review of proofs](./02-ReviewOfProofs.pptx)|TBD|
 |3|03 - Cardinality|[Set Cardinality](./03-Cardinality.pptx)|TBD|
