@@ -34,12 +34,12 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 
 ### Instructors / Head TAs
 
-| Name | Head TA / Inst. | TA Category | Email | Discord ID |
+| Name | Head TA / Inst. | TA Category | Email |
 |-|-|-|-|-|
-| Mark Floryan | Instructor | - | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) | - |
-| TBD | Graduate/Head TA | Grading and Regrades | TBD | TBD |
-| TBD | Head TA | Office Hours | TBD | TBD |
-| TBD | Head TA | Homework | TBD | TBD |
+| Mark Floryan | Instructor | - | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) |
+| Zirou Qiu | Graduate/Head TA | Grading and Regrades | [zq5au@virginia.edu](mailto:zq5au@virginia.edu) |
+| Gillian Morrissey | Head TA | Office Hours | [gsm2ju@virginia.edu](mailto:gsm2ju@virginia.edu) |
+| TBD | Head TA | Homework | TBD |
 
 
 <a name="officehours"></a>Office Hours Description and Schedule
@@ -48,8 +48,6 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 Office hours are held in various locations throughout the week and are of varying type. Information can be found below. There are two possible locations for office hours:
 
 - **In-Person OH**: Some OH will be held in-person (in Thornton Stacks). See the chart below for details. These will function as *traditional* office hours.
-
-- **Online (Discord) OH**: Some OH will be held on our **Discord Server**. To attend office hours, simply join the office hours queue voice channel and you will be added to the office hours queue. When you are taken off the queue you will be automatically moved to a staging room to wait (it is called *oh-up-next* or similar). Soon after, a TA will manually pull you off that staging room into their office hours to help you.
 
 - **Group OH**: These are weekly discussion sections where a TA will answer general questions regarding homeworks, quizzes, algorithm intution, etc. to larger groups of attendees.
 
@@ -60,8 +58,8 @@ Office hours are held in various locations throughout the week and are of varyin
 
 | Day | Time | Type (Location) | 
 |---|-----|------|
-| Monday | 10:00am - 11:45am | Floryan (Rice 203) |
-| Tuesday | 9:00am - 10:30 am | Floryan (Rice 203) |
+| Monday | 10:00am - 12:00pm | Floryan (Rice 203) |
+| Tuesday | 10:00am - 12:00pm | Floryan (Rice 203) |
 
 
 

@@ -8,15 +8,15 @@ CS3120 - Algorithms (Schedule and Slides)
 <a name="slides"></a>Slides
 --------------------------------------- 
 
-|Module Num|Module Name|Slides|Sipser Chapters|
+|Module Num|Module Name|Slides|Book Chapters|
 |-|---|---|---|
 |0|Course Introduction|[Course Introduction](./00-CourseIntroduction.pptx)|-|
-|1|01 - What is a computer?|[What is a computer?](./01-WhatIsAComputer.pptx)|TBD|
-|2|02 - Proof Techniques|[Review of proofs](./02-ReviewOfProofs.pptx)|TBD|
-|3|03 - Cardinality|[Set Cardinality](./03-Cardinality.pptx)|TBD|
-|4|04 - Regular Languages|[Regular Languages](./04-RegularLanguages.pptx)|TBD|
-|5|05 - Context Free Grammars|[CFGs](./05-ContextFreeLanguages.pptx)|TBD|
-|6|06 - Turing Machines|[Turing Machines](./06-TuringMachines.pptx)|TBD|
+|1|What is a computer?|[What is a computer?](./01-WhatIsAComputer.pptx)|-|
+||Proof Techniques|[Review of proofs](./01-ReviewOfProofs.pptx)|Chapters 0.2-0.4|
+||Cardinality|[Set Cardinality](./01-Cardinality.pptx)|-|
+|2|Regular Languages|[Regular Languages](./02-RegularLanguages.pptx)|Chapter 1|
+|3|Context Free Grammars|[CFGs](./03-ContextFreeLanguages.pptx)|Chapters 2|
+|4|Turing Machines|Turing Machines (Coming Soon)|Chapters 3-5|
 
 
 
