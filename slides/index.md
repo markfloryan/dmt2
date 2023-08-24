@@ -3,7 +3,7 @@ CS3120 - Algorithms (Schedule and Slides)
 
 [Back to Main Page](../readme.html)
 
-[Daily Announcement Slides](./dailyannouncements.pptx)
+[Daily Announcement Slides](./00-DailyAnnouncements.pptx)
 
 <a name="slides"></a>Slides
 --------------------------------------- 
