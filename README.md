@@ -54,14 +54,16 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 <a name="officehours"></a>Office Hours Description and Schedule
 ------------------------------------------
 
-Office hours are held in various locations throughout the week and are of varying type. Information can be found below. There are two possible locations for office hours:
+Office hours information will be updated / posted here very soon (sorry for the delay):
 
-- **In-Person OH**: Some OH will be held in-person (in Thornton Stacks). See the chart below for details. These will function as *traditional* office hours.
+### Office Hours Queue
 
-- **Group OH**: These are weekly discussion sections where a TA will answer general questions regarding homeworks, quizzes, algorithm intution, etc. to larger groups of attendees.
-
+Our office hours queue can be [found here](https://kytos02.cs.virginia.edu/asci). You should already have an account, let us know if you do not.
+ 
 
 ### Office Hours Schedule:
+
+Coming Soon!!
 
 #### Faculty Office Hours
 
