@@ -26,20 +26,21 @@
 In this assignment, you will implement a simple regular expression parser (with a very simplified input format). The goals of this assignment are to:
 
 \begin{itemize}
-	\item Gain an appreciation for how simply our theoretical understanding of regular exprressions can be applied to implement a real regular expression recognizer.
-	\item To see the connection between our proof that regular expressions are equivalent to DFAs by implementing some code that converts between them.
+	\item Gain an appreciation for how simply our theoretical understanding of regular expressions can be applied to implement a regular expression recognizer.
+	\item To see the connection between our proof that regular expressions are equivalent to NFAs by implementing some code that converts between them.
 	\item To see the connection between our proof that regular expressions are closed under common operations by implementing some code that applies those ideas.
-	\item To appreciate the (relative) lack of memory that is necessary to implement a regular expression parser.
 \end{itemize}
 
-Regular expression matchers are a commonly used tool in computer science, and they directly relate to the concept of a DFA/NFA from class. For this assignment we will give you a simple regular expression and a series of strings that may or may not match that expression. For each string, you will output \emph{YES} if the string matches the expression, and \emph{NO} if it does not.
+Regular expression matchers are a commonly used tool in computer science, and they directly relate to the concept of a DFA/NFA from class. You have probably used a website before that forced you to type in an email address in a proper format, and complained if your entry was "not a valid email address".
 
-There are many different ways to implement such features, but I would like you to use the implementation described below so that your work best reflects our discussion from class. This is despite the fact that there are more memory efficient implementations. The rest of this document will describe the input you can expect, the output you should provide, along with some details on how you should implement this.
+For this assignment we will give you a simple regular expression and a series of strings that may or may not match that expression. For each string, you will output \emph{YES} if the string matches the expression, and \emph{NO} if it does not.
+
+There are many different ways to implement such features, but I would like you to use the implementation described below so that your work best reflects our discussion from class. This is despite the fact that there are more memory efficient implementations. In addition, we give you a good amount of code to start with that will make the assignment much less cumbersome for you. The rest of this document will describe the input you can expect, the output you should provide, along with some details on how you should implement this.
 
 
 \subsection*{Input}
 
-All input will be provided to standard input (cin, input(), System.in, etc.). The first line of input is the regular expression that needs to be parsed. It has a very simplified format. Each character in the string will be one of the following:
+All input will be provided to standard input (System.in). The first line of input is the regular expression that needs to be parsed. It has a very simplified format. Each character in the string will be one of the following:
 
 \begin{itemize}
 	\item \textbf{d}: The lower-case character d matches to any single numeric digit 0-9.
@@ -51,11 +52,11 @@ All input will be provided to standard input (cin, input(), System.in, etc.). Th
 We will adhere to a couple of rules when formatting the input in order to make the implementation a little bit easier for you. The input is gauranteed to follow the following rules:
 
  \begin{itemize}
-	\item Parentheses will only appear when grouping an expression for use with the * operator. Parentheses will never appear in any other context. So, you might see a(dda)* but you will never see (ad)d*.
+	\item Parentheses will only appear when grouping an expression for use with the * operator (and thus the * operator will always appear after every right paren). Parentheses will never appear in any other context. So, you might see a(dda)* but you will never see (ad)d*.
+	\item Notice that the star operator will always appear after a right paren, but it can also appear after a single character \emph{a} or \emph{d}, such as \emph{aad*} or \emph{aa*d}.
 	\item In addition, no other operator (* or U) will be inside those parentheses if present.
-	\item The union operator U will always apply to the entire expression to the left and right of the operator (up to but not including the nearest U to the left or right). For example, aaddU(da)*a is the entire expressoin aadd unioned with the entire expression (da)*a. You will never see something like aa(ddUdaa)* because the parentheses mean that the union does not apply to everything to its left and this violates one of the rules above.
-	\item There will never be nested parentheses. You might see something like (dd)*(aa)* but you will never see (dd(aa)*)*. No need to worry about using recursion to handle nested parentheses!
-	\item  
+	\item The union operator U will always apply to the entire expression to the left and right of the operator (up to but not including the nearest U to the left or right). For example, aaddU(da)*a is the entire expression aadd unioned with the entire expression (da)*a. You will never see something like aa(ddUdaa)* because the parentheses mean that the union does not apply to everything to its left and this violates one of the rules above. In other words, the union operator will never be inside of parentheses.
+	\item There will never be nested parentheses. You might see something like (dd)*(aa)* but you will never see (dd(aa)*)*.
 \end{itemize}
 
 The next line will contain a single number $n$, which is the number of strings that will be given to match with. The next $n$ lines after that will each give a single string that is a potential match to the regular expression.
@@ -66,19 +67,22 @@ For each of the $n$ example strings. Output \emph{YES} on a single line if the s
 
 \subsection*{Getting Started}
 
-Even with such a simple format, this is not a trivial implementation. I would like you to proceed using the following approach. As stated earlier, there are several ways to implement this, but I would like everybody to use the approach below.
+Even with such a simple format, this is not a trivial implementation. I am providing starter code that will help get your started and you will be asked to implement a specific few of the empty methods provided.
 
 \begin{itemize}
-	\item \textbf{Step 1: Implement an NFA object}: The first thing you should do is create an object (class) that represents an NFA (yes, simulating non-determinism will make this much easier). This object will contain fields for each part of an NFA (list of states in the machine, the start state, list of final states, list of current states the machine is in at any one time, list of transitions). You should create methods that allow you to add states, add transitions between states based on characters (numeric digits or alphabetic characters), change states to be final or start or back to normal, etc.. 
-	\item \textbf{Step 2: Create methods that apply the * and U operators to a given object}: Create a method that given a current NFA object (which represents some regular expression), applies the * operator to it. How might you do this? Think about the proof we did in class? How did we construct this new NFA in our proof? Then, do this for the union operator as well. Given two NFA object, return a new one that represents the union of the two machines. How might you go about this?
-	\item \textbf{Step 3: Parse the input into tokens}: Given a regular expression string (e.g., \emph{aa(da)*Udd}), split the expression into tokens. Each token will be string of character (a, d, ad, aad, etc.), or an operator (* or U). For example, \emph{aa(da)*Udd} would be divided into a, a, da, *, U, dd.
-	\item \textbf{Step 3: For each token, instantiate an NFA object}: Instantiate an NFA object for each token that does not contain operators. Then, for each operator take the relevant objects and call the methods from step 2 to combine the machines into one (applying the operator to them). Once this process is done, you should have a single NFA object that represents the entire expression.
-	\item \textbf{Step 4: Simulate the NFA on each string}: Have you NFA start with only the start state in the list of current states. Read in the characters from the input one character at a time. For each character, loop through each state the machine is in and transition each to a new state if possible. If you end up in any final state, print \emph{YES}, otherwise print \emph{NO}.
+	\item \textbf{Step 1: Understand the provided NFA object}: The first thing you should do is read the NFA class that is provided annd understand its methods (yes, simulating non-determinism will make this much easier). This object contains fields for each part of an NFA (list of states in the machine, the start state, list of final states, list of transitions). You should understand the provided methods that allow you to add states, add transitions between states based on characters (numeric digits or alphabetic characters), change states to be final or start or back to normal, etc. 
+	\item \textbf{Step 2: Implement the empty NFA methods that apply the *, U, and concatenation operators to a given machine}: In the NFA class, you will see three methods that given a current NFA object (which represents some regular expression), applies one of the three respective operators to that machine. Your next task is to implement these methods.
+	\item \textbf{Step 3: Implement the build NFA method}: In Main.java, there is a method that takes the regular expression and turns it into an NFA. We have provided comments that summarize how we approached this method if you would like to use that as a guide.
+	\item \textbf{Step 4: Implement the acceptsString method in NFA.java}: This method should take a string and simulate the NFA moving from state(s) to state(s) given each input character. If the machine ends in a final state, you should return true (false otherwise).
 \end{itemize}
+
+\subsection*{Running the Code}
+
+The sample code provided contains a simple \emph{Makefile}. You can compile the code by simply opening a terminal, navigating to the project directory, and type \emph{make}. To run the code, simply type \emph{make run}.
 
 \subsection*{Submission}
 
-You should submit your code in Java, C++, or Python. You should configure your makefile properly to run your code. See the course website for details on how to configure submissions for Gradescope
+You should submit four files (Main.java, NFA.java, QSig.java, Makefile). The second two of those four do not need to be altered to complete the assignment.
 
 
 \vspace{0.25in}\hspace{-0.3in}\begin{tabular}{ll}
@@ -104,7 +108,7 @@ lbh1
 
 {\tt
 
-(a)*dd(a)* \linebreak
+(a)*dda* \linebreak
 4 \linebreak
 23 \linebreak
 a56 \linebreak
