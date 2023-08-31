@@ -23,7 +23,6 @@ repository first**
 
 - [Course Logistics](courselogistics/index.html): The syllabus, introductory slide deck, grading policy, course schedule, etc.
 - [Homeworks](homeworks/index.html) ([md](homeworks/index.md)): The homeworks for the course, along with due dates and related things.
-- [Gradescope Info](./homeworks/gradescope.html): Information on submitting programming assignments to Gradescope.
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the slides used in the course.
 - [Meet your TAs](./tas/tas.html) ([md](./tas/tas.md)): Meet the teaching assistants who will be helping out with the course!
 
@@ -44,51 +43,35 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 ### Instructors / Head TAs
 
 | Name | Head TA / Inst. | TA Category | Email |
-|-|-|-|-|-|
+|-|-|-|-|
 | Mark Floryan | Instructor | - | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) |
-| Zirou Qiu | Graduate/Head TA | Grading and Regrades | [zq5au@virginia.edu](mailto:zq5au@virginia.edu) |
+| Zirou Qiu | Graduate/Head TA | Grading | [zq5au@virginia.edu](mailto:zq5au@virginia.edu) |
 | Gillian Morrissey | Head TA | Office Hours | [gsm2ju@virginia.edu](mailto:gsm2ju@virginia.edu) |
-| TBD | Head TA | Homework | TBD |
+| Ishita Gupta | Graduate/Head TA | Homeworks / HW Extensions | [rsy7tr@virginia.edu](mailto:rsy7tr@virginia.edu) |
+| Esshaan Mahajan | Graduate/Head TA | Regrades | [sgn4hf@virginia.edu](mailto:sgn4hf@virginia.edu) |
 
 
 <a name="officehours"></a>Office Hours Description and Schedule
 ------------------------------------------
 
-Office hours information will be updated / posted here very soon (sorry for the delay):
 
 ### Office Hours Queue
 
 Our office hours queue can be [found here](https://kytos02.cs.virginia.edu/asci). You should already have an account, let us know if you do not.
- 
+
+### Office Hours Locations:
+
+All TA office hours will be held in **Rice 442**. Floryan's office hours are in **Rice 203**.
 
 ### Office Hours Schedule:
 
-Coming Soon!!
-
-#### Faculty Office Hours
-
-| Day | Time | Type (Location) | 
-|---|-----|------|
-| Monday | 10:00am - 12:00pm | Floryan (Rice 203) |
-| Tuesday | 10:00am - 12:00pm | Floryan (Rice 203) |
+<iframe src="https://calendar.google.com/calendar/embed?src=c_f19928618a3d10acc4d4741a1e96a86d8c2c590f9f73e6a42ed937ac5a806cf6%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
 
-<a name="contributing"></a>Contributing to this Repository
-----------------------------------------------------------
 
-Updates to the repository are restricted to approved individuals only, to prevent anybody from messing with the slides right before a lecture.  However, others can still contribute to this repository -- to do so, take the following steps:
 
-1. Create a github account, if you do not have one
-2. Fork this repository: you can click on the "Fork" link in the upper right
-3. Clone your forked repository on to your local machine
-4. Make any changes you want to your forked version, then commit and push your changes back to your forked repository
-5. Create a pull request, following the instructions [here](https://help.github.com/articles/creating-a-pull-request)
-
-At that point, we will receive a notice that a change has been submitted, and I'll look at it and hopefully accept it into the main repository.
-
-When you want to bring in the updates from the main dsa1 github repository into your forked repository, you will need to follow the instructions [here](https://help.github.com/articles/syncing-a-fork).
 
 
 
