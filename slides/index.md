@@ -11,12 +11,13 @@ CS3120 - Algorithms (Schedule and Slides)
 |Module Num|Module Name|Slides|Book Chapters|
 |-|---|---|---|
 |0|Course Introduction|[Course Introduction](./00-CourseIntroduction.pptx)|-|
-|1|What is a computer?|[What is a computer?](./01-WhatIsAComputer.pptx)|-|
-||Proof Techniques|[Review of proofs](./01-ReviewOfProofs.pptx)|Chapters 0.2-0.4|
-||Cardinality|[Set Cardinality](./01-Cardinality.pptx)|-|
+|1|Intro, Proofs, Cardinality|[What is a computer?](./01-WhatIsAComputer.pptx)|-|
+|||[Review of proofs](./01-ReviewOfProofs.pptx)|Chapters 0.2-0.4|
+|||[Set Cardinality](./01-Cardinality.pptx)|-|
 |2|Regular Languages|[Regular Languages](./02-RegularLanguages.pptx)|Chapter 1|
 |3|Context Free Grammars|[CFGs](./03-ContextFreeLanguages.pptx)|Chapters 2|
-|4|Turing Machines|Turing Machines (Coming Soon)|Chapters 3-5|
+|4|Turing Machines|[Turing Machines](./04-TuringMachines.pptx)|Chapter 3|
+|||Decidability (Coming Soon)|Chapter 4|
 
 
 
