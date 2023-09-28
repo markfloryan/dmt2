@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>CS3120 - Quiz Review Guides</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="../markdown.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="cs3120---quiz-review-guides">CS3120 - Quiz Review Guides</h1>
+<p><a href="../index.html">Back to main page</a></p>
+<h2
+id="module-1-review-topics-and-example-questions"><a name="introduction"></a>Module
+1 Review Topics and Example Questions</h2>
+<p>Module 1 involved a high-level discussion of what computing really
+means, as well as a review of proof techniques, cardinality, and other
+related topics. This list is <strong>NOT EXHAUSTIVE</strong> and there
+may be questions on the quiz that do not cleanly fall into any of the
+categories below. Students should be able to do the following on an
+assessment:</p>
+<ul>
+<li><p>Any problem from any of the homework assignments on this module,
+including new problems that are similar but have slight
+variations.</p></li>
+<li><p>Discuss Input/Output of computers as Strings using formal
+notation and interpretation simple descriptions of alpabets and sets of
+strings. Example questions:</p>
+<ul>
+<li>If <span class="math inline"><em>Σ</em> = {0, 1}</span>, then what
+do the following languages represent: <span
+class="math inline"><em>Σ</em><sup>+</sup></span>, <span
+class="math inline"><em>Σ</em><sup>2</sup> <em>U</em> <em>Σ</em><sup>3</sup></span>.</li>
+<li>Write out a formal description of the following set (you may use set
+operators union, concatenation, and star if you want to e.g., <span
+class="math inline">{0, 1}<sup>*</sup> <em>U</em> {1}<sup>3</sup></span>):
+The set of binary strings in which number of 0’s is exactly three times
+the number of 1’s</li>
+</ul></li>
+<li><p>Understand and describe the properties of functions:</p>
+<ul>
+<li>Injective, Surjective, and Bijective</li>
+<li>Give examples of functions with these properties</li>
+<li>Given a function, explain which properties it has:
+<ul>
+<li>E.g., Consider the function <span
+class="math inline">ℕ −  &gt; ℕ  <em>f</em>(<em>x</em>) = <em>x</em><sup>2</sup></span>.
+Is this function injective? surjective?</li>
+</ul></li>
+<li>Cardinality: Be able to count the number of elements in a set
+<ul>
+<li>E.g., How many elements are in the set of rational numbers in which
+the denominator and numerator can only be 1, 2, or 3?</li>
+</ul></li>
+</ul></li>
+<li><p>Create bijections between two sets to show they have equal
+cardinality.</p>
+<ul>
+<li>Finite sets</li>
+<li>Infinite sets</li>
+<li>Argue that a provided bijection is injective and surjective
+<ul>
+<li>E.g., In class we saw a bijection from NxN to N. Argue, in words,
+why this function is injective.</li>
+</ul></li>
+</ul></li>
+<li><p>Understand and perform a proof by diagonalization to show that a
+set is uncountably infinite.</p>
+<ul>
+<li>See example from class AND homework problem.</li>
+</ul></li>
+</ul>
+<h2
+id="module-2-review-topics-and-example-questions"><a name="introduction"></a>Module
+2 Review Topics and Example Questions</h2>
+<p>Module 2 involved the introduction of the DFA and NFA machines,
+including the class of languages they recognize (regular languages). We
+always introduced the regular expressions, a different way of describing
+the same class of languages. This list is <strong>NOT
+EXHAUSTIVE</strong> and there may be questions on the quiz that do not
+cleanly fall into any of the categories below. Students should be able
+to do the following on an assessment:</p>
+<ul>
+<li><p>Any problem from any of the homework assignments on this module,
+including new problems that are similar but have slight
+variations.</p></li>
+<li><p>Understand and describe the difference between a function and a
+language. Describe how these are effectively the same but are presented
+in a different manner. Convert function descriptions into equivalent
+languages descriptions:</p>
+<ul>
+<li>Describe the language equivalent of this function: This function
+takes in strings containing 0, 1, and 2 and returns true if the sum of
+the bits is odd, otherwise it returns false.</li>
+</ul></li>
+<li><p>Show an understanding of Deterministic Finite Automata, how they
+work / operate. Be able to:</p>
+<ul>
+<li>Draw a DFA that recognizes a given language</li>
+<li>Describe the language (as a regular expression) that is recognized
+by a given DFA.</li>
+<li>Step through the computation of a DFA on a given input.</li>
+<li>Answer questions about the limitations of DFAs</li>
+</ul></li>
+<li><p>Show an understanding of the formal description / notation for a
+DFA. Write out the description of a DFA using formal notation instead of
+a picture (graph notation).</p></li>
+<li><p>Show an understanding of the formal definition of a valid
+computation on a DFA.</p></li>
+<li><p>Do all of the above, but for an NFA</p>
+<ul>
+<li>Understand and describe non-determinism, its benefits and
+limits</li>
+<li>Design a simple NFA</li>
+<li>Convert and NFA into an equivalent DFA</li>
+<li>Explain / prove that NFA and DFAs are equivalent in computational
+power.</li>
+</ul></li>
+<li><p>Show a proof of closure for regular languages under union,
+concatenation, and star.</p>
+<ul>
+<li>Prove closure under a new operation (complement, intersection,
+etc.)</li>
+</ul></li>
+<li><p>Read and write regular expressions as defined in this module.
+Answer any of the previous types of questions using regular
+expressions.</p></li>
+<li><p>Explain the proof that regular expressions are equivalent to
+DFA/NFA.</p>
+<ul>
+<li>Prove a language is regular by providing a regular expression for
+it.</li>
+</ul></li>
+<li><p>Answer questions about the validity of the pumping lemma</p>
+<ul>
+<li>Use the pumping lemma to prove a language is not regular.</li>
+</ul></li>
+</ul>
+</body>
+</html>
