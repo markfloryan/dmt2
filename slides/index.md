@@ -18,7 +18,7 @@ CS3120 - Algorithms (Schedule and Slides)
 |3|Context Free Grammars|[CFGs](./03-ContextFreeLanguages.pptx)|Chapters 2|
 |4|Turing Machines|[Turing Machines](./04-TuringMachines.pptx)|Chapter 3|
 |||[Decidability](./04-DecidableLanguages.pptx) |Chapter 4|
-|5|Complexity Theory|COMING SOON||
+|5|Complexity Theory|[Complexity Theory](./05-ComplexityTheory.pptx)||
 
 
 <a name="schedule"></a>Schedule
