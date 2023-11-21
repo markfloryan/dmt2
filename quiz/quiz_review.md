@@ -3,6 +3,13 @@ CS3120 - Quiz Review Guides
 
 [Back to main page](../index.html)
 
+<a name="links"></a>Links to quizzes you've already taken
+---------------------------------------
+
+[Quiz Day 1 pdf](./QuizDay1.pdf)
+
+[Quiz Day 2 pdf](./QuizDay2.pdf)
+
 <a name="introduction"></a>Module 1 Review Topics and Example Questions
 ---------------------------------------
 
