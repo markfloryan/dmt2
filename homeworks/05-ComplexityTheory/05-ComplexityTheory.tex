@@ -125,11 +125,11 @@ So...the problem is this: Given the availability of the professional development
 Let's formalize this a bit: The input contains multiple items:
 
 \begin{itemize}
-    \item $n$: The number of weeks of professional development workshops. Only one workshop can occur each week.
-    \item $m$: The number of available professional development workshops in total.
     \item $T$: A list of individual topics that can be covered (e.g., machine learning).
-    \item $W=\{w_1,w_2,...,w_m | w_i \subseteq T\}$: A list of workshops, each of which is a subset of the topics $T$ that will be covered in that workshop.
-    \item $A=\{a_1,a_2,...,a_n | a_i \subseteq W\}$: The availability for each week. Each $a_i$ is the subset of workshops that can be scheduled in week $i$
+    \item $W=\{w_1,w_2,...,w_m | w_i \subseteq T\}$: A list of workshops, each of which is a subset of the topics $T$ that will be covered in that workshop. There are $m$ workshops total.
+    
+    \item $S=\{s_1,s_2,...,s_n | s_i \subseteq W\}$: The schedule availability for each week. Each $s_i$ is the subset of workshops that can be scheduled in week $i$. There are $n$ weeks.
+    \item $A= \{a_1,a_2,...,a_p | a_i \subseteq T\}$: The subject areas that need to be covered. Each area is a list of Topics in that area.
 \end{itemize}
 
 You want to output Yes if there is some schedule of workshops over the $n$ weeks such that every topic in $T$ is covered in at least one workshop.\\
