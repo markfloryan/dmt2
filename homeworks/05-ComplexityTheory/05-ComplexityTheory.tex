@@ -120,7 +120,7 @@ Prove that $P$ closed under the star operator ($*$). (Hint: Given a language $L 
 \question[3]{
 You are working for \emph{Shoogle} (A data company that definitely does not exist) and you are given the following task from your boss: \emph{Shoogle} is interested in investing in their employees by offering a large amount of professional development. They have collected a series of \emph{workshops} that each cover a subset of \emph{topics}. For example, workshop 1 might cover machine learning and databases, workshop 2 might cover machine learning and data mining, and workshop 3 might cover advanced data structures (note that each workshop can cover multiple topics and there can be overlap across workshops). In addition, \emph{Shoogle} wants to make sure that over the course of the professional development workshops, at least one topic in each sub-area of interest is represented. For example, they might want to make sure there is at least one AI workshop (machine learning or reinforcement learning or neural networks, etc.), at least one systems workshop (databases or cloud computing), etc.\\
 \\
-So...the problem is this: Given the availability of the professional development workshop, what topics each covers, and which areas need to be covered, can you devise a schedule over multiple weeks that ensures that every sub-area is covered by at least one workshop?\\
+So...the problem is this: Given the availability of the professional development workshop, what topics each covers, and which areas need to be covered, can you devise a schedule over multiple weeks that ensures that at least one topic in every area is covered by at least one workshop?\\
 \\
 Let's formalize this a bit: The input contains multiple items:
 
@@ -132,7 +132,7 @@ Let's formalize this a bit: The input contains multiple items:
     \item $A= \{a_1,a_2,...,a_p | a_i \subseteq T\}$: The subject areas that need to be covered. Each area is a list of Topics in that area.
 \end{itemize}
 
-You want to output Yes if there is some schedule of workshops over the $n$ weeks such that every topic in $T$ is covered in at least one workshop.\\
+You want to output Yes if there is some schedule of workshops over the $n$ weeks such that every area has at least one topic in $T$ that is covered in at least one workshop.\\
 \\
 This problem is \emph{NP-Complete}. For your reduction, use \emph{3-SAT}.
 }
