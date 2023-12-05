@@ -26,6 +26,16 @@ You can request a homework extensions by [filling out this form](https://forms.g
 | Module 4 | Turing Machines and Decidability | [Written Problem Set](./04-TuringMachines/04-TuringMachines.pdf)  (Due: Thu. Nov. 9) | ... |
 | Module 5 | Complexity Theory | [Complexity](./05-ComplexityTheory/05-ComplexityTheory.pdf) (Due: Thu. Nov. 30) | ... |
 
+<a name="other"></a>Homework Solutions
+---------------------------------------
+
+Homework solutions are now available below for study purposes.
+
+- [01-Introduction](./solutions/01-Introduction.pdf)
+- [01-Cardinality](./solutions/01-Cardinality.pdf)
+- [02-Regular Languages](./solutions/02-RegLanguages.pdf)
+- [03-Context Free Lang.](./solutions/03-ContextFree.pdf)
+- [04-Turing Machines](./solutions/04-TuringMachines.pdf)
 
 <a name="other"></a>Other Useful Stuff
 ---------------------------------------
