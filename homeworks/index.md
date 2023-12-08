@@ -36,6 +36,7 @@ Homework solutions are now available below for study purposes.
 - [02-Regular Languages](./solutions/02-RegLanguages.pdf)
 - [03-Context Free Lang.](./solutions/03-ContextFree.pdf)
 - [04-Turing Machines](./solutions/04-TuringMachines.pdf)
+- [05-Turing Machines](./solutions/05-ComplexityTheory.pdf)
 
 <a name="other"></a>Other Useful Stuff
 ---------------------------------------
