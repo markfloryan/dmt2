@@ -38,17 +38,19 @@ There are a couple of ways you can contact course staff or other students if you
 <a name="headtas"></a>Instructor and Head TAs
 ------------------------------------------
 
-We have one instructor and multiple **Head TAs** for this course. Their names and emails are shown in the table below. Each head TA is responsible for a specific category (e.g., grading, office hours, etc.). Students should always **contact the relevant head ta first**, as the primary point of contact regarding issues in each category. Instructors are often slow at responding and the head TAs can more quickly address your concern or escalate the situation to an instructor if necessary.
+We have one instructor and multiple **Head TAs** for this course. Their names and emails are shown in the table below. Each head TA is responsible for a specific category (e.g., quiz grading, office hours, etc.). Students should always **contact the relevant head ta first**, as the primary point of contact regarding issues in each category. Instructors are often slow at responding and the head TAs can more quickly address your concern or escalate the situation to an instructor if necessary.
 
 ### Instructors / Head TAs
 
 | Name | Head TA / Inst. | TA Category | Email |
 |-|-|-|-|
 | Mark Floryan | Instructor | - | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) |
-| Zirou Qiu | Graduate/Head TA | Grading | [zq5au@virginia.edu](mailto:zq5au@virginia.edu) |
-| Gillian Morrissey | Head TA | Office Hours | [gsm2ju@virginia.edu](mailto:gsm2ju@virginia.edu) |
-| Ishita Gupta | Graduate/Head TA | Homeworks / HW Extensions | [rsy7tr@virginia.edu](mailto:rsy7tr@virginia.edu) |
-| Esshaan Mahajan | Graduate/Head TA | Regrades | [sgn4hf@virginia.edu](mailto:sgn4hf@virginia.edu) |
+| TBD | Graduate/Head TA | Homework Grading | [TBD](mailto:TBD@virginia.edu) |
+| TBD | Head TA | Quiz Grading | [TBD@virginia.edu](mailto:TBD@virginia.edu) |
+| TBD | Head TA | HW Extensions | [TBD@virginia.edu](mailto:TBD@virginia.edu) |
+| TBD | Head TA | Regrades | [TBD@virginia.edu](mailto:TBD@virginia.edu) |
+| TBD | Head TA | Office Hours | [TBD@virginia.edu](mailto:TBD@virginia.edu) |
+| TBD | Head TA | Piazza | [TBD@virginia.edu](mailto:TBD@virginia.edu) |
 
 
 <a name="officehours"></a>Office Hours Description and Schedule
@@ -63,9 +65,10 @@ Our office hours queue can be [found here](https://kytos02.cs.virginia.edu/asci)
 
 All TA office hours will be held in **Rice 442**. Floryan's office hours are in **Rice 203**.
 
-### Office Hours Schedule:
+### Office Hours Schedule (will be added soon):
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_f19928618a3d10acc4d4741a1e96a86d8c2c590f9f73e6a42ed937ac5a806cf6%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<!-- <iframe src="https://calendar.google.com/calendar/embed?src=c_f19928618a3d10acc4d4741a1e96a86d8c2c590f9f73e6a42ed937ac5a806cf6%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
 
 

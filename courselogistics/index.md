@@ -39,11 +39,13 @@ The course is divided into **5 modules**, each which lasts for about 2-5 lecture
 <a name="final"></a> Quizzes
 ----------------------------------------------------------
 
-Each module has one quiz associated with it, and you are expected to be able to take two quizzes during one lecture (75 minute period). Each individual quiz will be written to take about 30 minutes with a 7-8 minute buffer time built into the testing time. In addition, there is a final exam quiz that contains material from the entire semester (summative) that will be taken during the final exam (nore detail in final exam section belwo). The current dates for taking quizzes are as follows:
+Each module has one quiz associated with it, and you will take one quiz per class period with a 1 hour time limit. Each individual quiz will be written to take about 40 minutes. In addition, there is a final exam quiz that contains material from the entire semester (summative) that will be taken during the final exam (nore detail in final exam section below). The current dates for taking quizzes are as follows, but are subject to change:
 
-- **First quiz day (Modules 1 and 2):** Thu. Oct. 12
-- **Second quiz day (Modules 3 and 4):** Thu. Nov. 9
-- **Final exam quiz day (Modules 5, final exam quiz, and retakes):** Fri. Dec. 8
+- **Quiz 1 (Modules 1):** Thu. Feb. 8
+- **Quiz 2 (Modules 1):** Thu. Feb. 29
+- **Quiz 3 (Modules 1):** Thu. Mar. 28
+- **Quiz 4 (Modules 1):** Thu. Apr. 18
+- **Final exam (Modules 5, final exam quiz, and retakes):** Thu. May. 2
 
 These dates are subject to change. Each quiz will be graded separately, and thus you will earn a different grade for each individual quiz. Some quizzes can be retaken to improve your grade (modules 1-4). Some quizzes (module 5, the sixth summative quiz) can only be taken once due to time constraints.
 
@@ -101,7 +103,4 @@ Your final letter grade will be determined by the traditional decade curve. The 
 | A- | 90 |
 | A | 93 |
 | A+ | 99 |
-
-
-
 

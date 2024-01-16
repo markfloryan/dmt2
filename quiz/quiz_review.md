@@ -13,8 +13,6 @@ CS3120 - Quiz Review Guides
 <a name="introduction"></a>Module 1 Review Topics and Example Questions
 ---------------------------------------
 
-[Quiz Day 1 pdf](./QuizDay1.pdf)
-
 Module 1 involved a high-level discussion of what computing really means, as well as a review of proof techniques, cardinality, and other related topics. This list is **NOT EXHAUSTIVE** and there may be questions on the quiz that do not cleanly fall into any of the categories below. Students should be able to do the following on an assessment:
 
 - Any problem from any of the homework assignments on this module, including new problems that are similar but have slight variations.
