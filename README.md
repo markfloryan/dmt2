@@ -45,10 +45,10 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 | Name | Head TA / Inst. | TA Category | Email |
 |-|-|-|-|
 | Mark Floryan | Instructor | - | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) |
-| TBD | Graduate/Head TA | Homework Grading | [TBD](mailto:TBD@virginia.edu) |
-| TBD | Head TA | Quiz Grading | [TBD@virginia.edu](mailto:TBD@virginia.edu) |
-| TBD | Head TA | HW Extensions | [TBD@virginia.edu](mailto:TBD@virginia.edu) |
-| TBD | Head TA | Regrades | [TBD@virginia.edu](mailto:TBD@virginia.edu) |
+| Maxwell Bai | Head TA | Homework Grading | [wbu7dr@virginia.edu](mailto:wbu7dr@virginia.edu) |
+| Srilakshmi Medarametla | Head TA | Quiz Grading | [dcn4yy@virginia.edu](mailto:dcn4yy@virginia.edu) |
+| Elijah Boyd | Head TA | HW Extensions | [erb3mw@virginia.edu](mailto:erb3mw@virginia.edu) |
+| Varun Vejalla | Head TA | Regrades | [cgm5sa@virginia.edu](mailto:cgm5sa@virginia.edu) |
 | TBD | Head TA | Office Hours | [TBD@virginia.edu](mailto:TBD@virginia.edu) |
 | TBD | Head TA | Piazza | [TBD@virginia.edu](mailto:TBD@virginia.edu) |
 
