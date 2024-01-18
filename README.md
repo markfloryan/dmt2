@@ -49,8 +49,8 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 | Srilakshmi Medarametla | Head TA | Quiz Grading | [dcn4yy@virginia.edu](mailto:dcn4yy@virginia.edu) |
 | Elijah Boyd | Head TA | HW Extensions | [erb3mw@virginia.edu](mailto:erb3mw@virginia.edu) |
 | Varun Vejalla | Head TA | Regrades | [cgm5sa@virginia.edu](mailto:cgm5sa@virginia.edu) |
-| TBD | Head TA | Office Hours | [TBD@virginia.edu](mailto:TBD@virginia.edu) |
-| TBD | Head TA | Piazza | [TBD@virginia.edu](mailto:TBD@virginia.edu) |
+| Alexander Song | Head TA | Office Hours | [afs2gvu@virginia.edu](mailto:afs2gvu@virginia.edu) |
+| Esshaan Mahajan | Head TA | Piazza | [sgn4hf@virginia.edu](mailto:sgn4hf@virginia.edu) |
 
 
 <a name="officehours"></a>Office Hours Description and Schedule
