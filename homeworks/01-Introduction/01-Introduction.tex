@@ -12,6 +12,7 @@
 \usepackage{graphicx,type1cm,eso-pic,color}
 \usepackage{hyperref}
 \usepackage{amsmath}
+\usepackage{amsfonts}
 \usepackage{wasysym}
 
 \def\course{CS 3120: Discrete Math and Theory II}
@@ -89,6 +90,44 @@
 
 \section*{\homework}
 
+\question[3]{
+Consider the formal descriptions of each set below. For each, write a short informal English description of each set.
+}
+
+\begin{itemize}
+	\item $\{n | \exists_{m \in \mathbb{N}} : n=2m\}$ 
+	\item $\{n | \exists_{m \in \mathbb{N}} : n=2m \wedge \exists_{k \in \mathbb{N}} : n=3k \}$ 
+	\item $\{ w | \Sigma=\{0,1\} \wedge w=w^R \}$ \emph{**Note that $w^R$ is the reverse string of $w$}
+	\item $\{ n | n \in \mathbb{Z} \wedge n=n+1 \}$
+\end{itemize}
+
+\vspace{12pt}
+
+\question[3]{
+Similarly, for each informal description of the following languages, write out a formal version of the same set (in similar detail to what you see in the question above).
+}
+
+\begin{itemize}
+	\item The set containing all integers greater than 5
+	\item The set containing all bitstrings that contain 010 somewhere within them
+	\item The set containing all bitstrings that are odd
+\end{itemize}
+
+\vspace{12pt}
+
+\question[3]{
+\textbf{Find and describe the error in the following direct proof that 2=1:} Consider the equation $a=b$. Multiply both sides by $a$ to obtain $a^2=ab$. Subtract $b^2$ from both sides to get $a^2-b^2=ab-b^2$. Now factor each side, $(a+b)(a-b)=b(a-b)$ and divide each side by $(a-b)$ to get $a+b=b$. Finally, let $a=b=1$ and substitute to get $2=1$.
+}
+
+\vspace{12pt}
+
+\question[3]{
+\textbf{Find and describe the error in the following inductive proof that all horses are the same color:} For the base case, consider $h=1$. With one horse, they are trivially all the same color. Now assume that the claim is true for some value $h=k$ and try to prove it still holds for $h=k+1$ horses. Take the $k+1$ horses and arbitrarily remove one. By the inductive hypothesis, the remaining $k$ horses are all the same color. Now do the same but remove a different single horse. Again, by the inductive hypothesis the remaining $k$ horses are all the same color. Because we removed a different single horse each time, all of the $k+1$ horses much be the same color.\\
+\\
+In your description, make sure to emphasize not just the error in logic, but the properties of inductive proofs that must be carefully followed in order for the proof to be valid. In other words, we are NOT looking for a purely intuitive answer.}
+
+\vspace{12pt}
+
 
 \question[3]{
 Suppose you have an alphabet $\Sigma$ that has a specific length $m$ (i.e., $|\Sigma|=m$). How long is the alphabet $\Sigma^n$? In other words, what is the value of $|\Sigma^n|$? Write out your formula and provide 1 or 2 sentences justifying the formula.
@@ -102,27 +141,19 @@ If the set $A$ has $a$ elements, and the set $B$ has $b$ elements, how many elem
 
 \vspace{12pt}
 
-\question[3]{
-Suppose that $\Sigma = \{0,1\}$. Given the following intuitive descriptions of alphabets, provide a description of each of the same alphabets using formal, set notation.
 
-\begin{itemize}
-	\item Strings that begin with $011$ or begin with $100$.
-	\item Strings that contain four $1$s in a row at least once.
-	\item Strings that have two $1$s in a row somewhere in the string. However, the two ones are NOT the first two characters or the last two characters.
-\end{itemize}
-}
 
 
 \question[3]{
 Suppose I build a new computing machine that can be programmed to recognize a lot of different functions! It is called the \emph{Flogrammable Device}. In order to program this machine, you can type out your program on a \emph{tape}, but this type can only hold ten unique charactes. Each character is from the alphabet $\Sigma=\{a,b,c,0,1\}$ and any combination of these 10 characters is a valid program. You CANNOT have fewer than 10 characters or the code will not compile.\\
 \\
-Now suppose that you read online that somehow, there are only 10,000,000 important functions that need to be computed by the \emph{Flogrammable Device} for it to cover all important functionality. Can we program each of the 10,000,000 functions on this machine? How do you know or not?
+Now suppose that you read online that somehow, there are only 5,000,000 important functions that need to be computed by the \emph{Flogrammable Device} for it to cover all important functionality. Can we program each of the 5,000,000 functions on this machine? How do you know or not?
 }
 
 \vspace{12pt}
 
 \question[3]{
-\textbf{Proof Practice:} Prove that every graph $G = (V,E)$ such that $|V| \geq 2$ contains two nodes with equal degrees.
+\textbf{Proof Practice:} Prove that every undirected graph $G = (V,E)$ such that $G$ has no self-directed edges and $|V| \geq 2$ contains two nodes with equal degrees.
 }
 
 
