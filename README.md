@@ -63,7 +63,7 @@ Our office hours queue can be [found here](https://kytos02.cs.virginia.edu/asci)
 
 ### Office Hours Locations:
 
-All TA office hours will be held in **Rice 442**. Floryan's office hours are in **Rice 203**.
+All TA office hours will be held in **various rooms (check the schedule below for the specific rooms)**. Floryan's office hours are in **Rice 203**.
 
 ### Floryan's Office Hours (Rice 203)
 
@@ -74,10 +74,7 @@ All TA office hours will be held in **Rice 442**. Floryan's office hours are in 
 ### TA Office Hours (will be added soon):
 
 
-<!-- <iframe src="https://calendar.google.com/calendar/embed?src=c_f19928618a3d10acc4d4741a1e96a86d8c2c590f9f73e6a42ed937ac5a806cf6%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
-
-
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkHWlhg3Wk4XKrndrY51-hVnkSQDaCf0NG0eJ3RAiUl6KBvCJyZvON6qzraPRolorvU6EMfZQXO9GM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="1250" height="1350" frameborder="0" scrolling="no"></iframe>
 
 
 
