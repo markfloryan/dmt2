@@ -29,5 +29,9 @@ You can request a homework extensions by [filling out this form](https://forms.g
 <a name="other"></a>Other Useful Stuff
 ---------------------------------------
 
-- [Latex Tutorial](./latexTutorial.pdf): A short "assignment" we used to require that asks you to practice with latex. Includes some links to some tutorials on using Latex
+
+- [Latex Tutorial](https://www.latex-tutorial.com/tutorials/) - A nice starting tutorial on how to use latex. 
+- [Overleaf](https://overleaf.com) - A wonderful (and very popular) online tool for writing latex documents. 
+- [Overleaf's Latex Tutorial](https://www.overleaf.com/learn/latex/Tutorials) - The tutorial written by/for the Overleaf tool above.
+- [Latex Templates](https://www.overleaf.com/latex/examples/tagged/homework) - Overleaf also provides templates for homework assignments here, which you are free to use as a starting point.
 
