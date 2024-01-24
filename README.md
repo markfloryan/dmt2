@@ -65,7 +65,7 @@ The office hours queue is not active quite yet. I will repost the link once all 
 
 ### Office Hours Locations:
 
-All TA office hours will be held in **various rooms (check the schedule below for the specific rooms)**. Floryan's office hours are in **Rice 203**.
+All TA office hours will be held in **Thornton Stacks**. Floryan's office hours are in **Rice 203**.
 
 ### Floryan's Office Hours (Rice 203)
 
@@ -73,7 +73,7 @@ All TA office hours will be held in **various rooms (check the schedule below fo
 - Tuesday, 12:30pm - 2:00pm
 - Wednesday, 10:30am - 12:30pm
 
-### TA Office Hours (will be added soon):
+### TA Office Hours:
 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkHWlhg3Wk4XKrndrY51-hVnkSQDaCf0NG0eJ3RAiUl6KBvCJyZvON6qzraPRolorvU6EMfZQXO9GM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="1250" height="1350" frameborder="0" scrolling="no"></iframe>
