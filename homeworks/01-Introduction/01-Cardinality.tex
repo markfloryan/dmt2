@@ -17,7 +17,7 @@
 
 \def\course{CS 3120: Discrete Math and Theory II}
 \def\homework{Set Cardinality}
-\def\semester{Fall 2023}
+\def\semester{Spring 2024}
 
 \newboolean{solution}
 \setboolean{solution}{false}
@@ -100,7 +100,7 @@ For each of the following claims, state whether it is true or false and then pro
 	\item All finite sets have a \emph{surjection} to $\mathbb{N}$
 	\item If $A$ is a countably infinite set (i.e., $|A|=|\mathbb{N}|$) and $B$ is a also a countably infinite set (i.e., $|B| = |\mathbb{N}|$), then $A \cup B$ is also countable.
 	\item If $A$ is countably infinite and $B$ is uncountably infinite, then $A \cup B$ is countable.
-	\item If $A$ is countably infinite and $B$ is uncountably infinite, then $A \intersect B$ is countable.
+	\item If $A$ is countably infinite and $B$ is uncountably infinite, then $A \cap B$ is countable.
 \end{itemize}
 
 \vspace{12pt}
@@ -108,8 +108,12 @@ For each of the following claims, state whether it is true or false and then pro
 
 
 \question[3]{
-Prove that the set of rational numbers $\mathbb{Q}=\frac{a}{b}$ where $a \in \mathbb{Z}$ and $b \in \mathbb{Z}^+$ is countable. \emph{Hint: find a bijection between $\mathbb{Z} \times \mathbb{Z}^+$ and $\mathbb{N}$}
+Consider a square grid with length and width $n$. The bottom left corner is considered position $(0,0)$ and the upper right corner is position $(n,n)$ \emph{(*Note that the first item in the tuple is the square along the horizontal axis and the second element is the index along the vertical axis)}. You can see an example grid below.\\
+\\
+Our goal is to count the number of unique ways a robot starting at cell $(0,0)$ can reach cell $(n,n)$ by only moving up or to the right on each individual move. You need to do two things: 1) Prove that the number of unique moves is equal to the number of binary bitstrings of length $2n$ that contain exactly $n$ 1's by describing a bijection between these two sets. Then, 2) Declare how many unique moves this is as a function of $n$.
 }
+
+\includegraphics[scale=0.4]{img/lattice}
 
 \vspace{12pt}
 
