@@ -59,9 +59,7 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 
 ### Office Hours Queue
 
-<!-- Our office hours queue can be [found here](https://kytos02.cs.virginia.edu/asci). **NOTE that you do not have an account quite yet, but it will posted created soon!**. -->
-
-The office hours queue is not active quite yet. I will repost the link once all of the accounts have been created.
+Our office hours queue can be [found here](https://kytos02.cs.virginia.edu/asci).
 
 ### Office Hours Locations:
 
