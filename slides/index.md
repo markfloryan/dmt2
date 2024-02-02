@@ -1,4 +1,4 @@
-CS3120 - Algorithms (Schedule and Slides)
+CS3120 - Theory of Computation (Schedule and Slides)
 ===============================
 
 [Back to Main Page](../readme.html)
