@@ -12,11 +12,12 @@
 \usepackage{graphicx,type1cm,eso-pic,color}
 \usepackage{hyperref}
 \usepackage{amsmath}
+\usepackage{amsfonts}
 \usepackage{wasysym}
 
 \def\course{CS 3120: Discrete Math and Theory II}
 \def\homework{Context Free Languages}
-\def\semester{Fall 2023}
+\def\semester{Spring 2024}
 
 \newboolean{solution}
 \setboolean{solution}{false}
@@ -91,6 +92,24 @@
 
 
 \question[3]{
+For each of the languages below, provide a context-free grammar that generates it (Note that many of these are also regular languages). For all parts, $\Sigma=\{0,1\}$:
+}
+
+\begin{itemize}
+	\item All strings that contain at least three 1's
+	\item Strings of odd length that have 0 as middle symbol
+	\item Palindromes (i.e., $w = w^R$)
+\end{itemize}
+
+\vspace{12pt}
+
+\question[3]{
+Draw PDAs for each of the languages in the previous exercise (note that you can draw a DFA / NFA if the language happens to be regular).
+}
+
+\vspace{12pt}
+
+\question[3]{
 For this question, you will prove that context-free languages are NOT closed under intersection. Do this by showing the following:
 }
 
@@ -103,24 +122,25 @@ For this question, you will prove that context-free languages are NOT closed und
 \vspace{12pt}
 
 
-\question[3]{
-The grammar below looks like a portion of a reasonable programming language. For this question, you need to first show that this grammar is ambiguous, then re-write the grammar to be unambiguous for the same language. \emph{An ambiguous grammar is one in which there is at least one string that has two unique derivations.}
-}
 
-
-\begin{align*} 
-\text{STMT} &\rightarrow \text{ASSIGN} | \text{IF-THEN} | \text{IF-THEN-ELSE} \\
-\text{IF-THEN} &\rightarrow \text{if condition then STMT} \\
-\text{IF-THEN-ELSE} &\rightarrow \text{if condition then STMT else STMT} \\
-\text{ASSIGN} &\rightarrow a:=1
-\end{align*}
-
-\vspace{12pt}
 
 
 \question[3]{
 Let us define a new operation using the $\Diamond$ symbol as such: if $A$ and $B$ are languages, then $A \Diamond B = \{xy | x \in A, y \in B, |x|=|y| \}$. Prove that if $A$ and $B$ are regular languages, then $A \Diamond B$ must be a context-free language.
 }
 
+\vspace{12pt}
+
+
+\question[3]{
+Are \emph{Context-Free Grammars} closed under union, concatenation, and star? Explain at a high level why or why not. I do not need a formal proof here, but I want you to describe verbally how you would construct machines for each of these operations, and describe the primary differences between these constructions and the ones for regular languages.
+}
+
+\vspace{12pt}
+
+
+\question[3]{
+Prove that the following language is \emph{NOT} context-free: $\{wtw^R \ | \ w,t \in \{0,1\}^* \wedge |w|=|t| \}$
+}
 
 \end{document}
