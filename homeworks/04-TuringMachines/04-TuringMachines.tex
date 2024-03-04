@@ -28,7 +28,7 @@
 
 \def\course{CS 3120: Discrete Math and Theory II}
 \def\homework{Turing Machines and Decidability}
-\def\semester{Fall 2023}
+\def\semester{Spring 2024}
 
 \newboolean{solution}
 \setboolean{solution}{false}
@@ -107,10 +107,16 @@ Give implementation level descriptions for Turing Machines that decides the foll
 }
 
 \begin{itemize}
-	\item $\{w | w \text{contains an equal number of 0s and 1s} \}$
-	\item $\{w | w \text{contains an twice as many 0s as 1s} \}$
+	\item $\{w | w \ \text{contains an equal number of 0s and 1s} \}$
+	\item $\{w | w \ \text{contains an twice as many 0s as 1s} \}$
 \end{itemize}
 
+
+\vspace{12pt}
+
+\question[3]{
+Let $INF_{DFA} = \{A | \text{A is a DFA and L(A) is infinite}\}$. Show that $INF_{DFA}$ is decidable.
+}
 
 \vspace{12pt}
 
@@ -118,11 +124,16 @@ Give implementation level descriptions for Turing Machines that decides the foll
 A \emph{2-PDA} is a pushdown automata that has two stacks instead of just one. Prove that a 2-PDA is more powerful than a traditional PDA with one stack. \emph{Hint: Show how to simulate a Turing Machine's tape with the 2-PDA.}
 }
 
+\vspace{12pt}
+
+\question[3]{
+A \emph{Turing Machine with doubly-infinite tape} is an ordinary Turing Machine, except that the tape is infinitely indexed in both the left and right direction. Prove that this machine is equivalent in computational power to a traditional Turing Machine. 
+}
 
 \vspace{12pt}
 
 \question[3]{
-For this question, you will do three separate proofs. Prove that the class of \emph{Decidable Languages} is closed under union, concatenation, and star.
+For this question, you will do five separate proofs. Prove that the class of \emph{Decidable Languages} is closed under \emph{union}, \emph{concatenation}, \emph{star}, \emph{complement}, and \emph{intersection}.
 }
 
 \vspace{12pt}
@@ -131,17 +142,13 @@ For this question, you will do three separate proofs. Prove that the class of \e
 Prove the following claim: Let $C$ be a language. Prove that $C$ is Turing-recognizable if and only if a decidable language $D$ exists such that $C=\{x | \exists y ((x,y) \in D)\}$
 }
 
-
-
-
 \vspace{12pt}
 
 \question[3]{
-In the \emph{Harry Potter} books / movies, the Weasley family owns a magical clock that can tell when the Weasley children are (among other things) in \emph{mortal danger!}. See \href{https://harrypotter.fandom.com/wiki/Weasley_Clock}{this link} for details. Is it theoretically possible to build a clock with this functionality? In this problem you will show that building this function is undecidable.\\
-\\
-First, let's change the function of the clock to make this question less grim. Suppose instead of detecting whether Ron Weasley is in mortal danger, the clock detects whether Ron Weasley is in danger of getting his hair cut off. If the clock registers this danger setting, then Ron is going to get his hair cut off unless influenced by an outside force (the clock just knows!!). If the clock does not register this danger setting, then Ron's hair is safe from the clippers!\\
-\\
-Your question is this: Show that this clock's functionality is undecidable through reduction. Specifically, show that if this clock existed, you could construct a machine that decides the halting problem. Describe how to construct this machine. Your solution will likely require Turing Machines, physical components, razors, and Ron Weasley himself!
+Consider the following decision problem: "Given a Turing Machine \emph{M} and input \emph{w}, does \emph{M} ever write a 1 to the 10th cell of its tape?". Show, via reduction, that this problem is \emph{undecidable}.
 }
+
+
+
 
 \end{document}
