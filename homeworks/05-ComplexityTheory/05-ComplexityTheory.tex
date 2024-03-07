@@ -20,7 +20,7 @@
     linkcolor=blue,
     filecolor=magenta,      
     urlcolor=cyan,
-    pdftitle={Overleaf Example},
+    pdftitle={CS3120 - Homework 5},
     pdfpagemode=FullScreen,
     }
 
@@ -28,7 +28,7 @@
 
 \def\course{CS 3120: Discrete Math and Theory II}
 \def\homework{Complexity Theory}
-\def\semester{Fall 2023}
+\def\semester{Spring 2024}
 
 \newboolean{solution}
 \setboolean{solution}{false}
@@ -103,7 +103,15 @@
 
 
 \question[3]{
-Prove that $P$ closed under the star operator ($*$). (Hint: Given a language $L \in P$ and input $a$, use dynamic programming to build up solutions for each substring of $a$ to see if $a \in L^*$)
+Prove that $P$ closed under the star operator ($*$). (Hint: Given a language $L \in P$ and input $a$, use dynamic programming to build up solutions for each substring of $a$ to see if $a \in L^*$).\\
+\\
+Then, show that $NP$ is also closed under the star operator ($*$).
+}
+
+\vspace{12pt}
+
+\question[3]{
+Show that if $P = NP$, then every language $A \in P$, except $A = \emptyset$ and $A = \Sigma^*$ is \emph{NP-Complete}.
 }
 
 \vspace{12pt}
@@ -118,23 +126,7 @@ Prove that $P$ closed under the star operator ($*$). (Hint: Given a language $L 
 \vspace{12pt}
 
 \question[3]{
-You are working for \emph{Shoogle} (A data company that definitely does not exist) and you are given the following task from your boss: \emph{Shoogle} is interested in investing in their employees by offering a large amount of professional development. They have collected a series of \emph{workshops} that each cover a subset of \emph{topics}. For example, workshop 1 might cover machine learning and databases, workshop 2 might cover machine learning and data mining, and workshop 3 might cover advanced data structures (note that each workshop can cover multiple topics and there can be overlap across workshops). In addition, \emph{Shoogle} wants to make sure that over the course of the professional development workshops, at least one topic in each sub-area of interest is represented. For example, they might want to make sure there is at least one AI workshop (machine learning or reinforcement learning or neural networks, etc.), at least one systems workshop (databases or cloud computing), etc.\\
-\\
-So...the problem is this: Given the availability of the professional development workshop, what topics each covers, and which areas need to be covered, can you devise a schedule over multiple weeks that ensures that at least one topic in every area is covered by at least one workshop?\\
-\\
-Let's formalize this a bit: The input contains multiple items:
-
-\begin{itemize}
-    \item $T$: A list of individual topics that can be covered (e.g., machine learning).
-    \item $W=\{w_1,w_2,...,w_m | w_i \subseteq T\}$: A list of workshops, each of which is a subset of the topics $T$ that will be covered in that workshop. There are $m$ workshops total.
-    
-    \item $S=\{s_1,s_2,...,s_n | s_i \subseteq W\}$: The schedule availability for each week. Each $s_i$ is the subset of workshops that can be scheduled in week $i$. There are $n$ weeks.
-    \item $A= \{a_1,a_2,...,a_p | a_i \subseteq T\}$: The subject areas that need to be covered. Each area is a list of Topics in that area.
-\end{itemize}
-
-You want to output Yes if there is some schedule of workshops over the $n$ weeks such that every area has at least one topic in $T$ that is covered in at least one workshop.\\
-\\
-This problem is \emph{NP-Complete}. For your reduction, use \emph{3-SAT}.
+Let \emph{Double-Sat} (DS) be the following: $DS = \{\theta \ | \ \theta \ \text{has at least two satisfying assignments} \}$. Show that \emph{DS} is \emph{NP-Complete}.
 }
 
 \vspace{12pt}

@@ -72,7 +72,7 @@ This amounts to 30+30+90 = 180 minutes = 2.5 hours with 30 minutes of buffer tim
 
 There are **one or two homework assignments per module (depending on the module)**, that must be completed. These will be graded on a traditional scale (out of 10 points). See the syllabus and the homeworks page for more details.
 
-**Late Policy:** Homeworks have firm deadlines, but extensions can be requested via an online form (which will be provided to students at a later date). By filling out this form, you can request three extra weeks of time to work on the assignment. In general, these will always be granted for any reason. There will be **No extensions for any reason beyond the three week initial extension.** If you need additional time on homeworks, you should consider appealing for a grade on Incomplete at the end of the semester (contact the instructor for details).
+**Late Policy:** Homeworks have firm deadlines, but extensions can be requested via an online form (which will be provided to students at a later date). By filling out this form, you can request 10 days of time to work on the assignment. In general, these will always be granted for any reason. There will be **No extensions for any reason beyond the 10 day initial extension.** If you need additional time on homeworks, you should consider appealing for a grade on Incomplete at the end of the semester (contact the instructor for details).
 
 
 <a name="lettergrades"></a>Grades

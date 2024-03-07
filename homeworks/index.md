@@ -24,7 +24,7 @@ You can request a homework extensions by [filling out this form](https://forms.g
 | Module 2 | Regular Languages | [Reg. Languages](./02-RegularLanguages/02-RegLanguages.pdf) | [Prog. Challenge](./02-RegularLanguages/RegExpressions.pdf), ([Code](./02-RegularLanguages/code/regex_starter.zip)) | 
 | Module 3 | Context-Free Languages | [Written Prob. Set](./03-ContextFree/03-ContextFree.pdf) | ... |
 | Module 4 | Turing Machines and Decidability | [Written Problem Set](./04-TuringMachines/04-TuringMachines.pdf) | ... |
-| Module 5 | Complexity Theory | Complexity | ... |
+| Module 5 | Complexity Theory | [Complexity](./05-ComplexityTheory/05-ComplexityTheory.pdf) | ... |
 
 <a name="other"></a>Other Useful Stuff
 ---------------------------------------
