@@ -12,8 +12,11 @@ CS3120 - Quiz Review Guides
 
 [Fall 23 Quiz Day 1](./QuizDay1.pdf)
 
-[Fall 23Quiz Day 2](./QuizDay2.pdf)
+[Fall 23 Quiz Day 2](./QuizDay2.pdf)
 
+[Fall 23 Final Retakes](./f23-retakes.pdf)
+
+[Fall 23 Final Quiz](./f23-final.pdf)
 
 <a name="introduction"></a>Module 1 Review Topics and Example Questions
 ---------------------------------------
