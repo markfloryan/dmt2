@@ -130,5 +130,23 @@ Module 4 introduced the Turing Machine and the notion of decidability. We also d
 - Prove problems are undecidable through reduction.
 
 
+<a name="introduction"></a>Module 5 Review Topics and Example Questions
+---------------------------------------
 
+Module 5 took a closer look at different complexity classes within the **decidable functions**. We started to look at time complexity as you have seen it in past courses, and break down major complexity classes that are important to understand as they seem to be on the edge of our current computing capabilities. This list is **NOT EXHAUSTIVE** and there may be questions on the quiz that do not cleanly fall into any of the categories below. Students should be able to do the following on an assessment:
 
+- State the definition, in multiple ways if applicable, of the sets P, NP, NP-Hard, NP-Complete. These definitions should be in relation to Turing Machines and how Turing Machines solve problems.
+	- Example Question: What is the formal definition of NP-Hard? How does this class relate to the set NP? Explain your answer.
+
+- Understand the differences between function, decision, and verification problems. Understand how solutions to one of these helps (or does not help) in solving the others.
+	- Example Question: Suppose I have a decider for the decision version of traveling salesperson. How can I use this decider to find the optimal solution directly (the answer to the function problem, which is the length of the shortest hamiltonian cycle in the graph)?
+
+- Understand the relationship between DTMs and NTMs and how they can or cannot solve problems in the different categories above in different amounts of time. Proofs of interest include:
+	- If an NTM can solve a problem in polynomial time, a DTM can solve it in exponential time.
+	- Verification with a DTM is equivalent to solving decision problem with an NTM.
+
+- Understand and be able to explain the Cook-Levin Theorem and its proof of correctness.
+
+- Be able to identify problems that are NP-Complete are prove they are NP-Complete:
+	- Describe a verification algorithm for the problem.
+	- Take a known NP-Complete problem and describe a reduction from this known NPC problem. 
