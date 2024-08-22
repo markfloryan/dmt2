@@ -45,12 +45,13 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 | Name | Head TA / Inst. | TA Category | Email |
 |-|-|-|-|
 | Mark Floryan | Instructor | - | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) |
-| Maxwell Bai | Head TA | Homework Grading | [wbu7dr@virginia.edu](mailto:wbu7dr@virginia.edu) |
-| Srilakshmi Medarametla | Head TA | Quiz Grading | [dcn4yy@virginia.edu](mailto:dcn4yy@virginia.edu) |
-| Elijah Boyd | Head TA | HW Extensions | [erb3mw@virginia.edu](mailto:erb3mw@virginia.edu) |
-| Varun Vejalla | Head TA | Regrades | [cgm5sa@virginia.edu](mailto:cgm5sa@virginia.edu) |
-| Alexander Song | Head TA | Office Hours | [afs2gvu@virginia.edu](mailto:afs2gvu@virginia.edu) |
-| Esshaan Mahajan | Head TA | Piazza | [sgn4hf@virginia.edu](mailto:sgn4hf@virginia.edu) |
+| Kallie Whritenour| Graduate TA | - | [kw5km@virginia.edu](mailto:kw5km@virginia.edu) |
+| Liran Li | Head TA | Homework Grading | [zqj6pe@virginia.edu](mailto:zqj6pe@virginia.edu) |
+| Arjuna Bazaz | Head TA | Quiz Grading | [ab3ss@virginia.edu](mailto:ab3ss@virginia.edu) |
+| Bereket Tafesse | Head TA | HW Extensions | [uqs3dq@virginia.edu](mailto:uqs3dq@virginia.edu) |
+| Strom Norcross | Head TA | Regrades | [ywu6av@virginia.edu](mailto:ywu6av@virginia.edu) |
+| Mia McCarrick | Head TA | Office Hours | [auf7cw@virginia.edu](mailto:auf7cw@virginia.edu) |
+| Weici Zhao | Head TA | Piazza | [qan6vg@virginia.edu](maiilto:qan6vg@virginia.edu) |
 
 
 <a name="officehours"></a>Office Hours Description and Schedule
@@ -67,9 +68,8 @@ All TA office hours will be held in **Thornton Stacks**. Floryan's office hours 
 
 ### Floryan's Office Hours (Rice 203)
 
-- Monday, 11:00am - 12:00pm
-- Tuesday, 12:30pm - 2:00pm
-- Wednesday, 10:30am - 12:30pm
+- Mondays 12pm - 2pm
+- Tuesdays 12pm - 1:30pm
 
 ### TA Office Hours:
 
