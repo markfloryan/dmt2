@@ -41,11 +41,11 @@ The course is divided into **5 modules**, each which lasts for about 2-5 lecture
 
 Each module has one quiz associated with it, and you will take one quiz per class period with a 1 hour time limit. Each individual quiz will be written to take about 40 minutes. In addition, there is a final exam quiz that contains material from the entire semester (summative) that will be taken during the final exam (nore detail in final exam section below). The current dates for taking quizzes are as follows, but are subject to change:
 
-- **Quiz 1 (Modules 1):** Thu. Feb. 8
-- **Quiz 2 (Modules 1):** Thu. Feb. 29
-- **Quiz 3 (Modules 1):** Thu. Mar. 28
-- **Quiz 4 (Modules 1):** Thu. Apr. 18
-- **Final exam (Modules 5, final exam quiz, and retakes):** Thu. May. 2
+- **Quiz 1 (Modules 1):** Thu. Sep. 19
+- **Quiz 2 (Modules 1):** Thu. Oct. 10
+- **Quiz 3 (Modules 1):** Thu. Oct. 31
+- **Quiz 4 (Modules 1):** Thu. Nov. 21
+- **Final exam (Modules 5, final exam quiz, and retakes):** TBD
 
 These dates are subject to change. Each quiz will be graded separately, and thus you will earn a different grade for each individual quiz. Some quizzes can be retaken to improve your grade (modules 1-4). Some quizzes (module 5, the sixth summative quiz) can only be taken once due to time constraints.
 
@@ -53,7 +53,9 @@ These dates are subject to change. Each quiz will be graded separately, and thus
 <a name="homeworks"></a>Final Exam
 ----------------------------------------------------------
 
-The final exam is scheduled for Friday, Dec. 8 from 2-5pm. During this 3-hour exam period you will take 2-6 quizzes, depending on your specific situation in the class. The quizzes will be made available to you individual and you can take the ones that best suit your needs. The quizzes are:
+The final exam is for multiple days. I am in the process of trying to procure a single exam time for our class. I will update this page once the data/time of our final exam is settled.
+
+During the 3-hour exam period you will take 2-6 quizzes, depending on your specific situation in the class. The quizzes will be made available to you individual and you can take the ones that best suit your needs. The quizzes are:
 
 - **Module 5 quiz:** Everybody will, probably, take this quiz as it is your first and only attempt at the module 5 quiz
 - **Final Exam quiz:** Summative final exam quiz that will ask you to questions across the five modules. This quiz will ask you to draw on knowledge from multiple modules.
@@ -72,7 +74,7 @@ This amounts to 30+30+90 = 180 minutes = 2.5 hours with 30 minutes of buffer tim
 
 There are **one or two homework assignments per module (depending on the module)**, that must be completed. These will be graded on a traditional scale (out of 10 points). See the syllabus and the homeworks page for more details.
 
-**Late Policy:** Homeworks have firm deadlines, but extensions can be requested via an online form (which will be provided to students at a later date). By filling out this form, you can request 10 days of time to work on the assignment. In general, these will always be granted for any reason. There will be **No extensions for any reason beyond the 10 day initial extension.** If you need additional time on homeworks, you should consider appealing for a grade on Incomplete at the end of the semester (contact the instructor for details).
+**Late Policy:** Homeworks have firm deadlines, but extensions can be requested via an online form (which will be provided to students at a later date). By filling out this form, you can request 10 days of time to work on the assignment. In general, these will always be granted for any reason. There will be **No extensions for any reason beyond the 10 day initial extension.** If you need additional time on homeworks, you should consider appealing for a grade of Incomplete at the end of the semester (contact the instructor for details).
 
 
 <a name="lettergrades"></a>Grades
