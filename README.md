@@ -68,8 +68,8 @@ All TA office hours will be held in **Thornton Stacks**. Floryan's office hours 
 
 ### Floryan's Office Hours (Rice 203)
 
-- Mondays 12pm - 2pm
-- Tuesdays 12pm - 1:30pm
+- Mondays 11am - 1pm
+- Wednesdays 12pm - 1:30pm
 
 ### TA Office Hours:
 
