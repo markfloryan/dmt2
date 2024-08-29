@@ -47,11 +47,11 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 | Mark Floryan | Instructor | - | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) |
 | Kallie Whritenour| Graduate TA | - | [kw5km@virginia.edu](mailto:kw5km@virginia.edu) |
 | Liran Li | Head TA | Homework Grading | [zqj6pe@virginia.edu](mailto:zqj6pe@virginia.edu) |
-| Arjuna Bazaz | Head TA | Quiz Grading | [ab3ss@virginia.edu](mailto:ab3ss@virginia.edu) |
+| Arjuna Bazaz | Head TA | Piazza | [ab3ss@virginia.edu](mailto:ab3ss@virginia.edu) |
 | Bereket Tafesse | Head TA | HW Extensions | [uqs3dq@virginia.edu](mailto:uqs3dq@virginia.edu) |
 | Strom Norcross | Head TA | Regrades | [ywu6av@virginia.edu](mailto:ywu6av@virginia.edu) |
 | Mia McCarrick | Head TA | Office Hours | [auf7cw@virginia.edu](mailto:auf7cw@virginia.edu) |
-| Weici Zhao | Head TA | Piazza | [qan6vg@virginia.edu](maiilto:qan6vg@virginia.edu) |
+| Weici Zhao | Head TA | Quiz Grading | [qan6vg@virginia.edu](maiilto:qan6vg@virginia.edu) |
 
 
 <a name="officehours"></a>Office Hours Description and Schedule
