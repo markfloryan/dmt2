@@ -17,7 +17,7 @@
 
 \def\course{CS 3120: Discrete Math and Theory II}
 \def\homework{What is a computer? Proof Techniques}
-\def\semester{Spring 2024}
+\def\semester{Fall 2024}
 
 \newboolean{solution}
 \setboolean{solution}{false}
@@ -122,7 +122,13 @@ Similarly, for each informal description of the following languages, write out a
 \vspace{12pt}
 
 \question[3]{
-\textbf{Find and describe the error in the following inductive proof that all horses are the same color:} For the base case, consider $h=1$. With one horse, they are trivially all the same color. Now assume that the claim is true for some value $h=k$ and try to prove it still holds for $h=k+1$ horses. Take the $k+1$ horses and arbitrarily remove one. By the inductive hypothesis, the remaining $k$ horses are all the same color. Now do the same but remove a different single horse. Again, by the inductive hypothesis the remaining $k$ horses are all the same color. Because we removed a different single horse each time, all of the $k+1$ horses much be the same color.\\
+\textbf{Find and describe the error in the following inductive proof that all pairs of UVa students have worked together on at least one project:} First, order the students alphabetically by computing id and number them $0$ to $n-1$.\\
+\\
+\textbf{Base case}: consider $n=1$. With one student, they theorem is trivially true. There is only one student and thus they have worked with every other student on at least one project.\\
+\\
+\textbf{Inductive hypothesis}: Now assume that the claim is true for any arbitrary number of students $n \leq k$.\\
+\\
+\textbf{Inductive step}: Now try to prove it still holds for $n=k+1$ students. Take the $k+1$ students and arbitrarily remove one. By the inductive hypothesis, the remaining $k$ students have all worked on at least one project together. Now do the same but remove a different single student. Again, by the inductive hypothesis the remaining $k$ students have all worked on at least one project together. Do this one last time with a third unique student being remove. Because we removed a different single student each of the three times, all of the $k+1$ students must have worked together on at least one project because every pair of students was in at least one of the subsets of size $k$.\\
 \\
 In your description, make sure to emphasize not just the error in logic, but the properties of inductive proofs that must be carefully followed in order for the proof to be valid. In other words, we are NOT looking for a purely intuitive answer.}
 
@@ -130,13 +136,7 @@ In your description, make sure to emphasize not just the error in logic, but the
 
 
 \question[3]{
-Suppose you have an alphabet $\Sigma$ that has a specific length $m$ (i.e., $|\Sigma|=m$). How long is the alphabet $\Sigma^n$? In other words, what is the value of $|\Sigma^n|$? Write out your formula and provide 1 or 2 sentences justifying the formula.
-}
-
-\vspace{12pt}
-
-\question[3]{
-If the set $A$ has $a$ elements, and the set $B$ has $b$ elements, how many elements are in $A \times B$? Explain your answer in a sentence or two.
+Consider a graph $G=(V,E)$ where $|V| \% 2 = 0 \wedge |V| \geq 2$. Prove that if the degree of each node is at least $\frac{|V|}{2}$, then $G$ must be connected. \emph{$G$ does not contain any self-directed edges and $G$ is undirected.}
 }
 
 \vspace{12pt}
@@ -145,16 +145,12 @@ If the set $A$ has $a$ elements, and the set $B$ has $b$ elements, how many elem
 
 
 \question[3]{
-Suppose I build a new computing machine that can be programmed to recognize a lot of different functions! It is called the \emph{Flogrammable Device}. In order to program this machine, you can type out your program on a \emph{tape}, but this type can only hold ten unique charactes. Each character is from the alphabet $\Sigma=\{a,b,c,0,1\}$ and any combination of these 10 characters is a valid program. You CANNOT have fewer than 10 characters or the code will not compile.\\
+Suppose I build a new computing machine that can be programmed to recognize a lot of different functions! It is called the \emph{Flogrammable Device}. In order to program this machine, you can type out your program on a \emph{tape}, but this type can only hold ten unique charactes. Each character is from the alphabet $\Sigma=\{a,b,c,d,0,1\}$ and any combination of these 10 characters is a valid program. You CANNOT have fewer than 10 characters or the code will not compile.\\
 \\
-Now suppose that you read online that somehow, there are only 5,000,000 important functions that need to be computed by the \emph{Flogrammable Device} for it to cover all important functionality. Can we program each of the 5,000,000 functions on this machine? How do you know or not?
+Now suppose that you read online that somehow, there are only 5,000,000 important functions that need to be computed by the \emph{Flogrammable Device} for it to cover all important functionality. Can we program each of the 100,000,000 functions on this machine? How do you know or not?
 }
 
-\vspace{12pt}
 
-\question[3]{
-\textbf{Proof Practice:} Prove that every undirected graph $G = (V,E)$ such that $G$ has no self-directed edges and $|V| \geq 2$ contains two nodes with equal degrees.
-}
 
 
 
