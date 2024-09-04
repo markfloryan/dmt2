@@ -17,7 +17,7 @@
 
 \def\course{CS 3120: Discrete Math and Theory II}
 \def\homework{Regular Languages}
-\def\semester{Spring 2024}
+\def\semester{Fall 2024}
 
 \newboolean{solution}
 \setboolean{solution}{false}
@@ -95,11 +95,11 @@ Draw out \emph{DFA}s (not \emph{NFA}s) for each of the following languages. For 
 }
 
 \begin{itemize}
-	\item $\{w \ | \ w \text{ does not contain the substring } ab \}$ (\emph{*Hint: Draw out the DFA for a simpler language that DOES contain ab and then try to change that machine slightly.})
-	\item $\{w \ | \ w \text{ contains neither the substrings ab nor ba}\}$
-	\item $\{w \ | \ w \not\in a^*b^* \}$
-	\item $\{w \ | \ w \neq a \wedge w \neq b \}$
-	\item $\{w \ | \ w \text{ does not contain a pair of a's that are separated by an odd number of characters}\}$ (\emph{*Hint: This one should have exactly 5 states})
+	\item $\{w \ | \ w \text{ does not contain the substring } abba \}$ (\emph{*Hint: Draw out the DFA for a simpler language that DOES contain ab and then try to change that machine slightly.})
+	\item $\{w \ | \ w \text{ contains BOTH the substrings ab and ba}\}$
+	\item $\{w \ | \ w \in a^*b^*a^* \}$
+	\item $\{w \ | \ w \neq ab \wedge w \neq bb \}$
+	\item $\{w \ | \ w \in a^iw \ | \ i \in \mathbb{N}, w \in \{a,b\}^*, \text{w contains at least i a's} $ (\emph{*Hint: This one LOOKS not regular but it actually is. Can you figure out why?})
 \end{itemize}
 
 \vspace{12pt}
@@ -120,6 +120,7 @@ Prove that regular languages are closed under \emph{complement}. Do this by star
 For any string $w = w_1w_2,...,w_n$, let $w^R$ be the reverse of string $w$ (i.e., $w^R=w_n,...,w_2,w_1$). Prove that if a language $A$ is regular, then the language $A^R = \{w^R \ | \ w \in A\}$ is also regular.
 }
 
+
 \vspace{12pt}
 
 \question[3]{
@@ -127,8 +128,8 @@ Use the pumping lemma to show that the following languages are not regular.
 }
 
 \begin{itemize}
-	\item $A= \{ 0^n1^n2^n \ | \ n \geq 0\}$
-	\item $B= \{ www \ | \ w \in \{a,b\}^* \}$
+	\item $A= \{ 0^*0^n1^n1^* \ | \ n \geq 0\}$
+	\item $B= \{ w0^*011^*w \ | \ w \in \{0,1\}^* \}$
 \end{itemize}
 
 \vspace{12pt}
