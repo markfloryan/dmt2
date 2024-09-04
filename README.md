@@ -26,6 +26,13 @@ repository first**
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the slides used in the course.
 - [Quiz Review](quiz/quiz_review.html): Contains some review topics when studying for quizzes. 
 
+<a name="officehours"></a>Discussion Section
+------------------------------------------
+
+### Discussion Section Information
+
+Our graduate TA, Kallie Whritenour will host a discussion section. The discussion will take place **Fridays from 12-1pm in Rice 103**. Please stop by for review of course materials, group assistance on homework problems, and other additional useful material involving the course.
+
 <a name="headtas"></a>Contacting Course Staff
 ------------------------------------------
 
@@ -71,8 +78,11 @@ All TA office hours will be held in **Thornton Stacks**. Floryan's office hours 
 - Mondays 10am - 12pm
 - Wednesdays 12pm - 1:30pm
 
-### TA Office Hours:
+### Kallie's Office Hours (Rice 103)
 
+- Wednesdays 12-1pm
+
+### TA Office Hours:
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkHWlhg3Wk4XKrndrY51-hVnkSQDaCf0NG0eJ3RAiUl6KBvCJyZvON6qzraPRolorvU6EMfZQXO9GM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="1250" height="1350" frameborder="0" scrolling="no"></iframe>
 
