@@ -110,7 +110,12 @@ For each of the following claims, state whether it is true or false and then pro
 \question[3]{
 Consider a square grid with length and width $n$. The bottom left corner is considered position $(0,0)$ and the upper right corner is position $(n,n)$ \emph{(*Note that the first item in the tuple is the square along the horizontal axis and the second element is the index along the vertical axis)}. You can see an example grid below.\\
 \\
-Our goal is to count the number of unique ways a robot starting at cell $(0,0)$ can reach cell $(n,n)$ by only moving up or to the right on each individual move. You need to do two things: 1) Prove that the number of unique moves is equal to the number of binary bitstrings of length $2n$ that contain exactly $n$ 1's by describing a bijection between these two sets. Then, 2) Declare how many unique moves this is as a function of $n$.
+Our goal is to count the number of unique ways a robot starting at cell $(0,0)$ can reach cell $(n,n)$ by only moving up, down, left, right on the grid on each move. We would like you to do two things:
+
+\begin{enumerate}
+	\item In your own words, argue why the given set is infinite (as opposed to finite).
+	\item Show that the number of unique ways the robot can reach position $(n,n)$ is \emph{countably infinite}. \emph{Hint: Try showing that a superset of this one is countably infinite}.
+\end{enumerate}
 }
 
 \includegraphics[scale=0.4]{img/lattice}
@@ -120,12 +125,10 @@ Our goal is to count the number of unique ways a robot starting at cell $(0,0)$ 
 \question[3]{
 Use a proof by diagonalization to show that the following set is uncountable:\\
 \\
-$F=\{ f:\mathbb{N} \rightarrow \mathbb{N} | (a>b) \rightarrow (f(a) > f(b)) \}$
+$F= \mathcal{P}(\mathbb{N}) $
 \\
 \\
-In other words, this is the set of all strictly increasing functions that map natural numbers to natural numbers. A function is strictly increasing if larger inputs are guaranteed to produce larger outputs.\\
-\\
-For example, $f(x)=x^2$ is strictly increasing since if $a>b$, then $a^2>b^2$. However, $f(x)=(x-5)^2$ is not strictly increasing since $1<2$ but $f(1) > f(2)$.
+In other words, prove that the power set of the natural numbers (the set of all subsets of the natural numbers) is uncountable.
 }
 
 \vspace{12pt}

@@ -20,7 +20,7 @@ You can request a homework extensions by [filling out this form](https://forms.g
 
 | Module Number | Module Name | Homework 1 | Homework 2 (If Applicable) |
 |----------|------------------------|------------------------|------------------------|
-| Module 1 | Intro, Proofs, Cardinality | [Introduction](./01-Introduction/01-Introduction.pdf) | Cardinality |
+| Module 1 | Intro, Proofs, Cardinality | [Introduction](./01-Introduction/01-Introduction.pdf) | [Cardinality](./01-Introduction/01-Cardinality.pdf) |
 | Module 2 | Regular Languages | Reg. Languages | [Prog. Challenge](./02-RegularLanguages/RegExpressions.pdf), ([Code](./02-RegularLanguages/code/regex_starter.zip)) | 
 | Module 3 | Context-Free Languages | Written Prob. Set | ... |
 | Module 4 | Turing Machines and Decidability | Written Problem Set | ... |
