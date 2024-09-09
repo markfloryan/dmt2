@@ -17,7 +17,7 @@
 
 \def\course{CS 3120: Discrete Math and Theory II}
 \def\homework{Context Free Languages}
-\def\semester{Spring 2024}
+\def\semester{Fall 2024}
 
 \newboolean{solution}
 \setboolean{solution}{false}
@@ -92,13 +92,13 @@
 
 
 \question[3]{
-For each of the languages below, provide a context-free grammar that generates it (Note that many of these are also regular languages). For all parts, $\Sigma=\{0,1\}$:
+For each of the languages below, provide a context-free grammar that generates it (Note that some of these might also be regular languages, but we still want a grammar for each). For all parts, $\Sigma=\{0,1\}$:
 }
 
 \begin{itemize}
-	\item All strings that contain at least three 1's
-	\item Strings of odd length that have 0 as middle symbol
-	\item Palindromes (i.e., $w = w^R$)
+	\item Strings that contain exactly two 1's OR exactly two 0's
+	\item Strings of even length that contain 1100 directly in the center (i.e., $w1100u \ | \ |w|=|u|$)
+	\item $ww^Ruu^R \ | \ w \in \Sigma \wedge u \in \Sigma$
 \end{itemize}
 
 \vspace{12pt}
@@ -123,8 +123,6 @@ For this question, you will prove that context-free languages are NOT closed und
 
 
 
-
-
 \question[3]{
 Let us define a new operation using the $\Diamond$ symbol as such: if $A$ and $B$ are languages, then $A \Diamond B = \{xy | x \in A, y \in B, |x|=|y| \}$. Prove that if $A$ and $B$ are regular languages, then $A \Diamond B$ must be a context-free language.
 }
@@ -132,15 +130,22 @@ Let us define a new operation using the $\Diamond$ symbol as such: if $A$ and $B
 \vspace{12pt}
 
 
+
 \question[3]{
-Are \emph{Context-Free Grammars} closed under union, concatenation, and star? Explain at a high level why or why not. I do not need a formal proof here, but I want you to describe verbally how you would construct machines for each of these operations, and describe the primary differences between these constructions and the ones for regular languages.
+Suppose you have a context-free language $C$ and a regular language $R$. Prove that $C \cap R$ is context-free.
+}
+
+\vspace{12pt}
+
+\question[3]{
+Consider the language $A = \{w \ | \ w \in \{a,b,c\}^* \wedge F(w,a) = F(w,b) = F(w,c)\}$ where $F(w,a)$ counts the number of occurences of character $a$ in string $w$. Prove that $A$ is not context-free by using the result of the previous question (\emph{Hint: Assume this language is a CFL and intersect it with a regular language of your choice!})
 }
 
 \vspace{12pt}
 
 
 \question[3]{
-Prove that the following language is \emph{NOT} context-free: $\{wtw^R \ | \ w,t \in \{0,1\}^* \wedge |w|=|t| \}$
+Prove that the language $A$ from the previous question is not context-free again, but this time do so by utilizing the \emph{Pumping Lemma for Context-Free Languages}.
 }
 
 \end{document}
