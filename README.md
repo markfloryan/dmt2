@@ -31,7 +31,7 @@ repository first**
 
 ### Discussion Section Information
 
-Our graduate TA, Kallie Whritenour will host a discussion section. The discussion will take place **Fridays from 12-1pm in Rice 103**. Please stop by for review of course materials, group assistance on homework problems, and other additional useful material involving the course.
+Our graduate TA, Kallie Whritenour will host a discussion section. The discussion will take place **Fridays from 12-1pm in Rice 340**. Please stop by for review of course materials, group assistance on homework problems, and other additional useful material involving the course.
 
 <a name="headtas"></a>Contacting Course Staff
 ------------------------------------------
