@@ -38,8 +38,7 @@ Our graduate TA, Kallie Whritenour will host a discussion section. The discussio
 
 There are a couple of ways you can contact course staff or other students if you need assistance. Please do your best to select the method that best fits your issue(s):
 
-- **Contact Head TAs (Email):** If you have a specific question about an area covered by a head TA (office hours, grading, regrades, homework), then you should first try to contact the head TA in that area (see table below for details).
-- **Personal, Not Urgent:** For matters that require instructor or head TA approval (makeup quizzes, special circumstances, missing class, etc.) and are not urgent. Please submit a support ticket. You can do so by emailing [cs3120@cshelpdesk.atlassian.net](mailto:cs3120@cshelpdesk.atlassian.net).
+- **Personal, Not Urgent (Email):** If you have a specific question about an area covered by a head TA (office hours, grading, regrades, homework), then you should first try to contact the head TA in that area (see table below for details). If your request is not handled in a timely manner or to your satisfaction, then email Floryan with the details.
 - **Personal, Urgent:** Have an urgent and personal request that needs to be handled within 24 hours. Email Floryan directly and please label your email as urgent in the subject line so it stands out. 
 
 <a name="headtas"></a>Instructor and Head TAs
