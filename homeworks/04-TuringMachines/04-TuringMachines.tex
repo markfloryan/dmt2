@@ -28,7 +28,7 @@
 
 \def\course{CS 3120: Discrete Math and Theory II}
 \def\homework{Turing Machines and Decidability}
-\def\semester{Spring 2024}
+\def\semester{Fall 2024}
 
 \newboolean{solution}
 \setboolean{solution}{false}
@@ -107,21 +107,21 @@ Give implementation level descriptions for Turing Machines that decides the foll
 }
 
 \begin{itemize}
-	\item $\{w | w \ \text{contains an equal number of 0s and 1s} \}$
-	\item $\{w | w \ \text{contains an twice as many 0s as 1s} \}$
+	\item $\{w \ | \ w \ \text{contains an equal number of 0s and 1s} \}$
+	\item $\{W = w\#w \ | \ w \in \{0,1\}^* \}$
 \end{itemize}
 
 
 \vspace{12pt}
 
 \question[3]{
-Let $INF_{DFA} = \{A | \text{A is a DFA and L(A) is infinite}\}$. Show that $INF_{DFA}$ is decidable.
+Let $M_{DFA} = \{A | \text{A is a DFA that does not accept any string with an odd number of 1's}\}$. Show that $M_{DFA}$ is decidable.
 }
 
 \vspace{12pt}
 
 \question[3]{
-A \emph{2-PDA} is a pushdown automata that has two stacks instead of just one. Prove that a 2-PDA is more powerful than a traditional PDA with one stack. \emph{Hint: Show how to simulate a Turing Machine's tape with the 2-PDA.}
+Suppose we take the Turing Machine as defined in class, and we change the transition function to only allow the following: $\delta : Q \times \Gamma \rightarrow Q \times \Gamma \times \{S,R\}$. In other words, these machines can move the head right or stay in the same position but can never move left. Does this recognize the same set of languages as the normal \emph{Turing Machine}. If so, why? If not, what class of languages does it recognize?
 }
 
 \vspace{12pt}
@@ -145,7 +145,7 @@ Prove the following claim: Let $C$ be a language. Prove that $C$ is Turing-recog
 \vspace{12pt}
 
 \question[3]{
-Consider the following decision problem: "Given a Turing Machine \emph{M} and input \emph{w}, does \emph{M} ever write a 1 to the 10th cell of its tape?". Show, via reduction, that this problem is \emph{undecidable}.
+Consider the following decision problem: "Given a Turing Machine \emph{M} and input \emph{w}, does \emph{M} ever move it's head to the left three times in a row?". Show, via reduction, that this problem is \emph{undecidable}.
 }
 
 

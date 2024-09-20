@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  4 MAR 2024 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  20 SEP 2024 12:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -469,6 +469,11 @@ LaTeX Font Info:    Try loading font information for U+wasy on input line 110.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
+Overfull \hbox (11.53223pt too wide) in paragraph at lines 119--119
+[]\OT1/ppl/m/n/12 Let $\OML/cmm/m/it/12 M[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 
+f\OML/cmm/m/it/12 A\OMS/cmsy/m/n/12 j[]g$\OT1/ppl/m/n/12 . Show
+ []
+
 
 AED: lastpage setting LastPage
 [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
@@ -487,23 +492,24 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
 Here is how much of TeX's memory you used:
  7383 strings out of 492995
  105979 string characters out of 6132704
- 208369 words of memory out of 5000000
+ 209370 words of memory out of 5000000
  10825 multiletter control sequences out of 15000+600000
  12128 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,43p,284b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,43p,472b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
 ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texliv
 e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
-/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2017/t
-exmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2017/texmf-di
-st/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on 04-TuringMachines.pdf (1 page, 82648 bytes).
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2017/tex
+mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2017/texmf-dist
+/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on 04-TuringMachines.pdf (1 page, 90363 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
