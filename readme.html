@@ -8,16 +8,21 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="markdown.css" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <h1
@@ -102,7 +107,7 @@ an instructor if necessary.</p>
 <col style="width: 25%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th>Name</th>
 <th>Head TA / Inst.</th>
 <th>TA Category</th>
@@ -110,49 +115,49 @@ an instructor if necessary.</p>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>Mark Floryan</td>
 <td>Instructor</td>
 <td>-</td>
 <td><a href="mailto:mrf8t@virginia.edu">mrf8t@virginia.edu</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td>Kallie Whritenour</td>
 <td>Graduate TA</td>
 <td>-</td>
 <td><a href="mailto:kw5km@virginia.edu">kw5km@virginia.edu</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Liran Li</td>
 <td>Head TA</td>
 <td>Homework Grading</td>
 <td><a href="mailto:zqj6pe@virginia.edu">zqj6pe@virginia.edu</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td>Arjuna Bazaz</td>
 <td>Head TA</td>
 <td>Piazza</td>
 <td><a href="mailto:ab3ss@virginia.edu">ab3ss@virginia.edu</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Bereket Tafesse</td>
 <td>Head TA</td>
 <td>HW Extensions</td>
 <td><a href="mailto:uqs3dq@virginia.edu">uqs3dq@virginia.edu</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td>Strom Norcross</td>
 <td>Head TA</td>
 <td>Regrades</td>
 <td><a href="mailto:ywu6av@virginia.edu">ywu6av@virginia.edu</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Mia McCarrick</td>
 <td>Head TA</td>
 <td>Office Hours</td>
 <td><a href="mailto:auf7cw@virginia.edu">auf7cw@virginia.edu</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td>Weici Zhao</td>
 <td>Head TA</td>
 <td>Quiz Grading</td>
@@ -178,7 +183,7 @@ Floryan’s office hours are in <strong>Rice 203</strong>.</p>
 <h3 id="kallies-office-hours-rice-110">Kallie’s Office Hours (Rice
 110)</h3>
 <ul>
-<li>Wednesdays 12-1pm</li>
+<li>Wednesdays 11-12pm</li>
 </ul>
 <h3 id="ta-office-hours">TA Office Hours:</h3>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkHWlhg3Wk4XKrndrY51-hVnkSQDaCf0NG0eJ3RAiUl6KBvCJyZvON6qzraPRolorvU6EMfZQXO9GM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="1250" height="1350" frameborder="0" scrolling="no">

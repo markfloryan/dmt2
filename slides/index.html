@@ -8,16 +8,21 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="../markdown.css" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <h1 id="cs3120---theory-of-computation-schedule-and-slides">CS3120 -
@@ -34,7 +39,7 @@ Slides</a></p>
 <col style="width: 30%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th>Module Num</th>
 <th>Module Name</th>
 <th>Slides</th>
@@ -42,55 +47,55 @@ Slides</a></p>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>0</td>
 <td>Course Introduction</td>
 <td><a href="./00-CourseIntroduction.pptx">Course Introduction</a></td>
 <td>-</td>
 </tr>
-<tr class="even">
+<tr>
 <td>1</td>
 <td>Intro, Proofs, Cardinality</td>
 <td><a href="./01-WhatIsAComputer.pptx">What is a computer?</a></td>
 <td>-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td><a href="./01-ReviewOfProofs.pptx">Review of proofs</a></td>
 <td>Chapters 0.2-0.4</td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 <td><a href="./01-Cardinality.pptx">Set Cardinality</a></td>
 <td>-</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>2</td>
 <td>Regular Languages</td>
 <td><a href="./02-RegularLanguages.pptx">Regular Languages</a></td>
 <td>Chapter 1</td>
 </tr>
-<tr class="even">
+<tr>
 <td>3</td>
 <td>Context Free Grammars</td>
 <td><a href="./03-ContextFreeLanguages.pptx">CFGs</a></td>
 <td>Chapters 2</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>4</td>
 <td>Turing Machines</td>
 <td><a href="./04-TuringMachines.pptx">Turing Machines</a></td>
 <td>Chapter 3</td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 <td><a href="./04-DecidableLanguages.pptx">Decidability</a></td>
 <td>Chapter 4</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>5</td>
 <td>Complexity Theory</td>
 <td><a href="./05-ComplexityTheory.pptx">Complexity Theory</a></td>

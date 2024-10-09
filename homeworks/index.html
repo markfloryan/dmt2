@@ -8,16 +8,21 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="../markdown.css" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <h1
@@ -42,7 +47,7 @@ href="https://forms.gle/Pey9K5ttXFPzfG7e6">filling out this form</a></p>
 <col style="width: 29%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th>Module Number</th>
 <th>Module Name</th>
 <th>Homework 1</th>
@@ -50,14 +55,14 @@ href="https://forms.gle/Pey9K5ttXFPzfG7e6">filling out this form</a></p>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>Module 1</td>
 <td>Intro, Proofs, Cardinality</td>
 <td><a
 href="./01-Introduction/01-Introduction.pdf">Introduction</a></td>
 <td><a href="./01-Introduction/01-Cardinality.pdf">Cardinality</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td>Module 2</td>
 <td>Regular Languages</td>
 <td><a href="./02-RegularLanguages/02-RegLanguages.pdf">Reg.
@@ -66,21 +71,21 @@ Languages</a></td>
 Challenge</a>, (<a
 href="./02-RegularLanguages/code/regex_starter.zip">Code</a>)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Module 3</td>
 <td>Context-Free Languages</td>
 <td><a href="./03-ContextFree/03-ContextFree.pdf">Written Prob.
 Set</a></td>
 <td>…</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Module 4</td>
 <td>Turing Machines and Decidability</td>
 <td><a href="./04-TuringMachines/04-TuringMachines.pdf">Written Problem
 Set</a></td>
 <td>…</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Module 5</td>
 <td>Complexity Theory</td>
 <td><a

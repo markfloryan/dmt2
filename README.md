@@ -79,7 +79,7 @@ All TA office hours will be held in **Thornton Stacks**. Floryan's office hours 
 
 ### Kallie's Office Hours (Rice 110)
 
-- Wednesdays 12-1pm
+- Wednesdays 11-12pm
 
 ### TA Office Hours:
 
