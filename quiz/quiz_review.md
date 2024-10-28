@@ -10,6 +10,12 @@ CS3120 - Quiz Review Guides
 
 [Spring 24 Quiz 2](./sp24-quiz2.pdf)
 
+[Spring 24 Quiz 3](./sp24-quiz3.pdf)
+
+[Spring 24 Quiz 4](./sp24-quiz4.pdf)
+
+[Spring 24 Final Quiz](./sp24-final.pdf)
+
 [Fall 23 Quiz Day 1](./QuizDay1.pdf)
 
 [Fall 23 Quiz Day 2](./QuizDay2.pdf)
