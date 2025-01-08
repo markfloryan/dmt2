@@ -26,12 +26,6 @@ repository first**
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the slides used in the course.
 - [Quiz Review](quiz/quiz_review.html): Contains some review topics when studying for quizzes. 
 
-<a name="officehours"></a>Discussion Section
-------------------------------------------
-
-### Discussion Section Information
-
-Our graduate TA, Kallie Whritenour will host a discussion section. The discussion will take place **Fridays from 12-1pm in Rice 340**. Please stop by for review of course materials, group assistance on homework problems, and other additional useful material involving the course.
 
 <a name="headtas"></a>Contacting Course Staff
 ------------------------------------------
@@ -51,13 +45,11 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 | Name | Head TA / Inst. | TA Category | Email |
 |-|-|-|-|
 | Mark Floryan | Instructor | - | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) |
-| Kallie Whritenour| Graduate TA | - | [kw5km@virginia.edu](mailto:kw5km@virginia.edu) |
 | Liran Li | Head TA | Homework Grading | [zqj6pe@virginia.edu](mailto:zqj6pe@virginia.edu) |
-| Arjuna Bazaz | Head TA | Piazza | [ab3ss@virginia.edu](mailto:ab3ss@virginia.edu) |
+| Arjuna Bazaz | Head TA | Quiz Grading | [ab3ss@virginia.edu](mailto:ab3ss@virginia.edu) |
 | Bereket Tafesse | Head TA | HW Extensions | [uqs3dq@virginia.edu](mailto:uqs3dq@virginia.edu) |
-| Strom Norcross | Head TA | Regrades | [ywu6av@virginia.edu](mailto:ywu6av@virginia.edu) |
-| Mia McCarrick | Head TA | Office Hours | [auf7cw@virginia.edu](mailto:auf7cw@virginia.edu) |
-| Weici Zhao | Head TA | Quiz Grading | [qan6vg@virginia.edu](maiilto:qan6vg@virginia.edu) |
+| Mia McCarrick | Head TA | Office Hours and Regrades | [auf7cw@virginia.edu](mailto:auf7cw@virginia.edu) |
+| Varun Vejalla | Head TA | Piazza | [cgm5sa@virginia.edu](maiilto:cgm5sa@virginia.edu) |
 
 
 <a name="officehours"></a>Office Hours Description and Schedule
@@ -74,12 +66,8 @@ All TA office hours will be held in **Thornton Stacks**. Floryan's office hours 
 
 ### Floryan's Office Hours (Rice 203)
 
-- Mondays 10am - 12pm
-- Wednesdays 12pm - 1:30pm
+- TBD
 
-### Kallie's Office Hours (Rice 110)
-
-- Wednesdays 11-12pm
 
 ### TA Office Hours:
 

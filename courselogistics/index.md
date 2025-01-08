@@ -74,7 +74,7 @@ This amounts to 30+30+90 = 180 minutes = 2.5 hours with 30 minutes of buffer tim
 
 There are **one or two homework assignments per module (depending on the module)**, that must be completed. These will be graded on a traditional scale (out of 10 points). See the syllabus and the homeworks page for more details.
 
-**Late Policy:** Homeworks have firm deadlines, but extensions can be requested via an online form (which will be provided to students at a later date). By filling out this form, you can request 10 days of time to work on the assignment. In general, these will always be granted for any reason. There will be **No extensions for any reason beyond the 10 day initial extension.** If you need additional time on homeworks, you should consider appealing for a grade of Incomplete at the end of the semester (contact the instructor for details).
+**Late Policy:** Homeworks have firm deadlines, but extensions can be requested via an online form (which will be provided to students at a later date). By filling out this form, you can request up to 7 days of time to work on the assignment. In general, these will always be granted for any reason. There will be **No extensions for any reason beyond the 7 day extension.** If you need additional time on homeworks, you should consider appealing for a grade of Incomplete at the end of the semester (contact the instructor for details).
 
 
 <a name="lettergrades"></a>Grades
@@ -86,7 +86,7 @@ Your letter grade will be calculated using a traditional weighted average. The w
 - **Quizzes (modules 1-5):** 60 percent (12 percent each)
 - **Final Exam:** 15 percent
 
-Homeworks will be graded on a traditional percentage scale. Quizzes will be graded on a traditional percentage scale as well. However, I believe that once a quiz grade reaches a certain level, a student has clearly mastered the material and does need any incentive to retake that quiz. Thus, **any quiz grade that exceeds 90 percent (strictly greater than 90 percent) will be automatically rounded up to a perfect score**.
+Homeworks will be graded on a traditional percentage scale. Quizzes will be graded on a traditional percentage scale as well. However, I believe that once a quiz grade reaches a certain level, a student has clearly mastered the material and does need any incentive to retake that quiz. Thus, **any first attempt quiz grade that exceeds 90 percent (strictly greater than 90 percent) will be automatically rounded up to a perfect score**. Quiz retakes will not round up (as it is the final attempt and the incentive to retake is not present anymore).
 
 Your final letter grade will be determined by the traditional decade curve. The table for which is shown below:
 
