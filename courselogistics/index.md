@@ -86,9 +86,7 @@ Your letter grade will be calculated using a traditional weighted average. The w
 - **Quizzes (modules 1-5):** 60 percent (12 percent each)
 - **Final Exam:** 15 percent
 
-Homeworks will be graded on a traditional percentage scale. Quizzes will be graded on a traditional percentage scale as well. However, I believe that once a quiz grade reaches a certain level, a student has clearly mastered the material and does need any incentive to retake that quiz. Thus, **any first attempt quiz grade that exceeds 90 percent (strictly greater than 90 percent) will be automatically rounded up to a perfect score**. Quiz retakes will not round up (as it is the final attempt and the incentive to retake is not present anymore).
-
-Your final letter grade will be determined by the traditional decade curve. The table for which is shown below:
+Homeworks and quizzes will be graded on a traditional percentage scale. Your final letter grade will be determined by the traditional decade curve. The table for which is shown below:
 
 | Letter Grade | Percentage Average |
 |:--------------:|:---:|
