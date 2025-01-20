@@ -66,12 +66,15 @@ All TA office hours will be held in **Thornton Stacks**. Floryan's office hours 
 
 ### Floryan's Office Hours (Rice 203)
 
-- TBD
+Mon. 10:30am-12:00pm[^1] and Thu. 12:30pm-2:00pm[^2] in Floryan's Office (Rice 203)
+
+[^1]: Adv. Algo. (my other course) students are given preference during my Monday office hours. If any DMT2 students are present, you will be given priority in all cases.
+[^2]: DMT2 students are given preference during my Thursday office hours. If any DMT2 students are present, they will given priority and you will have to wait. 
 
 
 ### TA Office Hours:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkHWlhg3Wk4XKrndrY51-hVnkSQDaCf0NG0eJ3RAiUl6KBvCJyZvON6qzraPRolorvU6EMfZQXO9GM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="1250" height="1350" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkHWlhg3Wk4XKrndrY51-hVnkSQDaCf0NG0eJ3RAiUl6KBvCJyZvON6qzraPRolorvU6EMfZQXO9GM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="1000" height="800" frameborder="0" scrolling="no"></iframe>
 
 
 
