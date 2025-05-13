@@ -101,6 +101,6 @@ Homeworks and quizzes will be graded on a traditional percentage scale. Your fin
 | B | 83 |
 | B+ | 87 |
 | A- | 90 |
-| A | 93 |
-| A+ | 99 |
+| A | 94 |
+| A+ | 100 |
 
