@@ -13,7 +13,7 @@ The syllabus for the course can be found [here](./syllabus.pdf). Most (but not a
 <a name="lectures"></a>Lectures
 ------------------------------------------
 
-Lectures will be held in-person in the classroom listed on the University Registrar. Lectures will be recorded for the convenience of those who cannot intend or prefer not to for any reason.
+Lectures will be held in-person in the classroom listed on the University Registrar. Attendace is required for summer session and attendance will be taken every day.
 
 <a name="textbook"></a>Textbook
 ------------------------------------------
@@ -36,9 +36,12 @@ The course is divided into **5 modules**, each which lasts for about 2-5 lecture
 - **Module 4: Turing Machines and Decidability** 
 - **Module 5: Complexity Theory**
 
-<a name="final"></a> Quizzes
+<a name="final"></a> Exams
 ----------------------------------------------------------
 
+There will be two "midterms" and one "final exam". The dates are listed on the course schedule page. In general, they occur on Fridays.
+
+<!--
 Each module has one quiz associated with it, and you will take one quiz per class period with a 1 hour time limit. Each individual quiz will be written to take about 40 minutes. In addition, there is a final exam quiz that contains material from the entire semester (summative) that will be taken during the final exam (nore detail in final exam section below). The current dates for taking quizzes are as follows, but are subject to change:
 
 - **Quiz 1 (Modules 1):** Thu. Sep. 19
@@ -48,13 +51,14 @@ Each module has one quiz associated with it, and you will take one quiz per clas
 - **Final exam (Modules 5, final exam quiz, and retakes):** TBD
 
 These dates are subject to change. Each quiz will be graded separately, and thus you will earn a different grade for each individual quiz. Some quizzes can be retaken to improve your grade (modules 1-4). Some quizzes (module 5, the sixth summative quiz) can only be taken once due to time constraints.
-
+-->
 
 <a name="homeworks"></a>Final Exam
 ----------------------------------------------------------
 
-The final exam is for multiple days. I am in the process of trying to procure a single exam time for our class. I will update this page once the data/time of our final exam is settled.
+The final exam will be during the final course period (the final Friday). This will be a traditional final exam and you will have the entire course period to complete it.
 
+<!--
 During the 3-hour exam period you will take 2-6 quizzes, depending on your specific situation in the class. The quizzes will be made available to you individual and you can take the ones that best suit your needs. The quizzes are:
 
 - **Module 5 quiz:** Everybody will, probably, take this quiz as it is your first and only attempt at the module 5 quiz
@@ -68,6 +72,7 @@ This may seem daunting, but most students are not expected to take all six quizz
 - **Modules 1-4 retake quizzes (take up to 3):** 3 Optional Quizzes (30 minutes each, up to 90 minutes)
 
 This amounts to 30+30+90 = 180 minutes = 2.5 hours with 30 minutes of buffer time. If you WANT to try to take all four retake quizzes, you are welcome to try to within the 3-hour period. 
+-->
 
 <a name="homeworks"></a>Homeworks
 ----------------------------------------------------------
@@ -82,9 +87,16 @@ There are **one or two homework assignments per module (depending on the module)
 
 Your letter grade will be calculated using a traditional weighted average. The weights are:
 
+- **Attendance:** 25 percent (reduced by 2 percent for each absent)
+- **Homework:** 20 percent (about 6 homeworks)
+- **Midterms (2):** 30 percent (15 percent each)
+- **Final Exam:** 25 percent
+
+<!--
 - **Homework:** 25 percent (about 6 homeworks)
 - **Quizzes (modules 1-5):** 60 percent (12 percent each)
 - **Final Exam:** 15 percent
+-->
 
 Homeworks and quizzes will be graded on a traditional percentage scale. Your final letter grade will be determined by the traditional decade curve. The table for which is shown below:
 
