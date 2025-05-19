@@ -63,7 +63,7 @@ All TA office hours will be held on **Zoom**. Floryan's office hours are in **Ri
 
 ### Floryan's Office Hours (Rice 203)
 
-Mon, Wed, and Thu 9:15am-10:30pm in Rice 203
+Mon, Wed, and Thu 12:45am-2:00pm in Rice 203
 
 ### TA Office Hours:
 
