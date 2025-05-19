@@ -45,7 +45,7 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 | Name | Head TA / Inst. | TA Category | Email |
 |-|-|-|-|
 | Mark Floryan | Instructor | - | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) |
-| Mia McCarrick | Head (and only) TA | Undergraduate TA | [auf7cw@virginia.edu](mailto:auf7cw@virginia.edu) |
+| Natalia Wunder | Head (and only) TA | Undergraduate TA | [xax8gw@virginia.edu](mailto:xax8gw@virginia.edu) |
 
 
 <a name="officehours"></a>Office Hours Description and Schedule

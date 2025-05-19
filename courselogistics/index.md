@@ -10,6 +10,8 @@ CS3120 - Discrete Mathematics and Theory 2 Course Logistics
 
 The syllabus for the course can be found [here](./syllabus.pdf). Most (but not all) of that information is summarized here.
 
+**Important Note: The syllabus linked above is for the Spring semester and has NOT been update for the summer session. The information in that document is correct UNLESS it is overriden here, in which case the information on this page should be taken as correct...**
+
 <a name="lectures"></a>Lectures
 ------------------------------------------
 

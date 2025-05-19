@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>CS3120 - Quiz Review Guides</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="../markdown.css" />
+</head>
+<body>
+<h1 id="cs3120---quiz-review-guides">CS3120 - Quiz Review Guides</h1>
+<p><a href="../index.html">Back to main page</a></p>
+<h2 id="links-to-past-quizzes"><a name="links"></a>Links to past
+quizzes</h2>
+<p><a href="./sp24-quiz1.pdf">Spring 24 Quiz 1</a></p>
+<p><a href="./sp24-quiz2.pdf">Spring 24 Quiz 2</a></p>
+<p><a href="./sp24-quiz3.pdf">Spring 24 Quiz 3</a></p>
+<p><a href="./sp24-quiz4.pdf">Spring 24 Quiz 4</a></p>
+<p><a href="./sp24-retakes.pdf">Spring 24 Retakes</a></p>
+<p><a href="./sp24-final.pdf">Spring 24 Final Quiz</a></p>
+<p><a href="./QuizDay1.pdf">Fall 23 Quiz Day 1</a></p>
+<p><a href="./QuizDay2.pdf">Fall 23 Quiz Day 2</a></p>
+<p><a href="./f23-retakes.pdf">Fall 23 Final Retakes</a></p>
+<p><a href="./f23-final.pdf">Fall 23 Final Quiz</a></p>
+<h2
+id="module-1-review-topics-and-example-questions"><a name="introduction"></a>Module
+1 Review Topics and Example Questions</h2>
+<p>Module 1 involved a high-level discussion of what computing really
+means, as well as a review of proof techniques, cardinality, and other
+related topics. This list is <strong>NOT EXHAUSTIVE</strong> and there
+may be questions on the quiz that do not cleanly fall into any of the
+categories below. Students should be able to do the following on an
+assessment:</p>
+<ul>
+<li><p>Any problem from any of the homework assignments on this module,
+including new problems that are similar but have slight
+variations.</p></li>
+<li><p>Discuss Input/Output of computers as Strings using formal
+notation and interpretation simple descriptions of alpabets and sets of
+strings. Example questions:</p>
+<ul>
+<li>If <span class="math inline"><em>Σ</em> = {0, 1}</span>, then what
+do the following languages represent: <span
+class="math inline"><em>Σ</em><sup>+</sup></span>, <span
+class="math inline"><em>Σ</em><sup>2</sup> <em>U</em> <em>Σ</em><sup>3</sup></span>.</li>
+<li>Write out a formal description of the following set (you may use set
+operators union, concatenation, and star if you want to e.g., <span
+class="math inline">{0, 1}<sup>*</sup> <em>U</em> {1}<sup>3</sup></span>):
+The set of binary strings in which number of 0’s is exactly three times
+the number of 1’s</li>
+</ul></li>
+<li><p>Understand and describe the properties of functions:</p>
+<ul>
+<li>Injective, Surjective, and Bijective</li>
+<li>Give examples of functions with these properties</li>
+<li>Given a function, explain which properties it has:
+<ul>
+<li>E.g., Consider the function <span
+class="math inline">ℕ− &gt; ℕ  <em>f</em>(<em>x</em>) = <em>x</em><sup>2</sup></span>.
+Is this function injective? surjective?</li>
+</ul></li>
+<li>Cardinality: Be able to count the number of elements in a set
+<ul>
+<li>E.g., How many elements are in the set of rational numbers in which
+the denominator and numerator can only be 1, 2, or 3?</li>
+</ul></li>
+</ul></li>
+<li><p>Create bijections between two sets to show they have equal
+cardinality.</p>
+<ul>
+<li>Finite sets</li>
+<li>Infinite sets</li>
+<li>Argue that a provided bijection is injective and surjective
+<ul>
+<li>E.g., In class we saw a bijection from NxN to N. Argue, in words,
+why this function is injective.</li>
+</ul></li>
+</ul></li>
+<li><p>Understand and perform a proof by diagonalization to show that a
+set is uncountably infinite.</p>
+<ul>
+<li>See example from class AND homework problem.</li>
+</ul></li>
+</ul>
+<h2
+id="module-2-review-topics-and-example-questions"><a name="introduction"></a>Module
+2 Review Topics and Example Questions</h2>
+<p>Module 2 involved the introduction of the DFA and NFA machines,
+including the class of languages they recognize (regular languages). We
+always introduced the regular expressions, a different way of describing
+the same class of languages. This list is <strong>NOT
+EXHAUSTIVE</strong> and there may be questions on the quiz that do not
+cleanly fall into any of the categories below. Students should be able
+to do the following on an assessment:</p>
+<ul>
+<li><p>Any problem from any of the homework assignments on this module,
+including new problems that are similar but have slight
+variations.</p></li>
+<li><p>Understand and describe the difference between a function and a
+language. Describe how these are effectively the same but are presented
+in a different manner. Convert function descriptions into equivalent
+languages descriptions:</p>
+<ul>
+<li>Describe the language equivalent of this function: This function
+takes in strings containing 0, 1, and 2 and returns true if the sum of
+the bits is odd, otherwise it returns false.</li>
+</ul></li>
+<li><p>Show an understanding of Deterministic Finite Automata, how they
+work / operate. Be able to:</p>
+<ul>
+<li>Draw a DFA that recognizes a given language</li>
+<li>Describe the language (as a regular expression) that is recognized
+by a given DFA.</li>
+<li>Step through the computation of a DFA on a given input.</li>
+<li>Answer questions about the limitations of DFAs</li>
+</ul></li>
+<li><p>Show an understanding of the formal description / notation for a
+DFA. Write out the description of a DFA using formal notation instead of
+a picture (graph notation).</p></li>
+<li><p>Show an understanding of the formal definition of a valid
+computation on a DFA.</p></li>
+<li><p>Do all of the above, but for an NFA</p>
+<ul>
+<li>Understand and describe non-determinism, its benefits and
+limits</li>
+<li>Design a simple NFA</li>
+<li>Convert and NFA into an equivalent DFA</li>
+<li>Explain / prove that NFA and DFAs are equivalent in computational
+power.</li>
+</ul></li>
+<li><p>Show a proof of closure for regular languages under union,
+concatenation, and star.</p>
+<ul>
+<li>Prove closure under a new operation (complement, intersection,
+etc.)</li>
+</ul></li>
+<li><p>Read and write regular expressions as defined in this module.
+Answer any of the previous types of questions using regular
+expressions.</p></li>
+<li><p>Explain the proof that regular expressions are equivalent to
+DFA/NFA.</p>
+<ul>
+<li>Prove a language is regular by providing a regular expression for
+it.</li>
+</ul></li>
+<li><p>Answer questions about the validity of the pumping lemma</p>
+<ul>
+<li>Use the pumping lemma to prove a language is not regular.</li>
+</ul></li>
+</ul>
+<h2
+id="module-3-review-topics-and-example-questions"><a name="introduction"></a>Module
+3 Review Topics and Example Questions</h2>
+<p>Module 3 was a shorter module that discussed context-free grammars,
+push-down automata, and the pumping lemma for CFGs. This list is
+<strong>NOT EXHAUSTIVE</strong> and there may be questions on the quiz
+that do not cleanly fall into any of the categories below. Students
+should be able to do the following on an assessment:</p>
+<ul>
+<li>Draw a simple pushdown automata for a simple CFG
+<ul>
+<li>Draw a pushdown automata for this language: <span
+class="math inline">0<sup><em>n</em></sup>10<sup><em>n</em></sup></span></li>
+</ul></li>
+<li>Write out production rules for a simple grammar
+<ul>
+<li>Write out the Context-Free Grammar for the language <span
+class="math inline">0<sup><em>n</em></sup>10<sup><em>n</em></sup></span></li>
+</ul></li>
+<li>Do the following for PDAs / CFGs:
+<ul>
+<li>Look at an example PDA and list the language it recognizes</li>
+<li>Look at an example CFG and list the language it generates</li>
+<li>Look at a PDA with a bug/issue and fix it</li>
+<li>Look at a PDA and an example string and describe whether the PDA
+accepts the string or not</li>
+<li>Detect whether a given string is generated by a given context-free
+grammar.</li>
+</ul></li>
+<li>Discuss the proof of equivalence between context-free grammars and
+pushdown automata
+<ul>
+<li>How do we simulate a context-free grammar with a PDA?</li>
+<li>How do we simulate a PDA with a context-free grammar?</li>
+</ul></li>
+<li>Use the pumping lemma to prove a non-CFG is indeed not context-free
+<ul>
+<li>Use the pumping lemma to show that <span
+class="math inline"><em>a</em><sup><em>n</em></sup><em>b</em><sup><em>n</em></sup><em>c</em><sup><em>n</em></sup><em>d</em><sup><em>n</em></sup><em>e</em><sup><em>n</em></sup></span>
+is not context-free</li>
+</ul></li>
+</ul>
+<h2
+id="module-4-review-topics-and-example-questions"><a name="introduction"></a>Module
+4 Review Topics and Example Questions</h2>
+<p>Module 4 introduced the Turing Machine and the notion of
+decidability. We also discussed reductions, and some computational
+classes (TM non-recognizable, etc.) This list is <strong>NOT
+EXHAUSTIVE</strong> and there may be questions on the quiz that do not
+cleanly fall into any of the categories below. Students should be able
+to do the following on an assessment:</p>
+<ul>
+<li><p>Interpret a Turing Machine that is described or drawn in detail.
+What strings does it accept? What strings does it not accept,
+etc.</p></li>
+<li><p>Write a TM (in high level prose) that recognizes a given
+language</p></li>
+<li><p>Describe non-deterministic turing machines accurately that solve
+problems using non-determinism.</p></li>
+<li><p>Discuss the difference between decidability and
+recognizability.</p></li>
+<li><p>Discuss the definition of complement, and why the complement
+language can sometimes be harder to recognize than the language
+itself.</p></li>
+<li><p>Prove problems are undecidable through reduction.</p></li>
+</ul>
+<h2
+id="module-5-review-topics-and-example-questions"><a name="introduction"></a>Module
+5 Review Topics and Example Questions</h2>
+<p>Module 5 took a closer look at different complexity classes within
+the <strong>decidable functions</strong>. We started to look at time
+complexity as you have seen it in past courses, and break down major
+complexity classes that are important to understand as they seem to be
+on the edge of our current computing capabilities. This list is
+<strong>NOT EXHAUSTIVE</strong> and there may be questions on the quiz
+that do not cleanly fall into any of the categories below. Students
+should be able to do the following on an assessment:</p>
+<ul>
+<li><p>State the definition, in multiple ways if applicable, of the sets
+P, NP, NP-Hard, NP-Complete. These definitions should be in relation to
+Turing Machines and how Turing Machines solve problems.</p>
+<ul>
+<li>Example Question: What is the formal definition of NP-Hard? How does
+this class relate to the set NP? Explain your answer.</li>
+</ul></li>
+<li><p>Understand the differences between function, decision, and
+verification problems. Understand how solutions to one of these helps
+(or does not help) in solving the others.</p>
+<ul>
+<li>Example Question: Suppose I have a decider for the decision version
+of traveling salesperson. How can I use this decider to find the optimal
+solution directly (the answer to the function problem, which is the
+length of the shortest hamiltonian cycle in the graph)?</li>
+</ul></li>
+<li><p>Understand the relationship between DTMs and NTMs and how they
+can or cannot solve problems in the different categories above in
+different amounts of time. Proofs of interest include:</p>
+<ul>
+<li>If an NTM can solve a problem in polynomial time, a DTM can solve it
+in exponential time.</li>
+<li>Verification with a DTM is equivalent to solving decision problem
+with an NTM.</li>
+</ul></li>
+<li><p>Understand and be able to explain the Cook-Levin Theorem and its
+proof of correctness.</p></li>
+<li><p>Be able to identify problems that are NP-Complete are prove they
+are NP-Complete:</p>
+<ul>
+<li>Describe a verification algorithm for the problem.</li>
+<li>Take a known NP-Complete problem and describe a reduction from this
+known NPC problem.</li>
+</ul></li>
+</ul>
+</body>
+</html>

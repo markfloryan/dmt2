@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>CS3120 - Discrete Mathematics and Theory II: Homework Assignments</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="../markdown.css" />
+</head>
+<body>
+<h1
+id="cs3120---discrete-mathematics-and-theory-ii-homework-assignments">CS3120
+- Discrete Mathematics and Theory II: Homework Assignments</h1>
+<p><a href="../readme.html">Back to Main Page</a></p>
+<h2 id="how-to-submit-assignments"><a name="introduction"></a>How to
+Submit Assignments</h2>
+<p>We will be using <a href="https://gradescope.com">Gradescope</a> for
+this course. If necessary, I will post more details about how to submit
+to Gradescope.</p>
+<h2 id="homework-extensions"><a name="introduction"></a>Homework
+Extensions</h2>
+<p>You can request a homework extensions by <a
+href="https://forms.gle/Pey9K5ttXFPzfG7e6">filling out this form</a></p>
+<h2 id="assignments"><a name="introduction"></a>Assignments</h2>
+<table>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 29%" />
+<col style="width: 29%" />
+<col style="width: 29%" />
+</colgroup>
+<thead>
+<tr>
+<th>Module Number</th>
+<th>Module Name</th>
+<th>Homework 1</th>
+<th>Homework 2 (If Applicable)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Module 1</td>
+<td>Intro, Proofs, Cardinality</td>
+<td><a href="./01-Introduction/01-Cardinality.pdf">Cardinality and
+Proofs</a></td>
+<td></td>
+</tr>
+<tr>
+<td>Module 2</td>
+<td>Regular Languages</td>
+<td><a href="./02-RegularLanguages/02-RegLanguages.pdf">Reg.
+Languages</a></td>
+<td><a href="./02-RegularLanguages/RegExpressions.pdf">Prog.
+Challenge</a>, (<a
+href="./02-RegularLanguages/code/regex_starter.zip">Code</a>)</td>
+</tr>
+<tr>
+<td>Module 3</td>
+<td>Context-Free Languages</td>
+<td><a href="./03-ContextFree/03-ContextFree.pdf">Written Prob.
+Set</a></td>
+<td>…</td>
+</tr>
+<tr>
+<td>Module 4</td>
+<td>Turing Machines and Decidability</td>
+<td><a href="./04-TuringMachines/04-TuringMachines.pdf">Written Problem
+Set</a></td>
+<td>…</td>
+</tr>
+<tr>
+<td>Module 5</td>
+<td>Complexity Theory</td>
+<td><a
+href="./05-ComplexityTheory/05-ComplexityTheory.pdf">Complexity</a> (<a
+href="./05-ComplexityTheory/05-ComplexityTheory-sols.pdf">Solutions</a>)</td>
+<td>…</td>
+</tr>
+</tbody>
+</table>
+<h2 id="other-useful-stuff"><a name="other"></a>Other Useful Stuff</h2>
+<ul>
+<li><a href="https://www.latex-tutorial.com/tutorials/">Latex
+Tutorial</a> - A nice starting tutorial on how to use latex.</li>
+<li><a href="https://overleaf.com">Overleaf</a> - A wonderful (and very
+popular) online tool for writing latex documents.</li>
+<li><a href="https://www.overleaf.com/learn/latex/Tutorials">Overleaf’s
+Latex Tutorial</a> - The tutorial written by/for the Overleaf tool
+above.</li>
+<li><a
+href="https://www.overleaf.com/latex/examples/tagged/homework">Latex
+Templates</a> - Overleaf also provides templates for homework
+assignments here, which you are free to use as a starting point.</li>
+</ul>
+</body>
+</html>

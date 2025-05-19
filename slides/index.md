@@ -10,7 +10,7 @@ CS3120 - Theory of Computation (Schedule and Slides)
 
 |Module Num|Module Name|Slides|Book Chapters|
 |-|---|---|---|
-|0|Course Introduction|[Course Introduction](./00-CourseIntroduction.pptx)|-|
+|0|Course Introduction|[Course Introduction](./00-CourseIntroduction_summer.pptx)|-|
 |1|Intro, Proofs, Cardinality|[What is a computer?](./01-WhatIsAComputer.pptx)|-|
 |||[Review of proofs](./01-ReviewOfProofs.pptx)|Chapters 0.2-0.4|
 |||[Set Cardinality](./01-Cardinality.pptx)|-|
