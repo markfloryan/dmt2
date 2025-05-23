@@ -67,8 +67,13 @@ Mon, Wed, and Thu 12:45am-2:00pm in Rice 203
 
 ### TA Office Hours:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkHWlhg3Wk4XKrndrY51-hVnkSQDaCf0NG0eJ3RAiUl6KBvCJyZvON6qzraPRolorvU6EMfZQXO9GM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="1000" height="800" frameborder="0" scrolling="no"></iframe>
+Tue, Wed, and Thu from 5pm - 6pm on Zoom
 
+[Click here to join TA office hours](https://virginia.zoom.us/j/95182519274?pwd=ynDhGcg3cgZkdFPDgk8mgPsXGRepLs.1)
+
+<!--
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkHWlhg3Wk4XKrndrY51-hVnkSQDaCf0NG0eJ3RAiUl6KBvCJyZvON6qzraPRolorvU6EMfZQXO9GM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="1000" height="800" frameborder="0" scrolling="no"></iframe>
+-->
 
 
 
