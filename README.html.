@@ -75,9 +75,9 @@ head TA in that area (see table below for details). If your request is
 not handled in a timely manner or to your satisfaction, then email
 Floryan with the details.</li>
 <li><strong>Personal, Urgent:</strong> Have an urgent and personal
-request that needs to be handled within 24 hours. Email Floryan directly
-and please label your email as urgent in the subject line so it stands
-out.</li>
+request that needs to be handled within 24 hours. Email your instructor
+directly and please label your email as urgent in the subject line so it
+stands out.</li>
 </ul>
 <h2 id="instructor-and-head-tas"><a name="headtas"></a>Instructor and
 Head TAs</h2>
@@ -113,10 +113,46 @@ an instructor if necessary.</p>
 <td><a href="mailto:mrf8t@virginia.edu">mrf8t@virginia.edu</a></td>
 </tr>
 <tr>
+<td>Ray Pettit</td>
+<td>Instructor</td>
+<td>-</td>
+<td><a href="mailto:rp6zr@virginia.edu">rp6zr@virginia.edu</a></td>
+</tr>
+<tr>
+<td>Chase Fickles</td>
+<td>Graduate and Head TA</td>
+<td>Regrades</td>
+<td><a href="mailto:muj2bn@virginia.edu">muj2bn@virginia.edu</a></td>
+</tr>
+<tr>
 <td>Natalia Wunder</td>
-<td>Head (and only) TA</td>
-<td>Undergraduate TA</td>
+<td>Head TA</td>
+<td>Quiz Grading</td>
 <td><a href="mailto:xax8gw@virginia.edu">xax8gw@virginia.edu</a></td>
+</tr>
+<tr>
+<td>Varun Vejalla</td>
+<td>Head TA</td>
+<td>Homework Grading</td>
+<td><a href="mailto:cgm5sa@virginia.edu">cgm5sa@virginia.edu</a></td>
+</tr>
+<tr>
+<td>Elina Liu</td>
+<td>Head TA</td>
+<td>Office Hours</td>
+<td><a href="mailto:bug4my@virginia.edu">bug4my@virginia.edu</a></td>
+</tr>
+<tr>
+<td>Jeremy Ky</td>
+<td>Head TA</td>
+<td>Extensions</td>
+<td><a href="mailto:juh7hc@virginia.edu">juh7hc@virginia.edu</a></td>
+</tr>
+<tr>
+<td>TBD</td>
+<td>Head TA</td>
+<td>Piazza</td>
+<td>TBD</td>
 </tr>
 </tbody>
 </table>
@@ -124,23 +160,26 @@ an instructor if necessary.</p>
 id="office-hours-description-and-schedule"><a name="officehours"></a>Office
 Hours Description and Schedule</h2>
 <h3 id="office-hours-queue">Office Hours Queue</h3>
-<p><strong>(Note we will not need to use this during the Summer
-term)</strong> Our office hours queue can be <a
+<p>Our office hours queue can be <a
 href="https://kytos02.cs.virginia.edu/asci">found here</a>.</p>
 <h3 id="office-hours-locations">Office Hours Locations:</h3>
-<p>All TA office hours will be held on <strong>Zoom</strong>. Floryan’s
-office hours are in <strong>Rice 203</strong>.</p>
+<p>All in-person TA office hours will be held in Thornton Stacks.</p>
+<p>Zoom office hours will be held on Zoom.</p>
+<p>Floryan’s office hours are in <strong>Rice 203</strong>.</p>
+<p>Pettit’s office hours are in <strong>Rice 212</strong></p>
+<h3 id="pettits-office-hours-rice-212">Pettit’s Office Hours (Rice
+212)</h3>
+<p><strong>COMING SOON</strong></p>
 <h3 id="floryans-office-hours-rice-203">Floryan’s Office Hours (Rice
 203)</h3>
-<p>Mon, Wed, and Thu 12:45am-2:00pm in Rice 203</p>
+<p>Wednesday (12:30-2) and Friday (11-1)</p>
 <h3 id="ta-office-hours">TA Office Hours:</h3>
-<p>Tue, Wed, and Thu from 5pm - 6pm on Zoom</p>
+<p>TA Office hours can be found by looking at the schedule below.</p>
 <p><a
 href="https://virginia.zoom.us/j/95182519274?pwd=ynDhGcg3cgZkdFPDgk8mgPsXGRepLs.1">Click
 here to join TA office hours</a></p>
-<!--
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkHWlhg3Wk4XKrndrY51-hVnkSQDaCf0NG0eJ3RAiUl6KBvCJyZvON6qzraPRolorvU6EMfZQXO9GM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="1000" height="800" frameborder="0" scrolling="no"></iframe>
--->
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkHWlhg3Wk4XKrndrY51-hVnkSQDaCf0NG0eJ3RAiUl6KBvCJyZvON6qzraPRolorvU6EMfZQXO9GM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="1000" height="800" frameborder="0" scrolling="no">
+</iframe>
 <h2 id="license"><a name="license"></a>License</h2>
 <p>The material in this repository is released under a <a
 href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
