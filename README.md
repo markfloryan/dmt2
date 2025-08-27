@@ -79,7 +79,7 @@ Pettit's office hours are in **Rice 212**
 
 ### Floryan's Office Hours (Rice 203)
 
-Wednesday (12:30-2) and Friday (11-1)
+Wednesday (12:30 - 2:00) and Thursday (12:30 - 2:00)
 
 ### TA Office Hours:
 
