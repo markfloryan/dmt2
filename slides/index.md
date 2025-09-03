@@ -11,14 +11,14 @@ CS3120 - Theory of Computation (Schedule and Slides)
 |Module Num|Module Name|Slides|Book Chapters|
 |-|---|---|---|
 |0|Course Introduction|[Course Introduction](./00-CourseIntroduction.pptx)|-|
-|1|Intro, Proofs, Cardinality|[What is a computer?](./01-WhatIsAComputer.pptx)|-|
-|||[Review of proofs](./01-ReviewOfProofs.pptx)|Chapters 0.2-0.4|
-|||[Set Cardinality](./01-Cardinality.pptx)|-|
-|2|Regular Languages|[Regular Languages](./02-RegularLanguages.pptx)|Chapter 1|
-|3|Context Free Grammars|[CFGs](./03-ContextFreeLanguages.pptx)|Chapters 2|
-|4|Turing Machines|[Turing Machines](./04-TuringMachines.pptx)|Chapter 3|
-|||[Decidability](./04-DecidableLanguages.pptx) |Chapter 4|
-|5|Complexity Theory|[Complexity Theory](./05-ComplexityTheory.pptx)||
+|1|Intro, Proofs, Cardinality|[What is a computer?](./01-WhatIsAComputer.pptx) ([pdf](./pdf/01-WhatIsAComputer.pdf))|-|
+|||[Review of proofs](./01-ReviewOfProofs.pptx) ([pdf](./pdf/01-ReviewOfProofs.pdf))|Chapters 0.2-0.4|
+|||[Set Cardinality](./01-Cardinality.pptx) ([pdf](./pdf/01-Cardinality.pdf))|-|
+|2|Regular Languages|[Regular Languages](./02-RegularLanguages.pptx) ([pdf](./pdf/02-RegularLanguages.pdf))|Chapter 1|
+|3|Context Free Grammars|[CFGs](./03-ContextFreeLanguages.pptx) ([pdf](.//pdf/03-ContextFreeLanguages.pdf))|Chapters 2|
+|4|Turing Machines|[Turing Machines](./04-TuringMachines.pptx) ([pdf](./pdf/04-TuringMachines.pdf))|Chapter 3|
+|||[Decidability](./04-DecidableLanguages.pptx) ([pdf](./pdf/04-DecidableLanguages.pdf))|Chapter 4|
+|5|Complexity Theory|[Complexity Theory](./05-ComplexityTheory.pptx) ([pdf](./pdf/05-ComplexityTheory.pdf))||
 
 
 <a name="schedule"></a>Schedule
