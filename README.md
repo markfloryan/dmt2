@@ -54,6 +54,13 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 | TBD | Head TA | Piazza | TBD |
 
 
+<a name="officehours"></a>Office Hours Description and Schedule
+------------------------------------------
+
+### Discussion session
+
+Our graduate TA (Chase) will be holding a discussion section for Q&A, homework review, quiz preparation, etc. every **Wednesday, from 4-5pm in Rice 110**.
+
 
 <a name="officehours"></a>Office Hours Description and Schedule
 ------------------------------------------
