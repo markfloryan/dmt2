@@ -82,7 +82,7 @@ Pettit's office hours are in **Rice 212**
 
 ### Pettit's Office Hours (Rice 212)
 
-**COMING SOON**
+Monday (11-12:30) and Friday (11-12:30)
 
 ### Floryan's Office Hours (Rice 203)
 
