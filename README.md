@@ -92,7 +92,7 @@ Wednesday (12:30 - 2:00) and Thursday (12:30 - 2:00)
 
 TA Office hours can be found by looking at the schedule below.
 
-[Click here to join TA office hours](https://virginia.zoom.us/j/95182519274?pwd=ynDhGcg3cgZkdFPDgk8mgPsXGRepLs.1)
+To join TA office hours on zoom, click the link in the table below.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTkHWlhg3Wk4XKrndrY51-hVnkSQDaCf0NG0eJ3RAiUl6KBvCJyZvON6qzraPRolorvU6EMfZQXO9GM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="border: 0" width="1000" height="800" frameborder="0" scrolling="no"></iframe>
 
