@@ -13,7 +13,11 @@ The syllabus for the course can be found [here](./syllabus_summer.pdf). Most (bu
 <a name="lectures"></a>Lectures
 ------------------------------------------
 
+Attendance is required. For each missed lecture, your grade will be deducted 2 percentage points. I will take attendance each day. If you are on your phone / laptop or otherwise a distraction to others or to me then you may also lose these attendance points for that particular day.
+
+<!--
 Lectures will be held in-person in the classroom listed on the University Registrar. Attendace is not required but poor attendance will affect the class curve at the end of the semester (if a curve is applicable). Instructors will keep track of the percentage of days in which more than half the students are present in lecture. If this percentage is low, then the class curve will be affected. We are aiming for greater than 80 percent good attendance!
+-->
 
 
 <a name="textbook"></a>Textbook
@@ -39,6 +43,14 @@ The course is divided into **4 modules**, each which lasts for about 2-5 lecture
 <a name="final"></a> Quizzes (Exams)
 ----------------------------------------------------------
 
+There will be two midterms and one final exam. The dates for these assessments is:
+
+- **Midterm 1:** Fri. July 24
+- **Midterm 2:** Fri. Aug. 31
+- **Final Exam:** Fri. Aug. 7
+
+
+<!--
 Each module has one quiz associated with it, and you will take one quiz per class period with a 1 hour time limit. Each individual quiz will be written to take about 40 minutes. In addition, there is a final exam quiz that contains material from the entire semester (summative) that will be taken during the final exam (nore detail in final exam section below). The current dates for taking quizzes are as follows, but are subject to change:
 
 - **Quiz 1 (Modules 1):** Thu. Sep. 18
@@ -48,8 +60,9 @@ Each module has one quiz associated with it, and you will take one quiz per clas
 - **Final exam (Modules 5, final exam quiz, and retakes):** TBD
 
 These dates are subject to change. Each quiz will be graded separately, and thus you will earn a different grade for each individual quiz. Some quizzes can be retaken to improve your grade (modules 1-4). Some quizzes (module 5, the sixth summative quiz) can only be taken once due to time constraints.
+-->
 
-
+<!--
 <a name="homeworks"></a>Final Exam
 ----------------------------------------------------------
 
@@ -67,23 +80,34 @@ This may seem daunting, but most students are not expected to take all six quizz
 
 This amounts to 30+30+90 = 180 minutes = 2.5 hours with 30 minutes of buffer time. If you WANT to try to take all four retake quizzes, you are welcome to try to within the 3-hour period. 
 
-
+-->
 
 <a name="homeworks"></a>Homeworks
 ----------------------------------------------------------
 
 There are **one or two homework assignments per module (depending on the module)**, that must be completed. These will be graded on a traditional scale (out of 10 points). See the syllabus and the homeworks page for more details.
 
+**Late Policy:** Homeworks have firm deadlines, but extensions are automatically given and grant an additional 3 days of time to work on the assignment. There will be **No extensions for any reason beyond the 3 day extension.** If you need additional time on homeworks, you should consider appealing for a grade of Incomplete at the end of the semester (contact the instructor for details).
+
+<!--
 **Late Policy:** Homeworks have firm deadlines, but extensions can be requested via an online form (which will be provided to students at a later date). By filling out this form, you can request up to 5 days of time to work on the assignment. In general, these will always be granted for any reason. There will be **No extensions for any reason beyond the 5 day extension.** If you need additional time on homeworks, you should consider appealing for a grade of Incomplete at the end of the semester (contact the instructor for details).
+-->
 
 <a name="lettergrades"></a>Grades
 ----------------------------------------------------------
 
 Your letter grade will be calculated using a traditional weighted average. The weights are:
 
+- **Attendance:** 20 percent (2 point deduction per missed class period)
+- **Homework:** 20 percent (about 6 homeworks)
+- **Midterms:** 30 percent (15 percent each)
+- **Final Exam:** 30 percent
+
+<!--
 - **Homework:** 25 percent (about 6 homeworks)
 - **Quizzes (modules 1-5):** 60 percent (12 percent each)
 - **Final Exam:** 15 percent
+-->
 
 Homeworks and quizzes will be graded on a traditional percentage scale. Your final letter grade will be determined by the traditional decade curve. The table for which is shown below:
 

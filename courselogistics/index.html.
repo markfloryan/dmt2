@@ -36,8 +36,8 @@ href="#final">Final Exam</a> | <a href="#lettergrades">Final Letter
 Grades</a> |</p>
 <h2 id="syllabus"><a name="syllabus"></a>Syllabus</h2>
 <p>The syllabus for the course can be found <a
-href="./syllabus.pdf">here</a>. Most (but not all) of that information
-is summarized here.</p>
+href="./syllabus_summer.pdf">here</a>. Most (but not all) of that
+information is summarized here.</p>
 <h2 id="lectures"><a name="lectures"></a>Lectures</h2>
 <p>Lectures will be held in-person in the classroom listed on the
 University Registrar. Attendace is not required but poor attendance will
@@ -55,14 +55,14 @@ read them or get that info from another source.</p>
 <p><em>Introduction to the Theory of Computation</em> by Michael Sipser,
 2nd edition.</p>
 <h2 id="modules"><a name="lectures"></a>Modules</h2>
-<p>The course is divided into <strong>5 modules</strong>, each which
+<p>The course is divided into <strong>4 modules</strong>, each which
 lasts for about 2-5 lectures each. The 5 modules are listed below:</p>
 <ul>
-<li><strong>Module 1: Introduction, Proofs, Cardinality</strong></li>
-<li><strong>Module 2: Regular Languages</strong></li>
-<li><strong>Module 3: Context-Free Grammars</strong></li>
-<li><strong>Module 4: Turing Machines and Decidability</strong></li>
-<li><strong>Module 5: Complexity Theory</strong></li>
+<li><strong>Module 1: Introduction, Cardinality, Regular
+Languages</strong></li>
+<li><strong>Module 2: Context-Free Grammars</strong></li>
+<li><strong>Module 3: Turing Machines and Decidability</strong></li>
+<li><strong>Module 4: Complexity Theory</strong></li>
 </ul>
 <h2 id="quizzes-exams"><a name="final"></a> Quizzes (Exams)</h2>
 <p>Each module has one quiz associated with it, and you will take one

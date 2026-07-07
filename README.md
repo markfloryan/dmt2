@@ -21,7 +21,7 @@ The goal of this course is to understand the fundamental limits on what can be e
 this online at github.com -- you will need to clone (download) the
 repository first**
 
-- [Course Logistics](courselogistics/index.html): The syllabus, introductory slide deck, grading policy, course schedule, etc.
+- [Course Logistics](courselogistics/index_summer.html): The syllabus, introductory slide deck, grading policy, course schedule, etc.
 - [Homeworks](homeworks/index.html) ([md](homeworks/index.md)): The homeworks for the course, along with due dates and related things.
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the slides used in the course.
 - [Quiz Review](quiz/quiz_review.html): Contains some review topics when studying for quizzes. 
@@ -45,21 +45,12 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 | Name | Head TA / Inst. | TA Category | Email |
 |-|-|-|-|
 | Mark Floryan | Instructor | - | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) |
-| Ray Pettit | Instructor | - | [rp6zr@virginia.edu](mailto:rp6zr@virginia.edu) |
-| Chase Fickles | Graduate and Head TA | Regrades | [muj2bn@virginia.edu](mailto:muj2bn@virginia.edu) |
-| Natalia Wunder | Head TA | Quiz Grading | [xax8gw@virginia.edu](mailto:xax8gw@virginia.edu) |
-| Varun Vejalla | Head TA | Homework Grading | [cgm5sa@virginia.edu](mailto:cgm5sa@virginia.edu) |
-| Elina Liu | Head TA | Office Hours | [bug4my@virginia.edu](mailto:bug4my@virginia.edu) |
-| Jeremy Ky | Head TA | Extensions | [juh7hc@virginia.edu](mailto:juh7hc@virginia.edu) |
-| TBD | Head TA | Piazza | TBD |
+| Michael Sy | TA | - | [qha6dx@virginia.edu](mailto:qha6dx@virginia.edu) |
+
 
 
 <a name="officehours"></a>Office Hours Description and Schedule
 ------------------------------------------
-
-### Discussion session
-
-Our graduate TA (Chase) will be holding a discussion section for Q&A, homework review, quiz preparation, etc. every **Wednesday, from 4-5pm in Rice 110**.
 
 
 <a name="officehours"></a>Office Hours Description and Schedule
@@ -72,21 +63,15 @@ Our office hours queue can be [found here](https://kytos02.cs.virginia.edu/asci)
 
 ### Office Hours Locations:
 
-All in-person TA office hours will be held in Thornton Stacks.
+All in-person TA office hours will be held in Rice Hall.
 
 Zoom office hours will be held on Zoom.
 
 Floryan's office hours are in **Rice 203**.
 
-Pettit's office hours are in **Rice 212**
-
-### Pettit's Office Hours (Rice 212)
-
-Monday (11-12:30) and Friday (11-12:30)
-
 ### Floryan's Office Hours (Rice 203)
 
-Wednesday (12:30 - 2:00) and Thursday (12:30 - 2:00)
+After class every day (1-2pm)
 
 ### TA Office Hours:
 

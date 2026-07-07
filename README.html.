@@ -50,8 +50,8 @@ Contents</h2>
 viewing this online at github.com – you will need to clone (download)
 the repository first</strong></p>
 <ul>
-<li><a href="courselogistics/index.html">Course Logistics</a>: The
-syllabus, introductory slide deck, grading policy, course schedule,
+<li><a href="courselogistics/index_summer.html">Course Logistics</a>:
+The syllabus, introductory slide deck, grading policy, course schedule,
 etc.</li>
 <li><a href="homeworks/index.html">Homeworks</a> (<a
 href="homeworks/index.md">md</a>): The homeworks for the course, along
@@ -113,56 +113,16 @@ an instructor if necessary.</p>
 <td><a href="mailto:mrf8t@virginia.edu">mrf8t@virginia.edu</a></td>
 </tr>
 <tr>
-<td>Ray Pettit</td>
-<td>Instructor</td>
+<td>Michael Sy</td>
+<td>TA</td>
 <td>-</td>
-<td><a href="mailto:rp6zr@virginia.edu">rp6zr@virginia.edu</a></td>
-</tr>
-<tr>
-<td>Chase Fickles</td>
-<td>Graduate and Head TA</td>
-<td>Regrades</td>
-<td><a href="mailto:muj2bn@virginia.edu">muj2bn@virginia.edu</a></td>
-</tr>
-<tr>
-<td>Natalia Wunder</td>
-<td>Head TA</td>
-<td>Quiz Grading</td>
-<td><a href="mailto:xax8gw@virginia.edu">xax8gw@virginia.edu</a></td>
-</tr>
-<tr>
-<td>Varun Vejalla</td>
-<td>Head TA</td>
-<td>Homework Grading</td>
-<td><a href="mailto:cgm5sa@virginia.edu">cgm5sa@virginia.edu</a></td>
-</tr>
-<tr>
-<td>Elina Liu</td>
-<td>Head TA</td>
-<td>Office Hours</td>
-<td><a href="mailto:bug4my@virginia.edu">bug4my@virginia.edu</a></td>
-</tr>
-<tr>
-<td>Jeremy Ky</td>
-<td>Head TA</td>
-<td>Extensions</td>
-<td><a href="mailto:juh7hc@virginia.edu">juh7hc@virginia.edu</a></td>
-</tr>
-<tr>
-<td>TBD</td>
-<td>Head TA</td>
-<td>Piazza</td>
-<td>TBD</td>
+<td><a href="mailto:qha6dx@virginia.edu">qha6dx@virginia.edu</a></td>
 </tr>
 </tbody>
 </table>
 <h2
 id="office-hours-description-and-schedule"><a name="officehours"></a>Office
 Hours Description and Schedule</h2>
-<h3 id="discussion-session">Discussion session</h3>
-<p>Our graduate TA (Chase) will be holding a discussion section for
-Q&amp;A, homework review, quiz preparation, etc. every
-<strong>Wednesday, from 4-5pm in Rice 110</strong>.</p>
 <h2
 id="office-hours-description-and-schedule-1"><a name="officehours"></a>Office
 Hours Description and Schedule</h2>
@@ -170,16 +130,12 @@ Hours Description and Schedule</h2>
 <p>Our office hours queue can be <a
 href="https://kytos02.cs.virginia.edu/asci">found here</a>.</p>
 <h3 id="office-hours-locations">Office Hours Locations:</h3>
-<p>All in-person TA office hours will be held in Thornton Stacks.</p>
+<p>All in-person TA office hours will be held in Rice Hall.</p>
 <p>Zoom office hours will be held on Zoom.</p>
 <p>Floryan’s office hours are in <strong>Rice 203</strong>.</p>
-<p>Pettit’s office hours are in <strong>Rice 212</strong></p>
-<h3 id="pettits-office-hours-rice-212">Pettit’s Office Hours (Rice
-212)</h3>
-<p>Monday (11-12:30) and Friday (11-12:30)</p>
 <h3 id="floryans-office-hours-rice-203">Floryan’s Office Hours (Rice
 203)</h3>
-<p>Wednesday (12:30 - 2:00) and Thursday (12:30 - 2:00)</p>
+<p>After class every day (1-2pm)</p>
 <h3 id="ta-office-hours">TA Office Hours:</h3>
 <p>TA Office hours can be found by looking at the schedule below.</p>
 <p>To join TA office hours on zoom, click the link in the table
