@@ -13,7 +13,7 @@ The syllabus for the course can be found [here](./syllabus_summer.pdf). Most (bu
 <a name="lectures"></a>Lectures
 ------------------------------------------
 
-Attendance is required. For each missed lecture, your grade will be deducted 2 percentage points. I will take attendance each day. If you are on your phone / laptop or otherwise a distraction to others or to me then you may also lose these attendance points for that particular day.
+Attendance is required. For each missed lecture, your grade will be deducted 4 percentage points. I will take attendance each day. If you are on your phone / laptop or otherwise a distraction to others or to me then you may also lose these attendance points for that particular day.
 
 <!--
 Lectures will be held in-person in the classroom listed on the University Registrar. Attendace is not required but poor attendance will affect the class curve at the end of the semester (if a curve is applicable). Instructors will keep track of the percentage of days in which more than half the students are present in lecture. If this percentage is low, then the class curve will be affected. We are aiming for greater than 80 percent good attendance!
@@ -98,7 +98,7 @@ There are **one or two homework assignments per module (depending on the module)
 
 Your letter grade will be calculated using a traditional weighted average. The weights are:
 
-- **Attendance:** 20 percent (2 point deduction per missed class period)
+- **Attendance:** 20 percent (4 point deduction per missed class period)
 - **Homework:** 20 percent (about 6 homeworks)
 - **Midterms:** 30 percent (15 percent each)
 - **Final Exam:** 30 percent
