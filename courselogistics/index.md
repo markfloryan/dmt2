@@ -8,7 +8,7 @@ CS3120 - Discrete Mathematics and Theory 2 Course Logistics
 <a name="syllabus"></a>Syllabus
 ------------------------------------------
 
-The syllabus for the course can be found [here](./syllabus_summer.pdf). Most (but not all) of that information is summarized here.
+The syllabus for the course can be found [here](./syllabus.pdf). Most (but not all) of that information is summarized here.
 
 <a name="lectures"></a>Lectures
 ------------------------------------------
@@ -29,7 +29,7 @@ We’ll post readings from the following textbook, and we urge you to read them 
 <a name="lectures"></a>Modules
 ------------------------------------------
 
-The course is divided into **4 modules**, each which lasts for about 2-5 lectures each. The 5 modules are listed below:
+The course is divided into **4 modules**, each which lasts for about 2-5 lectures each. The 4 modules are listed below:
 
 - **Module 1: Introduction, Cardinality, Regular Languages**
 - **Module 2: Context-Free Grammars** 
@@ -39,51 +39,69 @@ The course is divided into **4 modules**, each which lasts for about 2-5 lecture
 <a name="final"></a> Quizzes (Exams)
 ----------------------------------------------------------
 
-Each module has one quiz associated with it, and you will take one quiz per class period with a 1 hour time limit. Each individual quiz will be written to take about 40 minutes. In addition, there is a final exam quiz that contains material from the entire semester (summative) that will be taken during the final exam (nore detail in final exam section below). The current dates for taking quizzes are as follows, but are subject to change:
+Each module has one quiz associated with it, and you will take one quiz per quiz period with a 50 minute time limit. Each individual quiz will be written to take about 40 minutes. In addition, there is a final exam quiz that contains material from the entire semester (summative) that will be taken during the final exam (nore detail in final exam section below).
 
-- **Quiz 1 (Modules 1):** Thu. Sep. 18
-- **Quiz 2 (Modules 1):** Thu. Oct. 9
-- **Quiz 3 (Modules 1):** Thu. Oct. 30
-- **Quiz 4 (Modules 1):** Thu. Nov. 20
-- **Final exam (Modules 5, final exam quiz, and retakes):** TBD
+All quizzes will be taken at the University's new **Computer-Based Testing Facility** in Gilmer Hall. In general, quizzes will be open for a three day period. Students are required to log onto the Prairie Test online system to secure a reservation for a time to take their exam. At the reservation time, students arrive at Gilmer Hall and take their quiz on the provided computers.  
 
-These dates are subject to change. Each quiz will be graded separately, and thus you will earn a different grade for each individual quiz. Some quizzes can be retaken to improve your grade (modules 1-4). Some quizzes (module 5, the sixth summative quiz) can only be taken once due to time constraints.
+The weeks for which quizzes will be taken are (marked on the class schedule page at the bottom of the slides page)[../slides/index.html]. Please note that these dates are subject to change as we arrange for times with the CBTF for holding the quizzes. 
+
+The final exam quiz will be scheduled mid-semester and those dates will be published ahead of the final exam period. The CBTF does not allow us to schedule our final exam before the semester begins.
+
+These dates are subject to change. Each quiz will be graded separately, and thus you will earn a different grade for each individual quiz. Some quizzes can be retaken to improve your grade while some quizzes can only be taken once due to time constraints.
 
 
 <a name="homeworks"></a>Final Exam
 ----------------------------------------------------------
 
-During the 3-hour exam period you will take 2-6 quizzes, depending on your specific situation in the class. The quizzes will be made available to you individual and you can take the ones that best suit your needs. The quizzes are:
+**THE INFORMATION BELOW IS THE PLAN FOR THE FINAL EXAM. HOWEVER, THESE PLANS ARE SUBJECT TO CHANGE DEPENDING ON CONSTRAINTS INVOLVING THE CBTF TESTING CENTER**
 
-- **Module 5 quiz:** Everybody will, probably, take this quiz as it is your first and only attempt at the module 5 quiz
-- **Final Exam quiz:** Summative final exam quiz that will ask you to questions across the five modules. This quiz will ask you to draw on knowledge from multiple modules.
+The final exam will also be held at the **Computer-Based Testing Facility (CBTF)** in Gilmer Hall. This reservation will be for a two hour period instead of just one hour. Thus, the quiz will be longer than usual. During this two hour period, students will take a long quiz that contains the following:
+
+- **Final Exam Quiz:** One **section** of the Summative final exam quiz that will ask you to questions across the four modules. This quiz will ask you to draw on knowledge from multiple modules and will serve as a single "final quiz" grade.
 - **Retake Modules 1-4**: A second version of quizzes 1-4 will be made available during the final exam. Your highest score (first attempt or this second attempt) will be taken regardless. You should prioritize these quizzes depending on which ones you scored lowest on during the initial attempt.
 
-This may seem daunting, but most students are not expected to take all six quizzes during the 3-hour period. Everyone will take the module 5 quiz and the final exam quiz, and most students will take 1-3 of the retake quizzes. Here is an expected time breakdown during the final exam:
+This may seem daunting, but most students are not expected to take all five quizzes during the 2-hour period. Everyone will take the final exam quiz, and most students will take 1 or 2 of the retake quizzes. Here is an expected time breakdown during the final exam:
 
-- **Module 5 quiz:** Required (30 minutes)
-- **Final Exam quiz:** Required (30 minutes)
-- **Modules 1-4 retake quizzes (take up to 3):** 3 Optional Quizzes (30 minutes each, up to 90 minutes)
+- **Final Exam quiz:** Required (40 minutes)
+- **Modules 1-4 retake quizzes (take up to 2):** 2 Optional Quizzes (30 minutes each, up to 60 minutes)
 
-This amounts to 30+30+90 = 180 minutes = 2.5 hours with 30 minutes of buffer time. If you WANT to try to take all four retake quizzes, you are welcome to try to within the 3-hour period. 
+This amounts to 40+30+30 = 100 minutes = 1 hour and 40 minutes with 20 minutes of buffer time. If you WANT to try to take all four retake quizzes, you are welcome to try to within the 2-hour period but it is NOT expected to be feasible or easy to do so.
 
 
 
 <a name="homeworks"></a>Homeworks
 ----------------------------------------------------------
 
-There are **one or two homework assignments per module (depending on the module)**, that must be completed. These will be graded on a traditional scale (out of 10 points). See the syllabus and the homeworks page for more details.
+There are **one or two homework assignments per module (depending on the module)**, that must be completed. These will be graded on completion and effort due to the VAST number of AI Generated answers that have been submitted in recent semesters. You will earn a small amount of credit for completing and submitting these assignments
 
 **Late Policy:** Homeworks have firm deadlines, but extensions can be requested via an online form (which will be provided to students at a later date). By filling out this form, you can request up to 5 days of time to work on the assignment. In general, these will always be granted for any reason. There will be **No extensions for any reason beyond the 5 day extension.** If you need additional time on homeworks, you should consider appealing for a grade of Incomplete at the end of the semester (contact the instructor for details).
+
+
+<a name="homeworks"></a>Homework OH Check-Ins
+----------------------------------------------------------
+
+All students are **required to complete one homework check-in** at some point during the course. Due to the course size, we only have time to have every do one of these. The course staff will notify you of a single week during the semester in which you've been scheduled to do your homework check-in. During your scheduled week, you are required to attend any TAs Office Hours and have a (maximum) 10 minute meeting with the TA. The TA will do the following:
+
+- The TA will pull up the most recent homework assignment (you will be told ahead of time which homework this will be regarding), and will choose any question from that assignment randomly. 
+- The TA will ask you to explain the answer you submitted for the randomly chosen question. You will then explain your answer to the TA in as much detail as you are able.
+- The TA will grade your answer on a 4 point scale (see below).
+
+The TA's will grade your responses during these check-ins one the scale below:
+
+- 4 (100 percent): Great! Student described the correct answer to the homework problem and did so without making any mistakes that were noticed by the proctor.
+- 3 (75 percent): Student is clearly coming to class and engaging with the course material. Student uses the correct vocabulary and speaks intelligently about the material. However, student still makes mistakes in their answer and/or shows a lack of understanding meaning they have yet to fully master the material.
+- 2 (50 percent): Student seems to not be coming to class and/or engaging with the material. They use some of the correct vocabulary when speaking about course topics but do not use those terms correctly, often mixing up definitions or making up components to definitions that were not described in class. Student does not seem to have a basic understanding of the solution to the homework problem and why it works correctly.
+- 1 (0 percent): Student did not submit the homework assignment OR seems to have no idea how to answer the question from the homework assignment. Student seems to have little to no understanding of the course topics.
 
 <a name="lettergrades"></a>Grades
 ----------------------------------------------------------
 
 Your letter grade will be calculated using a traditional weighted average. The weights are:
 
-- **Homework:** 25 percent (about 6 homeworks)
-- **Quizzes (modules 1-5):** 60 percent (12 percent each)
-- **Final Exam:** 15 percent
+- **Homework:** 20 percent (about 6 homeworks)
+- **OH Check-In (1)**: 10 percent
+- **Quizzes (modules 1-4):** 60 percent (15 percent each)
+- **Final Exam:** 10 percent
 
 Homeworks and quizzes will be graded on a traditional percentage scale. Your final letter grade will be determined by the traditional decade curve. The table for which is shown below:
 

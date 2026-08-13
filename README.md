@@ -21,7 +21,7 @@ The goal of this course is to understand the fundamental limits on what can be e
 this online at github.com -- you will need to clone (download) the
 repository first**
 
-- [Course Logistics](courselogistics/index_summer.html): The syllabus, introductory slide deck, grading policy, course schedule, etc.
+- [Course Logistics](courselogistics/index.html): The syllabus, introductory slide deck, grading policy, course schedule, etc.
 - [Homeworks](homeworks/index.html) ([md](homeworks/index.md)): The homeworks for the course, along with due dates and related things.
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the slides used in the course.
 - [Quiz Review](quiz/quiz_review.html): Contains some review topics when studying for quizzes. 
@@ -45,12 +45,21 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 | Name | Head TA / Inst. | TA Category | Email |
 |-|-|-|-|
 | Mark Floryan | Instructor | - | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) |
-| Michael Sy | TA | - | [qha6dx@virginia.edu](mailto:qha6dx@virginia.edu) |
+| Chase Fickles | Graduate TA | - | [muj2bn@virginia.edu](mailto:muj2bn@virginia.edu) |
+| Gustavo Moreira | Graduate TA | - | [gm2qb@virginia.edu](mailto:gm2qb@virginia.edu) |
+| Angelica Bain | UG TA | - | [dcf3mm@virginia.edu](mailto:dcf3mm@virginia.edu) |
+| Carter Kardell | UG TA | - | [svf3ct@virginia.edu](mailto:svf3ct@virginia.edu) |
+| Eleanor Boyer Uriarte | UG TA | - | [aff5gj@virginia.edu](mailto:aff5gj@virginia.edu) |
+| Elsa Norman | UG TA | - | [xqd8qm@virginia.edu](mailto:xqd8qm@virginia.edu) |
+| Eric Zeng | UG TA | - | [jvx7md@virginia.edu](mailto:jvx7md@virginia.edu) |
+| Katie Hutchinson | UG TA | - | [ehe9vz@virginia.edu](mailto:ehe9vz@virginia.edu) |
+| Michael Sy | UG TA | - | [qha6dx@virginia.edu](mailto:qha6dx@virginia.edu) |
+| Nurdin Hossain | UG TA | - | [rkh9kv@virginia.edu](mailto:rkh9kv@virginia.edu) |
+| Sri Kannan | UG TA | - | [bff5wv@virginia.edu](mailto:bff5wv@virginia.edu) |
+| Shubs Debsarkar | UG TA | - | [fvc9ch@virginia.edu](mailto:fvc9ch@virginia.edu) |
+| Thomas Kennedy | UG TA | - | [nkq6bw@virginia.edu](mailto:nkq6bw@virginia.edu) |
+| Vincent Cheng | UG TA | - | [vra7qv@virginia.edu](mailto:vra7qv@virginia.edu) |
 
-
-
-<a name="officehours"></a>Office Hours Description and Schedule
-------------------------------------------
 
 
 <a name="officehours"></a>Office Hours Description and Schedule
