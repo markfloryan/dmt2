@@ -29,9 +29,10 @@ We’ll post readings from the following textbook, and we urge you to read them 
 <a name="lectures"></a>Modules
 ------------------------------------------
 
-The course is divided into **4 modules**, each which lasts for about 2-5 lectures each. The 4 modules are listed below:
+The course is divided into **4 modules** (plus an introductory module), each which lasts for about 2-5 lectures each. The 4 modules are listed below:
 
-- **Module 1: Introduction, Cardinality, Regular Languages**
+- Module 0: Introduction, Cardinality, Review
+- **Module 1: Regular Languages**
 - **Module 2: Context-Free Grammars** 
 - **Module 3: Turing Machines and Decidability** 
 - **Module 4: Complexity Theory**
@@ -39,7 +40,7 @@ The course is divided into **4 modules**, each which lasts for about 2-5 lecture
 <a name="final"></a> Quizzes (Exams)
 ----------------------------------------------------------
 
-Each module has one quiz associated with it, and you will take one quiz per quiz period with a 50 minute time limit. Each individual quiz will be written to take about 40 minutes. In addition, there is a final exam quiz that contains material from the entire semester (summative) that will be taken during the final exam (nore detail in final exam section below).
+Each module 1-4 has one quiz associated with it, and you will take one quiz per quiz period with a 50 minute time limit. Each individual quiz will be written to take about 40 minutes. In addition, there is a final exam quiz that contains material from the entire semester (summative) that will be taken during the final exam (nore detail in final exam section below).
 
 All quizzes will be taken at the University's new **Computer-Based Testing Facility** in Gilmer Hall. In general, quizzes will be open for a three day period. Students are required to log onto the Prairie Test online system to secure a reservation for a time to take their exam. At the reservation time, students arrive at Gilmer Hall and take their quiz on the provided computers.  
 
@@ -93,15 +94,27 @@ The TA's will grade your responses during these check-ins one the scale below:
 - 2 (50 percent): Student seems to not be coming to class and/or engaging with the material. They use some of the correct vocabulary when speaking about course topics but do not use those terms correctly, often mixing up definitions or making up components to definitions that were not described in class. Student does not seem to have a basic understanding of the solution to the homework problem and why it works correctly.
 - 1 (0 percent): Student did not submit the homework assignment OR seems to have no idea how to answer the question from the homework assignment. Student seems to have little to no understanding of the course topics.
 
+<a name="homeworks"></a>Attendance
+----------------------------------------------------------
+
+All students are expected to attend lecture in-person. This is an IN-PERSON class and you are responsible for keeping up with announcements or messages in lecture if you miss class. 
+
+There will be an attendance grade for this class, but given how large the class is it is not feasible to take individual attendance. At the beginning of every lecture, I will count the number of students who are attending. If MORE than 50 percent of the class is present then EVERYBODY receives their attendance point for that day. If 50 percent or less is present, then EVERYBODY loses their attendance point for that day.
+
+Everyone will receive the same attendance score which will simply be the percentage of lectures in which the section has earned their attendance point. If there are multiple sections, then each section receives attendance scores individually.
+
+
+
 <a name="lettergrades"></a>Grades
 ----------------------------------------------------------
 
 Your letter grade will be calculated using a traditional weighted average. The weights are:
 
-- **Homework:** 20 percent (about 6 homeworks)
-- **OH Check-In (1)**: 10 percent
+- **Homework:** 15 percent (about 6 homeworks)
+- **OH Check-In (1)**: 5 percent
+- **Attendance:** 8 percent
 - **Quizzes (modules 1-4):** 60 percent (15 percent each)
-- **Final Exam:** 10 percent
+- **Final Cumulative Quiz:** 12 percent
 
 Homeworks and quizzes will be graded on a traditional percentage scale. Your final letter grade will be determined by the traditional decade curve. The table for which is shown below:
 

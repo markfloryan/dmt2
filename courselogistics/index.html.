@@ -55,22 +55,23 @@ read them or get that info from another source.</p>
 <p><em>Introduction to the Theory of Computation</em> by Michael Sipser,
 2nd edition.</p>
 <h2 id="modules"><a name="lectures"></a>Modules</h2>
-<p>The course is divided into <strong>4 modules</strong>, each which
-lasts for about 2-5 lectures each. The 4 modules are listed below:</p>
+<p>The course is divided into <strong>4 modules</strong> (plus an
+introductory module), each which lasts for about 2-5 lectures each. The
+4 modules are listed below:</p>
 <ul>
-<li><strong>Module 1: Introduction, Cardinality, Regular
-Languages</strong></li>
+<li>Module 0: Introduction, Cardinality, Review</li>
+<li><strong>Module 1: Regular Languages</strong></li>
 <li><strong>Module 2: Context-Free Grammars</strong></li>
 <li><strong>Module 3: Turing Machines and Decidability</strong></li>
 <li><strong>Module 4: Complexity Theory</strong></li>
 </ul>
 <h2 id="quizzes-exams"><a name="final"></a> Quizzes (Exams)</h2>
-<p>Each module has one quiz associated with it, and you will take one
-quiz per quiz period with a 50 minute time limit. Each individual quiz
-will be written to take about 40 minutes. In addition, there is a final
-exam quiz that contains material from the entire semester (summative)
-that will be taken during the final exam (nore detail in final exam
-section below).</p>
+<p>Each module 1-4 has one quiz associated with it, and you will take
+one quiz per quiz period with a 50 minute time limit. Each individual
+quiz will be written to take about 40 minutes. In addition, there is a
+final exam quiz that contains material from the entire semester
+(summative) that will be taken during the final exam (nore detail in
+final exam section below).</p>
 <p>All quizzes will be taken at the University’s new
 <strong>Computer-Based Testing Facility</strong> in Gilmer Hall. In
 general, quizzes will be open for a three day period. Students are
@@ -179,15 +180,31 @@ seems to have no idea how to answer the question from the homework
 assignment. Student seems to have little to no understanding of the
 course topics.</li>
 </ul>
+<h2 id="attendance"><a name="homeworks"></a>Attendance</h2>
+<p>All students are expected to attend lecture in-person. This is an
+IN-PERSON class and you are responsible for keeping up with
+announcements or messages in lecture if you miss class.</p>
+<p>There will be an attendance grade for this class, but given how large
+the class is it is not feasible to take individual attendance. At the
+beginning of every lecture, I will count the number of students who are
+attending. If MORE than 50 percent of the class is present then
+EVERYBODY receives their attendance point for that day. If 50 percent or
+less is present, then EVERYBODY loses their attendance point for that
+day.</p>
+<p>Everyone will receive the same attendance score which will simply be
+the percentage of lectures in which the section has earned their
+attendance point. If there are multiple sections, then each section
+receives attendance scores individually.</p>
 <h2 id="grades"><a name="lettergrades"></a>Grades</h2>
 <p>Your letter grade will be calculated using a traditional weighted
 average. The weights are:</p>
 <ul>
-<li><strong>Homework:</strong> 20 percent (about 6 homeworks)</li>
-<li><strong>OH Check-In (1)</strong>: 10 percent</li>
+<li><strong>Homework:</strong> 15 percent (about 6 homeworks)</li>
+<li><strong>OH Check-In (1)</strong>: 5 percent</li>
+<li><strong>Attendance:</strong> 8 percent</li>
 <li><strong>Quizzes (modules 1-4):</strong> 60 percent (15 percent
 each)</li>
-<li><strong>Final Exam:</strong> 10 percent</li>
+<li><strong>Final Cumulative Quiz:</strong> 12 percent</li>
 </ul>
 <p>Homeworks and quizzes will be graded on a traditional percentage
 scale. Your final letter grade will be determined by the traditional

@@ -45,14 +45,15 @@ We have one instructor and multiple **Head TAs** for this course. Their names an
 | Name | Head TA / Inst. | TA Category | Email |
 |-|-|-|-|
 | Mark Floryan | Instructor | - | [mrf8t@virginia.edu](mailto:mrf8t@virginia.edu) |
-| Chase Fickles | Graduate TA | - | [muj2bn@virginia.edu](mailto:muj2bn@virginia.edu) |
 | Gustavo Moreira | Graduate TA | - | [gm2qb@virginia.edu](mailto:gm2qb@virginia.edu) |
 | Angelica Bain | UG TA | - | [dcf3mm@virginia.edu](mailto:dcf3mm@virginia.edu) |
 | Carter Kardell | UG TA | - | [svf3ct@virginia.edu](mailto:svf3ct@virginia.edu) |
 | Eleanor Boyer Uriarte | UG TA | - | [aff5gj@virginia.edu](mailto:aff5gj@virginia.edu) |
+| Elina Liu | UG TA | - | [bug4my@virginia.edu](mailto:bug4my@virginia.edu) |
 | Elsa Norman | UG TA | - | [xqd8qm@virginia.edu](mailto:xqd8qm@virginia.edu) |
 | Eric Zeng | UG TA | - | [jvx7md@virginia.edu](mailto:jvx7md@virginia.edu) |
 | Katie Hutchinson | UG TA | - | [ehe9vz@virginia.edu](mailto:ehe9vz@virginia.edu) |
+| Michael Chen | UG TA | - | [qqj2kb@virginia.edu](mailto:qqj2kb@virginia.edu) |
 | Michael Sy | UG TA | - | [qha6dx@virginia.edu](mailto:qha6dx@virginia.edu) |
 | Nurdin Hossain | UG TA | - | [rkh9kv@virginia.edu](mailto:rkh9kv@virginia.edu) |
 | Sri Kannan | UG TA | - | [bff5wv@virginia.edu](mailto:bff5wv@virginia.edu) |
