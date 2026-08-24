@@ -1,5 +1,4 @@
-CS3120 - Discrete Mathematics and Theory 2
-Computer-Based Testing Facility (CBTF) Information
+DMT2 - Computer-Based Testing Facility (CBTF) Information
 ===============================
 
 [Back to main page](../readme.html)
@@ -8,7 +7,7 @@ Computer-Based Testing Facility (CBTF) Information
 <a name="syllabus"></a>Computer-Based Testing Facility (CBTF)
 ------------------------------------------
 
-Designated exams for this course will be administered through the Computer-Based Testing Facility (CBTF) in Gilmer Hall 490A. The CBTF provides a secure, professionally proctored testing environment and allows students the flexibility to schedule exams within an instructor-defined testing window. Students are responsible for reserving an exam appointment and following CBTF testing policies and procedures. Additional instructions will be provided before each exam.
+Quizzes in this course will be administered through the Computer-Based Testing Facility (CBTF) in Gilmer Hall 490A. The CBTF provides a secure, professionally proctored testing environment and allows students the flexibility to schedule exams within an instructor-defined testing window. Students are responsible for reserving an exam appointment and following CBTF testing policies and procedures. Additional instructions will be provided before each exam.
 
 <a name="lectures"></a>Accounts (PrairieTest and PrairieLearn)
 ------------------------------------------
