@@ -22,6 +22,7 @@ this online at github.com -- you will need to clone (download) the
 repository first**
 
 - [Course Logistics](courselogistics/index.html): The syllabus, introductory slide deck, grading policy, course schedule, etc.
+- [CBTF Information](cbtf/index.html): Information about the Computer-Based Testing Facility (CBTF), where our quizzes will be held this semester.
 - [Homeworks](homeworks/index.html) ([md](homeworks/index.md)): The homeworks for the course, along with due dates and related things.
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the slides used in the course.
 - [Quiz Review](quiz/quiz_review.html): Contains some review topics when studying for quizzes. 

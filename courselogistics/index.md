@@ -42,7 +42,7 @@ The course is divided into **4 modules** (plus an introductory module), each whi
 
 Each module 1-4 has one quiz associated with it, and you will take one quiz per quiz period with a 50 minute time limit. Each individual quiz will be written to take about 40 minutes. In addition, there is a final exam quiz that contains material from the entire semester (summative) that will be taken during the final exam (nore detail in final exam section below).
 
-All quizzes will be taken at the University's new **Computer-Based Testing Facility** in Gilmer Hall 490A. In general, quizzes will be open for a three day period. Students are required to log onto the Prairie Test online system to secure a reservation for a time to take their exam. At the reservation time, students arrive at Gilmer Hall and take their quiz on the provided computers.  
+All quizzes will be taken at the University's new **Computer-Based Testing Facility** in Gilmer Hall 490A ([Click Here](../cbtf/index.html) for information about taking exams at the CBTF). In general, quizzes will be open for a three day period. Students are required to log onto the Prairie Test online system to secure a reservation for a time to take their exam. At the reservation time, students arrive at Gilmer Hall and take their quiz on the provided computers.  
 
 The weeks for which quizzes will be taken are (marked on the class schedule page at the bottom of the slides page)[../slides/index.html]. Please note that these dates are subject to change as we arrange for times with the CBTF for holding the quizzes. 
 
