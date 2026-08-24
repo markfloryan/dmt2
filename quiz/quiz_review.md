@@ -6,7 +6,7 @@ CS3120 - Quiz Review Guides
 <a name="links"></a>CBTF
 ---------------------------------------
 
-Remember that our exams will be taken at the **Computer-Based Testing Facility** in Gilmer 490A. You can [click here](../cbtf/index.htmnl) to get information about the process of taking these quizzes at the CBTF.
+Remember that our exams will be taken at the **Computer-Based Testing Facility** in Gilmer 490A. You can [click here](../cbtf/index.html) to get information about the process of taking these quizzes at the CBTF.
 
 <a name="links"></a>Links to past quizzes
 ---------------------------------------
