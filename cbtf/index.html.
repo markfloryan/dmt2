@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>CS3120 - Discrete Mathematics and Theory 2</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="../markdown.css" />
+</head>
+<body>
+<p>CS3120 - Discrete Mathematics and Theory 2 Computer-Based Testing
+Facility (CBTF) Information ===============================</p>
+<p><a href="../readme.html">Back to main page</a></p>
+<h2
+id="computer-based-testing-facility-cbtf"><a name="syllabus"></a>Computer-Based
+Testing Facility (CBTF)</h2>
+<p>Designated exams for this course will be administered through the
+Computer-Based Testing Facility (CBTF) in Gilmer Hall 490A. The CBTF
+provides a secure, professionally proctored testing environment and
+allows students the flexibility to schedule exams within an
+instructor-defined testing window. Students are responsible for
+reserving an exam appointment and following CBTF testing policies and
+procedures. Additional instructions will be provided before each
+exam.</p>
+<h2
+id="accounts-prairietest-and-prairielearn"><a name="lectures"></a>Accounts
+(PrairieTest and PrairieLearn)</h2>
+<p>Within the first week of class, <strong>every student needs to create
+an account</strong> on two related systems:</p>
+<ul>
+<li><a href="https://us.prairietest.com">Priarie Test</a>: Prairie Test
+is used to make exam reservations before an exam and to actually take
+your exam once you arrive at the CBTF.</li>
+<li><a href="https://us.prairielearn.com">Prairie Learn</a>: Prairie
+Learn is used to as a portal mostly for viewing your grades AFTER an
+exam has occurred.</li>
+</ul>
+<p>The <strong>instructor will upload a course roster within one week of
+class starting and add you to our course instance</strong> so that these
+systems will work correctly. However, each student still needs to create
+their own account themselves.</p>
+<h2 id="practice-exam"><a name="textbook"></a>Practice Exam</h2>
+<p>Early in the semester (around week 3), there will be a low-stakes
+practice exam designed to ease everybody into the procedure of using the
+CBTF. Please review the document below for information regarding this
+practice exam.</p>
+<ul>
+<li><a href="./CBTFSimulationExamInformation.pdf">CBTF Practice Exam
+Information</a></li>
+</ul>
+<h2 id="cbtf-rules-policies-and-procedures"><a name="textbook"></a>CBTF
+Rules, Policies, and Procedures</h2>
+<p>Please carefully review all of the following documents, which outline
+the rules, policies, and procedures of the CBTF. Students are
+responsible for reading and following these policies.</p>
+<ul>
+<li><a href="./CBTFReservationGuide.pdf">CBTF Reservation Guide</a>:
+This pdf explains the procedure for making reservations in the
+CBTF.</li>
+<li><a href="./CBTFStudentPoliciesAndProcedures.pdf">CBTF Policies and
+Procedures</a>: This pdf goes over all policies and procedures when
+taking exams at the CBTF.</li>
+</ul>
+</body>
+</html>
