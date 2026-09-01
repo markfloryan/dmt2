@@ -83,7 +83,8 @@ Floryan's office hours are in **Rice 203**.
 
 ### Floryan's Office Hours (Rice 203)
 
-TBD
+- Mondays from 1:30-3:00
+- Tuesdays from 1:00 - 2:30
 
 ### TA Office Hours:
 
