@@ -33,3 +33,11 @@ Please carefully review all of the following documents, which outline the rules,
 
 - [CBTF Reservation Guide](./CBTFReservationGuide.pdf): This pdf explains the procedure for making reservations in the CBTF.
 - [CBTF Policies and Procedures](./CBTFStudentPoliciesAndProcedures.pdf): This pdf goes over all policies and procedures when taking exams at the CBTF.
+
+<a name="textbook"></a>CBTF FAQ
+------------------------------------------
+
+As common questions regarding the CBTF come up, I will put the answers to those here:
+
+- **I missed my reservation! What do I do?:** If you missed your reservation at the CBTF, you need to get the old reservation manually removed. Email [cbtf-admin@virginia.edu](mailto:cbtf-admin@virginia.edu) and they will help you get a new reservation set up. You need to do this in a timely manner!
+
