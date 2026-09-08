@@ -39,5 +39,5 @@ Please carefully review all of the following documents, which outline the rules,
 
 As common questions regarding the CBTF come up, I will put the answers to those here:
 
-- **I missed my reservation! What do I do?:** If you missed your reservation at the CBTF, you need to get the old reservation manually removed. Email [cbtf-admin@virginia.edu](mailto:cbtf-admin@virginia.edu) and they will help you get a new reservation set up. You need to do this in a timely manner!
+- **I missed my reservation! What do I do?:** If you missed your reservation at the CBTF, you need to get the old reservation manually removed. Email [cbtf_admin@virginia.edu](mailto:cbtf_admin@virginia.edu) and they will help you get a new reservation set up. You need to do this in a timely manner!
 
