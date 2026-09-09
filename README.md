@@ -26,6 +26,7 @@ repository first**
 - [Homeworks](homeworks/index.html) ([md](homeworks/index.md)): The homeworks for the course, along with due dates and related things.
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the slides used in the course.
 - [Quiz Review](quiz/quiz_review.html): Contains some review topics when studying for quizzes. 
+- [SDAC Accommodations](sdac/index.html): Information for students who have SDAC Accommodations for the course. 
 
 
 <a name="headtas"></a>Contacting Course Staff
