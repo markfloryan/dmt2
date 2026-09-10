@@ -40,4 +40,14 @@ Please carefully review all of the following documents, which outline the rules,
 As common questions regarding the CBTF come up, I will put the answers to those here:
 
 - **I missed my reservation! What do I do?:** If you missed your reservation at the CBTF, you need to get the old reservation manually removed. Email [cbtf_admin@virginia.edu](mailto:cbtf_admin@virginia.edu) and they will help you get a new reservation set up. You need to do this in a timely manner!
+- **When is the final exam? I have travel plans!:** Unfortunately, we do not know the exact dates when the final exam will occur. This schedule will be developed by the CBTF staff sometime during the semester. The only thing we know for sure is that our scheduled final exam time (as per the University academic record) will be one of the options for a CBTF reservation and that if you desire to take the final during this time we will work to ensure you are able to.
+- **Are there quiz makeup days? What if I get sick?:** For each quiz, there will be a makeup day (on Friday of the respective week). In extenuating circumstances, we can work with you to reserve a time during the makeup day for that particular quiz.
+
+
+
+
+
+
+
+
 
