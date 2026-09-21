@@ -59,14 +59,15 @@ href="https://forms.gle/Pey9K5ttXFPzfG7e6">filling out this form</a></p>
 <td>Module 0</td>
 <td>Intro, Proofs, Cardinality</td>
 <td><a href="./01-Introduction/01-Cardinality.pdf">Cardinality and
-Proofs</a></td>
+Proofs</a> (<a href="./01-Introduction/01-Cardinality.tex">tex</a>)</td>
 <td></td>
 </tr>
 <tr>
 <td>Module 1</td>
 <td>Regular Languages</td>
 <td><a href="./02-RegularLanguages/02-RegLanguages.pdf">Reg.
-Languages</a></td>
+Languages</a> (<a
+href="./02-RegularLanguages/02-RegLanguages.tex">tex</a>)</td>
 <td><a href="./02-RegularLanguages/RegExpressions.pdf">Prog.
 Challenge</a>, (<a
 href="./02-RegularLanguages/code/regex_starter.zip">Code</a>)</td>
@@ -74,22 +75,24 @@ href="./02-RegularLanguages/code/regex_starter.zip">Code</a>)</td>
 <tr>
 <td>Module 2</td>
 <td>Context-Free Languages</td>
-<td><a href="./03-ContextFree/03-ContextFree.pdf">Written Prob.
-Set</a></td>
+<td><a href="./03-ContextFree/03-ContextFree.pdf">Written Prob. Set</a>
+(<a href="./03-ContextFree/03-ContextFree.tex">tex</a>)</td>
 <td>…</td>
 </tr>
 <tr>
 <td>Module 3</td>
 <td>Turing Machines and Decidability</td>
 <td><a href="./04-TuringMachines/04-TuringMachines.pdf">Written Problem
-Set</a></td>
+Set</a> (<a
+href="./04-TuringMachines/04-TuringMachines.tex">tex</a>)</td>
 <td>…</td>
 </tr>
 <tr>
 <td>Module 4</td>
 <td>Complexity Theory</td>
 <td><a
-href="./05-ComplexityTheory/05-ComplexityTheory.pdf">Complexity</a></td>
+href="./05-ComplexityTheory/05-ComplexityTheory.pdf">Complexity</a> (<a
+href="./05-ComplexityTheory/05-ComplexityTheory.tex">tex</a>)</td>
 <td>…</td>
 </tr>
 </tbody>

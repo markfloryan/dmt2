@@ -20,11 +20,11 @@ You can request a homework extensions by [filling out this form](https://forms.g
 
 | Module Number | Module Name | Homework 1 | Homework 2 (If Applicable) |
 |----------|------------------------|------------------------|------------------------|
-| Module 0 | Intro, Proofs, Cardinality | [Cardinality and Proofs](./01-Introduction/01-Cardinality.pdf) | |
-| Module 1 | Regular Languages | [Reg. Languages](./02-RegularLanguages/02-RegLanguages.pdf) | [Prog. Challenge](./02-RegularLanguages/RegExpressions.pdf), ([Code](./02-RegularLanguages/code/regex_starter.zip)) | 
-| Module 2 | Context-Free Languages | [Written Prob. Set](./03-ContextFree/03-ContextFree.pdf) | ... |
-| Module 3 | Turing Machines and Decidability | [Written Problem Set](./04-TuringMachines/04-TuringMachines.pdf) | ... |
-| Module 4 | Complexity Theory | [Complexity](./05-ComplexityTheory/05-ComplexityTheory.pdf) | ... |
+| Module 0 | Intro, Proofs, Cardinality | [Cardinality and Proofs](./01-Introduction/01-Cardinality.pdf) ([tex](./01-Introduction/01-Cardinality.tex)) | |
+| Module 1 | Regular Languages | [Reg. Languages](./02-RegularLanguages/02-RegLanguages.pdf) ([tex](./02-RegularLanguages/02-RegLanguages.tex)) | [Prog. Challenge](./02-RegularLanguages/RegExpressions.pdf), ([Code](./02-RegularLanguages/code/regex_starter.zip)) | 
+| Module 2 | Context-Free Languages | [Written Prob. Set](./03-ContextFree/03-ContextFree.pdf) ([tex](./03-ContextFree/03-ContextFree.tex)) | ... |
+| Module 3 | Turing Machines and Decidability | [Written Problem Set](./04-TuringMachines/04-TuringMachines.pdf) ([tex](./04-TuringMachines/04-TuringMachines.tex)) | ... |
+| Module 4 | Complexity Theory | [Complexity](./05-ComplexityTheory/05-ComplexityTheory.pdf) ([tex](./05-ComplexityTheory/05-ComplexityTheory.tex)) | ... |
 
 <a name="other"></a>Other Useful Stuff
 ---------------------------------------
