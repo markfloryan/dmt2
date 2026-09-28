@@ -15,6 +15,12 @@ We will be using [Gradescope](https://gradescope.com) for this course. If necess
 You can request a homework extensions by [filling out this form](https://forms.gle/Pey9K5ttXFPzfG7e6)
 
 
+<a name="introduction"></a>Homework Disclaimer
+--------------------------------------- 
+
+Remember that all written assignments must be typeset in **Latex**. You may NOT submit handwritten work in any form, which includes images of handwritten work embedded into a **Latex** document.
+
+
 <a name="introduction"></a>Assignments
 --------------------------------------- 
 
