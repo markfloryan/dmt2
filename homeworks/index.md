@@ -12,7 +12,7 @@ We will be using [Gradescope](https://gradescope.com) for this course. If necess
 <a name="introduction"></a>Homework Extensions
 --------------------------------------- 
 
-You can request a homework extensions by [filling out this form](https://forms.gle/Pey9K5ttXFPzfG7e6)
+You can request a homework extensions by [filling out this form](https://forms.gle/Pey9K5ttXFPzfG7e6). Note that extensions **must be filled out within 24 hours of the original deadline**
 
 
 <a name="introduction"></a>Homework Disclaimer
