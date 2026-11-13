@@ -83,7 +83,7 @@ There are **one or two homework assignments per module (depending on the module)
 
 All students are **required to complete one homework check-in** at some point during the course. Due to the course size, we only have time to have every do one of these. The course staff will notify you of a single week during the semester in which you've been scheduled to do your homework check-in. During your scheduled week, you are required to attend any TAs Office Hours and have a (maximum) 10 minute meeting with the TA. The TA will do the following:
 
-- The TA will pull up the most recent homework assignment (you will be told ahead of time which homework this will be regarding), and will choose any question from that assignment randomly. 
+- The TA will pull up one of the most recent homework assignments (you will be told ahead of time which homeworks can be used here), and will choose any question from that assignment randomly. 
 - The TA will ask you to explain the answer you submitted for the randomly chosen question. You will then explain your answer to the TA in as much detail as you are able.
 - The TA will grade your answer on a 4 point scale (see below).
 
